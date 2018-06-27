@@ -11850,7 +11850,7 @@
                <note type="testimonium">
                   <quote>Minores classes singulae Fidem educerunt in scenam, videlicet: Exilium
                      fidei amore a fratribus duobus e Daifuzanae Imperatoris nobili juventute
-                     aulicas ponte susceptum.</quote>
+                     <corr>aulica sponte</corr> susceptum.</quote>
                   <bibl>(LAW Cod. 12128, 1734. 130. v.)</bibl>
                </note>
                <relatedItem>
@@ -17954,7 +17954,7 @@
                </note>
                <note type="sadržaj"> Predstava je izvedena na latinskom jeziku. </note>
                <note type="testimonium">
-                  <quote>Elementaris tres Japonenses fratres in aludum materiam delegit.</quote>
+                  <quote>Elementaris tres Japonenses fratres in <sic>aludum</sic> materiam delegit.</quote>
                   <bibl>(LAW Cod. 12145, 1751. 72. r. - LAP Cod. 118-E-17, 1751. 86. p.)</bibl>
                </note>
                <relatedItem>
@@ -25130,7 +25130,7 @@
                </note>
                <note type="sadržaj"> Predstava je izvedena na latinskom jeziku. </note>
                <note type="testimonium">
-                  <quote>A singulis nulla res in theatro proposita, quin spectator actori pariteret
+                  <quote>A singulis nulla res in theatro proposita, quin spectator actori pariter et
                      auctori applauserit. Praecipuo tamen plausu magistri rhetorices accepta sunt
                      duo drammatia, quorum alterum in aula Praesulis Excellentissimi ipso die, quo
                      idem solenni pompa urbem, ecclesiamque suam ingressus est; alterum dein cum
@@ -25151,7 +25151,7 @@
             <bibl type="drama" xml:id="croala.drama.1771.s.agrikola.vitalis">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv">Mučenistvo sv. Agrikole i njegova sluge Vitalisa</title>
+               <title xml:lang="hrv">Mučeništvo sv. Agrikole i njegova sluge Vitalisa</title>
                <note ana="tema" corresp="kršćanstvo">Sveci;<persName ref="#croala.drama.374432">Sveti Vitalis</persName>
                   i<persName ref="#croala.drama.374435">Agrikola</persName>
                </note>

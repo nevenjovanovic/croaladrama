@@ -1,19 +1,19 @@
-# Croatiae auctores Latini - texts #
+# Records of Latin drama in Croatia #
 
-TEI XML encoded Latin texts from the Croatian auctores Latini collection, freely available under a [CC-BY license](LICENSE.md).
+TEI XML encoded bibliography of performances of Latin drama in regions of modern Croatia, freely available under a [CC-BY license](LICENSE.md).
 
-The files edited here are published as a [PhiloLogic](https://sites.google.com/site/philologic3/) collection [CroALa](croala.ffzg.unizg.hr) (there is a [testing deployment](http://solr.ffzg.hr/philo4/croala0/) under PhiloLogic 4), and as a BaseX XML database (see an introductory analysis in [Quadrata rotundis](http://solr.ffzg.hr/dokuwiki/doku.php/z:crotyr-quadrata) paper).
+The files edited here are published as a [BaseX XML database](http://croala.ffzg.unizg.hr/basex/dramachrono). There are some [facets to explore](http://solr.ffzg.hr/basex/croalabib2/drama). Here is a record for an [individual drama performance](http://solr.ffzg.hr/basex/dramata/croala.drama.d1e38251). Here is the [bibliography](http://solr.ffzg.hr/basex/dramabib) from our main source, a Repertoire of Croatian drama.
 
 This repository exists both in its [Git](https://git-scm.com/book/en/v2) and [Mercurial](http://hgbook.red-bean.com/read/) version.
 
-* Git: on [Github](https://github.com/nevenjovanovic/croatiae-auctores-latini-textus)
-* Mercurial: on [Bitbucket](https://bitbucket.org/nevenjovanovic/croalatxt)
+* Git: on [Github](https://github.com/nevenjovanovic/croaladrama)
+* Mercurial: on [Bitbucket](https://bitbucket.org/nevenjovanovic/croaladrama)
 
 ## Contents ##
 
-* The TEI XML texts are in [txts](/txts) directory
-* The word counts for files are in [croala-wordcounts.xml](croala-wordcounts.xml)
-* The oXygen project file is [croalaproject.xpr](croalaproject.xpr)
+* The TEI XML records are in [data](/data) directory
+* The scripts are in [scripts](/scripts)
+* Documentation and scholarship is in [docs](/docs)
 
 ## How to use ##
 
@@ -36,14 +36,12 @@ Download the files or clone the repository.
 * Go to the Mercurial [croalatxt](https://bitbucket.org/nevenjovanovic/croalatxt) repository on Bitbucket
 * Replicate the data on your computer with [hg clone](https://bitbucket.org/nevenjovanovic/croalatxt#clone)
 
-=======
-TEI XML encoded Latin texts from the Croatian auctores Latini collection, freely available under the [CC-BY license](LICENSE.md).
 
 ### Current state ###
-On 2016-05-15 the collection contains:
+On 2018-06-20 the collection contains:
 
-*  *467* documents
-*  words *5,734,839*
+*  records on *686* performances from the end of 11th century until 1805
+*  a special sub-project on Japan on the Jesuit stage
 
 ### Editor ###
 

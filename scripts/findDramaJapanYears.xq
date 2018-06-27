@@ -12,5 +12,5 @@ order by $year
 return element tr { 
 element td { $year } , 
 element td { for $t in $title return normalize-space($t) } , 
-element td { $placename },
-element td { for $t in $test return normalize-space($t) } }
+element td { $placename }
+(: , element td { for $t in $test return normalize-space($t) } :) }
