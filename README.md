@@ -21,20 +21,20 @@ Download the files or clone the repository.
 
 ### Download the files ###
 
-* From Mercurial repository on Bitbucket: go to [Download repository](https://bitbucket.org/nevenjovanovic/croalatxt/downloads)
-* From Git repository on Github: go to [Releases](https://github.com/nevenjovanovic/croatiae-auctores-latini-textus/releases) and select the most recent one
+* From Mercurial repository on Bitbucket: go to [Download repository](https://bitbucket.org/nevenjovanovic/croaladrama/downloads)
+* From Git repository on Github: go to [Releases](https://github.com/nevenjovanovic/croaladrama/releases) and select the most recent one
 
 ### With Git ###
 
 * [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) (if you don't have it already)
-* Go to the [croatiae-auctores-latini-textus](https://github.com/nevenjovanovic/croatiae-auctores-latini-textus) Github repository
+* Go to the [croaladrama](https://github.com/nevenjovanovic/croaladrama) Github repository
 * Replicate the data on your computer with [git clone](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 
 ### With Mercurial ###
 
 * [Download](https://www.mercurial-scm.org/wiki/Download) and [Install Mercurial](http://hgbook.red-bean.com/read/a-tour-of-mercurial-the-basics.html)
-* Go to the Mercurial [croalatxt](https://bitbucket.org/nevenjovanovic/croalatxt) repository on Bitbucket
-* Replicate the data on your computer with [hg clone](https://bitbucket.org/nevenjovanovic/croalatxt#clone)
+* Go to the Mercurial [croalatxt](https://bitbucket.org/nevenjovanovic/croaladrama) repository on Bitbucket
+* Replicate the data on your computer with [hg clone](https://bitbucket.org/nevenjovanovic/croaladrama#clone)
 
 
 ### Current state ###
