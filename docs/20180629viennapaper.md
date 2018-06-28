@@ -29,7 +29,9 @@ The questions we ask from our data -- queries, in the programmers' jargon -- can
 
 Our database holds records for 686 performances of plays in Latin. The majority of performances took place from 1607 to 1805. Most of the plays were performed in Jesuit colleges, especially in Zagreb (304), Varaždin (175), Rijeka (121), and Požega (69). All these colleges were part of the Jesuit Austrian Province. A more thorough general analysis of the repertoire will be given elsewhere, in Albacete, later this year.
 
-Among the 686 performances, we find 18 (some 2.6 percent) where names of plays suggest that the theme has something to do with Japan. Here we must stress that our knowledge of Japan, of Christianity and Jesuits in Japan, and even of Japan on the Jesuit stage, is rudimentary; we see this conference as a chance to compare our findings with situation elsewhere. In that hope, we are proposing a first list of titles and themes -- some of them obviously distorted by a succession of chroniclers, editors, and compilers -- in the hope that we will find parallels in other parts of the Neo-Latin world.
+Among the 686 performances, we find 18 (some 2.6 percent) where names of plays suggest that the theme has something to do with Japan. 
+
+Here we must stress that our knowledge of Japan, of Christianity and Jesuits in Japan, and even of Japan on the Jesuit stage, is rudimentary; we see this conference as a chance to compare our findings with situation elsewhere. In that hope, we are proposing a first list of titles and themes -- some of them obviously distorted by a succession of chroniclers, editors, and compilers -- in the hope that we will find parallels in other parts of the Neo-Latin world.
 
 The plays on Japan were performed during the 133 years between 1628 and 1761, in four cities, four Jesuit colleges: in Zagreb (established 1606), Varaždin (Jesuits present from 1632, college established 1678), Rijeka (college established 1627), and Požega (established 1698).
 
@@ -71,7 +73,9 @@ Varaždin, 1733: Principia Elementari juncta Ludovicum Nangasachensem de victo G
 
 ## Conclusions
 
-In Croatia, the Jesuit school drama, especially in its Latin variety, has until recently been disregarded as a research subject. The texts were missing, therefore -- the literary scholars concluded -- they were not of any value or interest; they were "just pedagogy". The general historians were more interested in political developments, and had little time for any form of "culture". The Jesuits writing their *Ordensgeschichte* were interested in the order as an institution; its pedagogical activity was duly praised, but it received little actual analysis. When subject matter of the school plays was considered in Croatian history at all, the pride of place went to the "nationalist" or "proto-nationalist" themes -- the nation being, of course, the modern Croatian nation, as it was to be imagined in the 1830s.
+In Croatia, the Jesuit school drama, especially in its Latin variety, has until recently been disregarded as a research subject. The texts were missing, therefore -- the literary scholars concluded -- they were not of any value or interest; they were "just pedagogy". The general historians were more interested in political developments, and had little time for any form of "culture". On the other hand, the Jesuits writing their *Ordensgeschichte* were interested in the order as an institution; its pedagogical activity was duly praised, but it received little actual or critical analysis. 
+
+When subject matter of the school plays was considered in Croatian history at all, the pride of place went to the "nationalist" or "proto-nationalist" themes -- the nation being, of course, the modern Croatian nation, as it was to be imagined in the 1830s.
 
 In our opinion, the Jesuit theatre is important because it offered to virtually all Croatian intellectuals in the 17th and 18th century a chance to perform in front of an audience. Theatre, and experience of performance, was part of the education, and, if we want to understand that past on its own terms, we must try to understand this fact and its implications.
 
