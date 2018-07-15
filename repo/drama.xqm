@@ -21,7 +21,7 @@ let $f := <footer class="footer">
 <h3> </h3>
 <h1 class="text-center"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> Drama Croaticum Latinum</h1>
 <div class="row">
-<div  class="col-md-3">
+<div  class="col-md-9">
 <p class="text-center"><a href="http://www.ffzg.unizg.hr"><img src="/basex/static/gfx/ffzghrlogo.png"/> Filozofski fakultet</a> Sveučilišta u Zagrebu / Facultas philosophica Universitatis Zagrabiensis</p> 
 </div>
 <div  class="col-md-3">
