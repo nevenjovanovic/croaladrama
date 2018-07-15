@@ -1,5 +1,6 @@
 import module namespace rest = "http://exquery.org/ns/restxq";
 import module namespace croala = "http://www.ffzg.unizg.hr/klafil/croala" at "../../repo/croala.xqm";
+import namespace drama = "http://www.ffzg.unizg.hr/klafil/drama" at "../../repo/drama.xqm";
 
 (: croalaDramaStart: landing page for exploring Croatian Latin drama bibliography :)
 
@@ -29,7 +30,7 @@ declare
 
 let $title := "CroALa: drama"
 return
-element html { croala:htmlhead_drama($title) ,
+element html { drama:htmlhead_drama($title) ,
 
 <body text="#000000">
 <div class="header">
