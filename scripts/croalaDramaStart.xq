@@ -1,5 +1,5 @@
 import module namespace rest = "http://exquery.org/ns/restxq";
-import module namespace croala = "http://www.ffzg.unizg.hr/klafil/croala" at "../repo/croala.xqm";
+import module namespace croala = "http://www.ffzg.unizg.hr/klafil/croala" at "../../repo/croala.xqm";
 
 (: croalaDramaStart: landing page for exploring Croatian Latin drama bibliography :)
 
@@ -41,8 +41,9 @@ element html { croala:htmlhead_drama($title) ,
 <div class="jumbotron">
 <h1><span class="glyphicon glyphicon-th" aria-hidden="true"></span> CroALa: drama</h1>
 
-<p><a href="http://www.ffzg.unizg.hr/klafil/croala">CroALa</a>, { current-date() }.</p>
+<p><a href="http://croala.ffzg.unizg.hr">CroALa</a>, { current-date() }.</p>
 <p>Functio nominatur: {rest:uri()}.</p>
+<p>DB: {db:info("croaladrama_db")}</p>
 </div>
 <div class="container-fluid">
 
