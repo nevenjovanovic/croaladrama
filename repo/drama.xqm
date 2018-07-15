@@ -25,7 +25,8 @@ let $f := <footer class="footer">
 <p class="text-center"><a href="http://www.ffzg.unizg.hr"><img src="/basex/static/gfx/ffzghrlogo.png"/> Filozofski fakultet</a> Sveučilišta u Zagrebu / <a href="http://www.ffzg.unizg.hr">Facultas philosophica</a> Universitatis Zagrabiensis</p> 
 </div>
 <div  class="col-md-3">
-<p class="text-center"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <a href="http://croala.ffzg.unizg.hr">Croatiae</a> auctores Latini</p> 
+<p class="text-center"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <a href="http://croala.ffzg.unizg.hr">Croatiae</a> auctores Latini<br/>
+<a href="http://github.com><img src="/basex/static/gfx/GitHub-Mark-32px.png"/></a> Repositorium <a href="https://github.com/nevenjovanovic/croaladrama">Github</a></p> 
 </div>
 </div>
 </div>
