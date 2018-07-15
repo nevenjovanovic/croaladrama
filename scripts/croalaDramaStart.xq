@@ -56,7 +56,7 @@ element html { drama:htmlhead_drama($title) ,
      <p/>
      </div>
 <hr/>
-{ croala:footer() }
+{ drama:footer() }
 </div>
 </body>
 }
