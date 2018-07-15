@@ -1,0 +1,21 @@
+.jumbotron {
+    background-image: url(../../gfx/drama.jpg);
+}
+.footer {
+    background-image: url(../../gfx/drama.jpg);
+}
+
+div.dramainfo note {
+    display:block;
+    font-size: large;
+}
+
+orgName {
+        display:block;
+    font-size: small;
+}
+
+note bibl {
+        display:block;
+    font-size: small;
+}
