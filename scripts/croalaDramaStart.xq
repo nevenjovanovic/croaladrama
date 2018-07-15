@@ -33,12 +33,8 @@ return
 element html { drama:htmlhead_drama($title) ,
 
 <body text="#000000">
-<div class="header">
-    <ul class="nav nav-pills pull-right">
-    </ul>
-    <h3 class="text-muted"> </h3>
-  </div>
-<div class="container">
+
+<div class="container-fluid">
 <div class="jumbotron">
 <h1><span class="glyphicon glyphicon-th" aria-hidden="true"></span> CroALa: drama Croaticum Latinum</h1>
 
