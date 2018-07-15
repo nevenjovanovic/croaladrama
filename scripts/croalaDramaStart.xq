@@ -28,7 +28,7 @@ declare
 {
   (: HTML template starts here :)
 
-let $title := "CroALa: drama"
+let $title := "CroALa: drama Croaticum Latinum"
 return
 element html { drama:htmlhead_drama($title) ,
 
@@ -40,11 +40,12 @@ element html { drama:htmlhead_drama($title) ,
   </div>
 <div class="container">
 <div class="jumbotron">
-<h1><span class="glyphicon glyphicon-th" aria-hidden="true"></span> CroALa: drama</h1>
+<h1><span class="glyphicon glyphicon-th" aria-hidden="true"></span> CroALa: drama Croaticum Latinum</h1>
 
 <p><a href="http://croala.ffzg.unizg.hr">CroALa</a>, { current-date() }.</p>
 <p>Functio nominatur: {rest:uri()}.</p>
-<p>DB: {db:info("croaladrama_db")}</p>
+<p>DB: { data(db:info("croaladrama_db")/*:databaseproperties/(*:name , *:timestamp))
+}</p>
 </div>
 <div class="container-fluid">
 

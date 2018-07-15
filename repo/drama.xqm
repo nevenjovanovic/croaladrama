@@ -14,6 +14,24 @@ declare function drama:htmlhead_drama($title) {
 
 };
 
+(: formatting - footer :)
+declare function drama:footer () {
+let $f := <footer class="footer">
+<div class="container">
+<h3> </h3>
+<h1 class="text-center"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> Drama Croaticum Latinum</h1>
+<div class="row">
+<div  class="col-md-6">
+<p class="text-center"><a href="http://www.ffzg.unizg.hr"><img src="/static/gfx/ffzghrlogo.png"/> Filozofski fakultet</a> Sveučilišta u Zagrebu / Facultas philosophica Universitatis Zagrabiensis</p> 
+</div>
+<div  class="col-md-6">
+<p class="text-center"><a href="http://croala.ffzg.unizg.hr">Croatiae auctores Latini</a></p> 
+</div>
+</div>
+</footer>
+return $f
+};
+
 (: drama functions :)
 
 declare function drama:getbibliolist($collection){
