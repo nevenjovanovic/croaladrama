@@ -22,10 +22,10 @@ let $f := <footer class="footer">
 <h1 class="text-center"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> Drama Croaticum Latinum</h1>
 <div class="row">
 <div  class="col-md-9">
-<p class="text-center"><a href="http://www.ffzg.unizg.hr"><img src="/basex/static/gfx/ffzghrlogo.png"/> Filozofski fakultet</a> Sveučilišta u Zagrebu / Facultas philosophica Universitatis Zagrabiensis</p> 
+<p class="text-center"><a href="http://www.ffzg.unizg.hr"><img src="/basex/static/gfx/ffzghrlogo.png"/> Filozofski fakultet</a> Sveučilišta u Zagrebu / <a href="http://www.ffzg.unizg.hr">Facultas philosophica</a> Universitatis Zagrabiensis</p> 
 </div>
 <div  class="col-md-3">
-<p class="text-center"><a href="http://croala.ffzg.unizg.hr">Croatiae auctores Latini</a></p> 
+<p class="text-center"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <a href="http://croala.ffzg.unizg.hr">Croatiae</a> auctores Latini</p> 
 </div>
 </div>
 </div>
