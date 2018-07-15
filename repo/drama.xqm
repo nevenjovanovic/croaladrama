@@ -28,6 +28,7 @@ let $f := <footer class="footer">
 <p class="text-center"><a href="http://croala.ffzg.unizg.hr">Croatiae auctores Latini</a></p> 
 </div>
 </div>
+</div>
 </footer>
 return $f
 };
