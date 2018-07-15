@@ -26,7 +26,7 @@ let $f := <footer class="footer">
 </div>
 <div  class="col-md-3">
 <p class="text-center"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <a href="http://croala.ffzg.unizg.hr">Croatiae</a> auctores Latini<br/>
-<a href="http://github.com><img src="/basex/static/gfx/GitHub-Mark-32px.png"/></a> Repositorium <a href="https://github.com/nevenjovanovic/croaladrama">Github</a></p> 
+<a href="http://github.com"><img src="/basex/static/gfx/GitHub-Mark-32px.png"/></a> Repositorium <a href="https://github.com/nevenjovanovic/croaladrama">Github</a></p> 
 </div>
 </div>
 </div>
