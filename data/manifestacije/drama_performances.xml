@@ -39,6 +39,9 @@
       <revisionDesc>
          <change>
             <name>Neven Jovanović</name>
+            <date>2018-07-16</date> Revision: update secondary bibliography.</change>
+         <change>
+            <name>Neven Jovanović</name>
             <date>2018-06-20</date> Revision: add data on Japan plays.</change>
          <change>
             <name>Neven Jovanović</name>
@@ -52,6 +55,7 @@
    <text>
       <body>
          <listBibl type="croala.drama.sekundarna">
+            <bibl xml:id="petranovicljubic">Martina Petranović and Lucija Ljubić (<date>2012</date>), Repertoar hrvatskih kazališta : Knjiga peta : Deskriptivna obrada važnijih predstava na hrvatskom jeziku i izvedbi na stranim jezicima hrvatskih izvođača do 1840. godine. Zagreb</bibl>
             <bibl xml:id="takács">Takács, József (<date>1937</date>), A jezsuita iskoladráma /1581-1773/. 2. köt. Budapest</bibl>
             <bibl xml:id="staud">Staud, Géza (<date>1988</date>), A magyarországi jezsuita iskolai színjátékok forrásai, III. : 1561-1773, Fontes ludorum scenicorum in scholis S. J. Hungariae, pars tertia,
                 ([Bp.] : MTA Soksz.), a Magyar Tudományos Akadémia Könyvtárának kiadása</bibl>
@@ -1216,6 +1220,7 @@
                Split</bibl>
             <bibl xml:id="pavličić2008">Pavličić, Pavao (<date>2008</date>), vidi: Leksikon hrvatske
                književnosti. Djela. Ur. Dunja Detoni Dujmić et al. Školska knjiga. Zagreb</bibl>
+            <bibl xml:id="pavlovic2016">Pavlović, Cvijeta (<date>2016</date>) Publika i repertoar hrvatskih kazališta 1701.-1800. Dani Hvarskoga kazališta. Publika i kritika, ur. Boris Senker i Vinka Glunčić-Bužančić. Hrvatska akademija znanosti i umjetnosti. Zagreb – Split. str. 5-27., ISBN 978-953-163-428-1.</bibl>
             <bibl xml:id="pavlović1955">Pavlović, Dragoljub (<date>1955</date>), Iz književne i kulturne istorije
                Dubrovnika. Svjetlost. Split</bibl>
             <bibl xml:id="pavlović1971">Pavlović, Dragoljub (<date>1971</date>), Starija jugoslovenska
@@ -2403,7 +2408,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e3634">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat">Panegiricae salutationes aliaque emblemata symbolica Bendicti
+               <title xml:lang="lat">Panegiricae salutationes aliaque emblemata symbolica <sic>Bendicti</sic>
                   Thuroczi heroicae virtutes</title>
                <title xml:lang="hrv">Panegirički pozdrav i simbolički prizori u čast novome
                   potkralju Benku Turociju</title>
@@ -2819,7 +2824,7 @@
                      gratulatae sunt vario symbolorum apparatu. Inter poeticae fictionis ludicra
                      plausum tulit Mantua civitas, quae habitu Nympharum splendidissime amicta, et
                      Orphei fidibus carmen modulans earum rerum amplitudine, quas comes gesserat
-                     earumque landum gloria, quas idem Heros domi militiae que jam olim meruerat,
+                     earumque <corr resp="#NJ">laudum</corr> gloria, quas idem Heros domi militiae que jam olim meruerat,
                      excitam se adesse ut virtutem premio decoret, occinebat. Ad cujus citharae
                      sonitum excitae postea Arces Erdödyanae amplaque ejusdem ditionis domina eodem
                      habitu prodibant, et officiosa praecinentis Nymphae mendacia dicere volebant
@@ -10033,7 +10038,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e19868">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat">Clementia de tyranide victrix</title>
+               <title xml:lang="lat">Clementia de <sic>tyranide</sic> victrix</title>
                <title xml:lang="lat" resp="#staud">Clementia de tyrannide victrix</title>
                <title xml:lang="hrv"/>
                <note ana="tema" corresp="povijest">Rim; vladari; Pupijen ubija Maksimina;
@@ -11284,7 +11289,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1732.d.vladimirus">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat">Princeps pro populo victima sive D(ivus) Vladimirus, Podgoriae
+               <title xml:lang="lat">Princeps pro populo victima sive <expan>Divus</expan> Vladimirus, Podgoriae
                   rex et martyr</title>
                <title resp="#staud" xml:lang="lat">DIVUS VLADIMIRUS PODGORIAE REX ET MARTYR</title>
                <title xml:lang="hrv">Vladar žrtva za narod ili sv. Vladimir, kralj podgorski i
@@ -24840,7 +24845,7 @@
             <bibl type="drama" xml:id="croala.drama.1770.sveta.pelagija">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat">Tragoedia Sanctae Pelagiae, virginis Tarsensis et
-                  matryris</title>
+                  <corr resp="#NJ">martyris</corr></title>
                <title xml:lang="hrv">Sveta Pelagija, djevica i mučenica iz Tarza</title>
                <note ana="tema" corresp="kršćanstvo">Sveci; legende;<persName ref="#croala.drama.373649">Sveta Pelagija iz
                      Tarsa</persName>
