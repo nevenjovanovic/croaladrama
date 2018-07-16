@@ -131,12 +131,11 @@ declare function drama:getbibliolist($collection){
      
   }
   }
-  else (
+  else 
   element tr {
       element td { data($title/*:date) },
     element td { data($title) },
     element td { $refcount }
-  )
 }
 
 }
