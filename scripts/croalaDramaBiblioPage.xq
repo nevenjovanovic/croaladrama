@@ -35,7 +35,7 @@ element html { drama:htmlhead-tablesorter-server($title) ,
     <h1><span class="glyphicon glyphicon-th" aria-hidden="true"></span><span> </span> { $title } </h1>
     <div class="container-fluid">
       <div class="col-md-6 datum">
-      <p><a href="http://croala.ffzg.unizg.hr/intro">CroALa</a>, { current-date() }.</p>
+      <p><a href="http://croala.ffzg.unizg.hr">CroALa</a>, { current-date() }.</p>
       <p>Functionis indiculus: <tt>{rest:uri()}</tt>.</p>
       </div>
       <div class="col-md-6 dbinfo">
