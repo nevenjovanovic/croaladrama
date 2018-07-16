@@ -138,7 +138,6 @@ declare function drama:getbibliolist($collection){
     element td { $refcount }
 }
 
-}
 };
 
 declare function drama:getbiblioref($biblioref){ 
