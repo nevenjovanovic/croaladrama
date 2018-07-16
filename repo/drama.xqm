@@ -137,11 +137,12 @@ declare function drama:getbibliolist($collection){
     element td { data($title) },
     element td { $refcount }
 }
-
+}
+}
 };
 
 declare function drama:getbiblioref($biblioref){ 
-for $dramaref in collection('croalabib')//*:listBibl[@type='croala.drama']/*:bibl[*:relatedItem/*:listBibl/*:bibl/@corresp= $biblioref]
+for $dramaref in collection("croaladrama_db")//*:listBibl[@type='croala.drama']/*:bibl[*:relatedItem/*:listBibl/*:bibl/@corresp= $biblioref]
 return element tr {
 element td { $dramaref/@xml:id , $dramaref/*:title[1], $dramaref/*:date[1] , $dramaref/*:placeName[1] } 
 }
@@ -153,7 +154,7 @@ declare function drama:biblioref-listd($refid) {
   return element thead {
     element tr {
       element td { $refid1 , 
-      element p { collection('croalabib')//*:bibl[@xml:id=$refid1] } }
+      element p { collection("croaladrama_db")//*:bibl[@xml:id=$refid1] } }
     }
   },
   element tbody {
