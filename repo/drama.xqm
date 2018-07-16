@@ -34,6 +34,70 @@ let $f := <footer class="footer">
 return $f
 };
 
+declare function drama:htmlhead-tablesorter($title) {
+  (: return html template to be filled with title :)
+  (: title should be declared as variable in xq :)
+(: call scripts tablesorter, sugar :)
+<head><title> { $title } </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="icon" href="/static/gfx/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="/static/dist/css/bootstrap.min.css"/>
+<link rel="stylesheet" type="text/css" href="/static/dist/css/basexc.css"/>
+<link rel="stylesheet" type="text/css" href="/static/dist/css/drama.css"/>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="/static/dist/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/sugar/1.4.1/sugar.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.23.5/js/jquery.tablesorter.min.js"></script>
+</head>
+
+};
+
+(: the same, for server / basex :)
+declare function drama:htmlhead-tablesorter-server($title) {
+  (: return html template to be filled with title :)
+  (: title should be declared as variable in xq :)
+(: call scripts tablesorter, sugar :)
+<head><title> { $title } </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="icon" href="/basex/static/gfx/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="/basex/static/dist/css/bootstrap.min.css"/>
+<link rel="stylesheet" type="text/css" href="/basex/static/dist/css/basexc.css"/>
+<link rel="stylesheet" type="text/css" href="/basex/static/dist/css/drama.css"/>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/sugar/1.4.1/sugar.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.23.5/js/jquery.tablesorter.min.js"></script>
+</head>
+
+};
+
+(: script for tablesorter, Croatian sorting order :)
+declare function drama:tablescript () {
+  let $script := element script {
+    "
+    $(function() {
+  // define sugar.js Croatian sort order
+  Array.AlphanumericSortOrder = 'AaBbCcČčĆćDdÐđEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsŠšTtUuVvWwZzŽžXxYy';
+  Array.AlphanumericSortIgnoreCase = true;
+  // see https://github.com/andrewplummer/Sugar/issues/382#issuecomment-41526957
+  Array.AlphanumericSortEquivalents = {};
+  
+  $('table').tablesorter({
+    theme : 'blue',
+    // table = table object; get config options from table.config
+    // column is the column index (zero-based)
+    ignoreCase : false,
+    textSorter : {
+      1 : Array.AlphanumericSort,     // alphanumeric sort from sugar (http://sugarjs.com/arrays#sorting)
+      
+    }
+  });
+});
+    "
+    }
+    return $script
+};
+
+
 (: drama functions :)
 
 declare function drama:getbibliolist($collection){
