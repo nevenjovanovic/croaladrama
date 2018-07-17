@@ -46,7 +46,12 @@ element html { drama:htmlhead_drama($title) ,
 <div class="container-fluid">
 
 <blockquote class="croala">
-    
+   
+   <h1>Chronologice</h1>
+   <h1>Tituli</h1>
+   <h1>Loca</h1>
+   <h1>Thematice</h1>
+   <h1>Fontes et alia opera docta</h1>
     
 </blockquote>
      <p/>
