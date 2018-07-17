@@ -14,7 +14,8 @@ declare option output:omit-xml-declaration "no";
 declare option output:media-type "text/html";
 declare option output:method "html";
 
-
+declare variable $title := "CroALa: drama Croaticum Latinum";
+declare variable $collection := "croaladrama_db";
 
 (:~
  : This function returns an XML response message.
@@ -28,33 +29,30 @@ declare
 {
   (: HTML template starts here :)
 
-let $title := "CroALa: drama Croaticum Latinum"
-return
 element html { drama:htmlhead_drama($title) ,
 
 <body text="#000000">
-
-<div class="container-fluid">
 <div class="jumbotron">
 <h1><span class="glyphicon glyphicon-th" aria-hidden="true"></span> CroALa: drama Croaticum Latinum</h1>
 
-<p><a href="http://croala.ffzg.unizg.hr">CroALa</a>, { current-date() }.</p>
-<p>Functio nominatur: {rest:uri()}.</p>
-<p>DB: { data(db:info("croaladrama_db")/*:databaseproperties/(*:name , *:timestamp))
-}</p>
+<div class="container-fluid">
+      <div class="col-md-6 datum">
+      <p><a href="http://croala.ffzg.unizg.hr">CroALa</a>, { current-date() }.</p>
+      <p>Functionis indiculus: <tt>{rest:uri()}</tt>.</p>
+      </div>
+      <div class="col-md-6 dbinfo">
+        {croala:infodb($collection)}
+      </div>
+     </div>
 </div>
 <div class="container-fluid">
-
-<blockquote class="croala">
    
    <h1>Chronologice</h1>
    <h1>Tituli</h1>
    <h1>Loca</h1>
    <h1>Thematice</h1>
    <h1>Fontes et alia opera docta</h1>
-    
-</blockquote>
-     <p/>
+   
      </div>
 <hr/>
 { drama:footer() }

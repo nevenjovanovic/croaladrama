@@ -42,7 +42,7 @@ element html { drama:htmlhead-tablesorter-server($title) ,
       <p>Ut ordinem mutes, rubricam mutandam preme.</p>
       </div>
       <div class="col-md-6 dbinfo">
-        {croala:infodb("croaladrama_db")}
+        {croala:infodb($collection)}
       </div>
      </div>
   </div>
