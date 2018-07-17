@@ -33,7 +33,7 @@ element html { drama:htmlhead_drama($title) ,
 
 <body text="#000000">
 <div class="jumbotron">
-<h1><span class="glyphicon glyphicon-th" aria-hidden="true"></span> CroALa: drama Croaticum Latinum</h1>
+<h1><span class="glyphicon glyphicon-th" aria-hidden="true"></span> { element span {$title} }</h1>
 
 <div class="container-fluid">
       <div class="col-md-6 datum">
@@ -51,7 +51,12 @@ element html { drama:htmlhead_drama($title) ,
    <h1>Tituli</h1>
    <h1>Loca</h1>
    <h1>Thematice</h1>
-   <h1>Fontes et alia opera docta</h1>
+   { element h1 {
+     element a { 
+     attribute href { "http://croala.ffzg.unizg.hr/basex/dramabib" } , 
+     "Fontes et alia opera docta"
+   }
+ } }
    
      </div>
 <hr/>
