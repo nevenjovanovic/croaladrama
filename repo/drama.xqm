@@ -100,6 +100,10 @@ declare function drama:tablescript () {
 
 (: drama functions :)
 
+declare function drama:countbibentries($collection){
+element p { "Notarum bibliographicarum " || count(collection($collection)//*:listBibl[@type='croala.drama.sekundarna']/*:bibl) || "." }
+};
+
 declare function drama:getbibliolist($collection){
   let $bibliogr := collection($collection)//*:listBibl[@type='croala.drama.sekundarna']
   return element table { 

@@ -15,6 +15,7 @@ declare option output:media-type "text/html";
 declare option output:method "xhtml";
 
 declare variable $title := "CroALaBib dramata: opera docta";
+declare variable $collection := "croaladrama_db";
 
 (:~
  : This function returns an XML response message.
@@ -38,13 +39,16 @@ element html { drama:htmlhead-tablesorter-server($title) ,
       <p><a href="http://croala.ffzg.unizg.hr">CroALa</a>, { current-date() }.</p>
       <p>Functionis indiculus: <tt>{rest:uri()}</tt>.</p>
       </div>
+       <div class="col-md-6 dbinfo">
+        { drama:countbibentries($collection) }
+      </div>
       <div class="col-md-6 dbinfo">
         {croala:infodb("croaladrama_db")}
       </div>
      </div>
   </div>
 <!-- insert function call here -->
-{ drama:getbibliolist("croaladrama_db") }
+{ drama:getbibliolist($collection) }
 
 <hr/>
 { drama:footer() }
