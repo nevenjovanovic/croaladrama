@@ -39,6 +39,7 @@ element html { drama:htmlhead-tablesorter-server($title) ,
       <p><a href="http://croala.ffzg.unizg.hr">CroALa</a>, { current-date() }.</p>
       <p>Functionis indiculus: <tt>{rest:uri()}</tt>.</p>
       { drama:countbibentries($collection) }
+      <p>Ut ordinem mutes, rubricam mutandam preme.</p>
       </div>
       <div class="col-md-6 dbinfo">
         {croala:infodb("croaladrama_db")}
