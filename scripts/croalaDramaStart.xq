@@ -52,6 +52,18 @@ element html { drama:htmlhead_drama($title) ,
    element a {
      attribute href {"http://croala.ffzg.unizg.hr/basex/dramachrono2"} , "Chronologice" }
       } }
+      
+      { 
+  let $map :=
+map:merge(
+for $p in drama:dramachrono3($collection)
+let $d := $p
+group by $d
+return 
+  map:entry( substring-before($d, "xx"), count($p) )
+)
+return drama:tablesaeculum($map)  
+  }
    <h1>Tituli</h1>
    <h1>Loca</h1>
    <h1>Thematice</h1>

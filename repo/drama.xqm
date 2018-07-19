@@ -171,6 +171,35 @@ declare function drama:biblioref-listd($refid) {
 }
 };
 
+(: report count of play records for century:)
+
+declare function drama:dramachrono3($collection) {
+  for $d in collection($collection)//*:listBibl[@type='croala.drama']/*:bibl/*:date[@period]
+order by $d/@period , $d/@when
+return substring-before($d/@period, "_")};
+
+declare function drama:tablesaeculum($result){
+  element table { 
+  element thead {
+    element tr {
+      element td {"Saeculum"}
+    }
+  } ,
+  element tbody {
+  element tr {
+    map:for-each(
+  $result,
+  function($key,$value){element td { "Saeculum " || $key || ": "
+ , element a { 
+ attribute href {"http://croala.ffzg.unizg.hr/basex/dramachrono/" || $key } ,
+    $value } }
+  }
+)
+  }
+}
+  }
+};
+
 (: return chronological list of plays as divs :)
 declare function drama:dramachrono($collection) {
   for $d in collection($collection)//*:listBibl[@type='croala.drama']/*:bibl/*:date[@period]
