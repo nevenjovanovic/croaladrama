@@ -174,9 +174,9 @@ declare function drama:biblioref-listd($refid) {
 (: report count of play records for century:)
 
 declare function drama:dramachrono3($collection) {
-  for $d in collection($collection)//*:listBibl[@type='croala.drama']/*:bibl[*:date[1]/@period]
-order by $d/*:date/@period , $d/*:date/@when
-return substring-before($d/*:date/@period, "_")};
+  for $d in collection($collection)//*:listBibl[@type='croala.drama']/*:bibl[*:date/@period]
+order by $d/*:date[1]/@period , $d/*:date[1]/@when
+return substring-before($d/*:date[1]/@period, "_")};
 
 declare function drama:tablesaeculum($result){
   element table { 
