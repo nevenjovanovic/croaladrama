@@ -54,8 +54,7 @@ element html { drama:htmlhead_drama($title) ,
       <div class="col-md-6 datum">
       <p><a href="http://croala.ffzg.unizg.hr">CroALa</a>, { current-date() }.</p>
       <p>Functionis indiculus: <tt>{rest:uri()}</tt>.</p>
-      { drama:countbibentries($collection) }
-      <p>Ut ordinem mutes, rubricam mutandam preme.</p>
+      { drama:countplayentries($collection) }
       </div>
       <div class="col-md-6 dbinfo">
         {croala:infodb($collection)}
