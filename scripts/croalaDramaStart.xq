@@ -48,7 +48,11 @@ element html { drama:htmlhead_drama($title) ,
 </div>
 <div class="container-fluid">
    
-   { element h1 { 
+   { element h1 {
+     element span {
+       attribute class { "glyphicon glyphicon-education" },
+       attribute aria-hidden { "true" }
+       } , 
    element a {
      attribute href {"http://croala.ffzg.unizg.hr/basex/dramachrono2"} , "Chronologice" }
       } }
@@ -68,6 +72,10 @@ return drama:tablesaeculum($map)
    <h1><span class="glyphicon glyphicon-education" aria-hidden="true"></span> Loca</h1>
    <h1><span class="glyphicon glyphicon-education" aria-hidden="true"></span> Thematice</h1>
    { element h1 {
+      element span {
+       attribute class { "glyphicon glyphicon-education" },
+       attribute aria-hidden { "true" }
+       } , 
      element a { 
      attribute href { "http://croala.ffzg.unizg.hr/basex/dramabib" } , 
      "Fontes et alia opera docta"
