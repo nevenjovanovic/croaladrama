@@ -66,7 +66,6 @@ element html { drama:htmlhead_drama($title) ,
      </div>
 <hr/>
 { drama:footer() }
-</div>
     </body>
 }
 };
