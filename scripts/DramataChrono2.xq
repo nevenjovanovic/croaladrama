@@ -1,12 +1,21 @@
+import module namespace rest = "http://exquery.org/ns/restxq";
+import module namespace croala = "http://www.ffzg.unizg.hr/klafil/croala" at "../../repo/croala.xqm";
+import module namespace drama = "http://www.ffzg.unizg.hr/klafil/drama" at "../../repo/drama.xqm";
+
 (:~
  : Return list of plays chronologically
  : version 2, for croaladrama_db
  : @author Neven Jovanović
  :)
-import module namespace croala = "http://www.ffzg.unizg.hr/klafil/croala" at "../../repo/croala.xqm";
-import module namespace drama = "http://www.ffzg.unizg.hr/klafil/drama" at "../../repo/drama.xqm";
-
 declare namespace page = 'http://basex.org/examples/web-page';
+declare namespace tei = "http://www.tei-c.org/ns/1.0";
+
+declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
+declare option output:doctype-system  "http://www.w3.org/TR/html4/loose.dtd";
+declare option output:doctype-public "-//W3C//DTD HTML 4.01 Transitional//EN";
+declare option output:omit-xml-declaration "no";
+declare option output:media-type "text/html";
+declare option output:method "xhtml";
 
 declare variable $title := "CroALa dramata: chronologice";
 declare variable $collection := "croaladrama_db";
