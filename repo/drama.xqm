@@ -168,8 +168,8 @@ declare function drama:biblioref-listd($refid) {
 };
 
 (: return chronological list of plays as divs :)
-declare function drama:dramachrono() {
-  for $d in collection("croaladrama")//*:listBibl[@type='croala.drama']/*:bibl/*:date[@period]
+declare function drama:dramachrono($collection) {
+  for $d in collection($collection)//*:listBibl[@type='croala.drama']/*:bibl/*:date[@period]
 order by $d/@period , $d/@when
 let $zapis := $d/..
 let $naslov := $d/../*:title[1]

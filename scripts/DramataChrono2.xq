@@ -58,7 +58,7 @@ element html { drama:htmlhead_drama($title) ,
       <div class="container-fluid col-xs-8 col-md-offset-1">
       <h1>Dramata chronologice</h1>
  {
-   drama:dramachrono()
+   drama:dramachrono($collection)
  }
  
 </div>
