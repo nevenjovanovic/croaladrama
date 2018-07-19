@@ -64,9 +64,9 @@ return
 )
 return drama:tablesaeculum($map)  
   }
-   <h1>Tituli</h1>
-   <h1>Loca</h1>
-   <h1>Thematice</h1>
+   <h1><span class="glyphicon glyphicon-education" aria-hidden="true"></span> Tituli</h1>
+   <h1><span class="glyphicon glyphicon-education" aria-hidden="true"></span> Loca</h1>
+   <h1><span class="glyphicon glyphicon-education" aria-hidden="true"></span> Thematice</h1>
    { element h1 {
      element a { 
      attribute href { "http://croala.ffzg.unizg.hr/basex/dramabib" } , 
