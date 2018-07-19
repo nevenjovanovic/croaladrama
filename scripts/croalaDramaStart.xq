@@ -47,7 +47,10 @@ element html { drama:htmlhead_drama($title) ,
 </div>
 <div class="container-fluid">
    
-   <h1>Chronologice</h1>
+   { element h1 { 
+   element a {
+     attribute href {"http://croala.ffzg.unizg.hr/basex/dramachrono2"} , "Chronologice" }
+      } }
    <h1>Tituli</h1>
    <h1>Loca</h1>
    <h1>Thematice</h1>
