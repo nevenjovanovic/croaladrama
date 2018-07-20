@@ -47,7 +47,6 @@ declare
 
 element html { drama:htmlhead_drama($title) ,
     <body>
-<div class="container-fluid">
 <div class="jumbotron">
     <h1><span class="glyphicon glyphicon-th" aria-hidden="true"></span><span> </span> { $title } </h1>
     <div class="container-fluid">
@@ -71,7 +70,6 @@ element html { drama:htmlhead_drama($title) ,
  
 </div>
 </blockquote>
-     </div>
 <hr/>
 { drama:footer() }
     </body>
