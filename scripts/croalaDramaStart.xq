@@ -55,7 +55,7 @@ element html { drama:htmlhead_drama($title) ,
        } , 
    element a {
      attribute href {"http://croala.ffzg.unizg.hr/basex/dramachrono2"} , "Chronologice" }
-      } }
+      "(omnia)"} }
       
       { 
   let $map :=

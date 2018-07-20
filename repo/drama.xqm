@@ -176,13 +176,14 @@ declare function drama:biblioref-listd($refid) {
 declare function drama:dramachrono3($collection) {
   for $d in collection($collection)//*:listBibl[@type='croala.drama']/*:bibl[*:date/@period]
 order by $d/*:date[1]/@period , $d/*:date[1]/@when
-return substring-before($d/*:date[1]/@period, "_")};
+return substring-before($d/*:date[1]/@period, "_")
+};
 
 declare function drama:tablesaeculum($result){
   element table { 
   element thead {
     element tr {
-      element td {"Saecula"},
+      element td {"Per saecula"},
       element td { },
       element td { },
       element td { },
@@ -255,5 +256,7 @@ return element div {
 
 (: return all plays for a given century :)
 declare function drama:dramachronosaec($collection, $saec) {
-  ($collection, $saec)
+  for $d in collection($collection)//*:listBibl[@type='croala.drama']/*:bibl[*:date[starts-with(@period,$saec)]]
+order by $d/*:date[1]/@period , $d/*:date[1]/@when
+return $d
 };
