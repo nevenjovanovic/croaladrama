@@ -54,8 +54,8 @@ element html { drama:htmlhead_drama($title) ,
        attribute aria-hidden { "true" }
        } , 
    element a {
-     attribute href {"http://croala.ffzg.unizg.hr/basex/dramachrono2"} , "Chronologice" }
-      "(omnia)"} }
+     attribute href {"http://croala.ffzg.unizg.hr/basex/dramachrono2"} , "Chronologice" },
+      " (omnia)"} }
       
       { 
   let $map :=
