@@ -62,13 +62,10 @@ element html { drama:htmlhead_drama($title) ,
   </div>
 <div class="container-fluid">  
 <blockquote class="croala">
-      <div class="container-fluid col-xs-8 col-md-offset-1">
       <h1>Dramata alphabetice</h1>
  {
    drama:dramatituli($collection)
  }
- 
-</div>
 </blockquote>
 </div>
 <hr/>
