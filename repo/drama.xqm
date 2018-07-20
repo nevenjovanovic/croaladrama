@@ -263,21 +263,36 @@ return $d
 
 (: return list of plays alphabetically by title :)
 declare function drama:dramatituli($collection) {
-  drama:titletable("Titulus", "Annus", "Nota")
+  drama:titletable($collection , "Titulus", "Annus", "Nota", "Locus")
 };
 
-declare function drama:titletable($col1, $col2, $col3){
+declare function drama:titletable($collection, $col1, $col2, $col3, $col4){
   element table { 
   attribute class {"tablesorter"},
   element thead {
     element tr {
       element td {$col1},
       element td {$col2},
-      element td {$col3}
+      element td {$col3},
+      element td {$col4}
     }
   } ,
   element tbody { 
-  
+  drama:dramaABC($collection)
 }
+}
+};
+
+(: return alphabetical list of plays as divs :)
+declare function drama:dramaABC($collection) {
+  for $d in collection($collection)//*:listBibl[@type="croala.drama"]/*:bibl
+  let $placeholder := "TITULUS IGNORATUR"
+  let $naslov := if ($d/*:title[1]/string()) then $d/*:title[1] else $placeholder
+  order by $naslov
+return element tr {
+  element td { $naslov } ,
+  element td { $d/*:author } ,
+  element td { $d/*[not(name()=("author", "title"))] },
+  element td { $d/*:placeName }
 }
 };
