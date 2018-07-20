@@ -260,3 +260,8 @@ declare function drama:dramachronosaec($collection, $saec) {
 order by $d/*:date[1]/@period , $d/*:date[1]/@when
 return $d
 };
+
+(: return list of plays alphabetically by title :)
+declare function drama:dramatituli($collection) {
+  
+};
