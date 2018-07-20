@@ -287,7 +287,7 @@ declare function drama:titletable($collection, $col1, $col2, $col3, $col4){
 declare function drama:dramaABC($collection) {
   for $d in collection($collection)//*:listBibl[@type="croala.drama"]/*:bibl
   let $placeholder := "TITULUS IGNORATUR"
-  let $naslov := if ($d/*:title[1]/string()) then $d/*:title[1] else $placeholder
+  let $naslov := if ($d/*:title[1]/string()) then $d/*:title else $placeholder
   order by $naslov
 return element tr {
   element td { $naslov } ,
