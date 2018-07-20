@@ -55,7 +55,7 @@ element html { drama:htmlhead_drama($title) ,
        } , 
    element a {
      attribute href {"http://croala.ffzg.unizg.hr/basex/dramachrono2"} , "Chronologice" },
-      " (omnia)"} }
+      " (omnia)"} } 
       
       { 
   let $map :=
@@ -67,8 +67,8 @@ return
   map:entry( substring-before($d, "xx"), count($p) )
 )
 return drama:tablesaeculum($map)  
-  } , 
-   element h1 {
+  } 
+   { element h1 {
      element span {
        attribute class { "glyphicon glyphicon-education" },
        attribute aria-hidden { "true" }
@@ -76,6 +76,7 @@ return drama:tablesaeculum($map)
    element a {
      attribute href {"http://croala.ffzg.unizg.hr/basex/dramatituli"} , "Tituli" },
       " (omnes alphabetice)"} }
+    }
    <h1><span class="glyphicon glyphicon-education" aria-hidden="true"></span> Loca</h1>
    <h1><span class="glyphicon glyphicon-education" aria-hidden="true"></span> Thematice</h1>
    { element h1 {
