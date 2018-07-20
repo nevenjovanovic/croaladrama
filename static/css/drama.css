@@ -28,10 +28,10 @@ td > author {
   display: block;
 }
 
-td corr {
+title > corr {
   color: #c7254e;
 }
 
-td name {
+title > name {
   color: #F2FAF8;
 }
