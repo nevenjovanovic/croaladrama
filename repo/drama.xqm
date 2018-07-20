@@ -293,6 +293,9 @@ return element tr {
   element td { for $n in $naslov return $n } ,
   element td { $d/*:date/@when/string() } ,
   element td { $d/*[not(name()=("date", "title"))] },
-  element td { $d/*:placeName }
+  element td { element a { 
+  attribute href { "http://www.geonames.org/" || $d/*:placeName/@ref },
+  $d/*:placeName
+} }
 }
 };
