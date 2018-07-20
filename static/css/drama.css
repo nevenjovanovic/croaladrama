@@ -19,3 +19,11 @@ note bibl {
         display:block;
     font-size: small;
 }
+
+td > author {
+  font-size: 90%;
+  color: #c7254e;
+  background-color: #f9f2f4;
+  border-radius: 4px;
+  display: block;
+}
