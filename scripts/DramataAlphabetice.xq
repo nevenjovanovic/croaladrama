@@ -60,7 +60,7 @@ element html { drama:htmlhead_drama($title) ,
       </div>
      </div>
   </div>
-  
+<div class="container-fluid">  
 <blockquote class="croala">
       <div class="container-fluid col-xs-8 col-md-offset-1">
       <h1>Dramata alphabetice</h1>
@@ -70,10 +70,10 @@ element html { drama:htmlhead_drama($title) ,
  
 </div>
 </blockquote>
-<hr/>
-<div class="container-fluid">
-{ drama:footer() }
 </div>
+<hr/>
+
+{ drama:footer() }
     </body>
 }
 };
