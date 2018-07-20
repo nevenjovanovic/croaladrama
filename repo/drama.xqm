@@ -194,7 +194,7 @@ declare function drama:tablesaeculum($result){
   element tr {
     map:for-each(
   $result,
-  function($key,$value){element td { "Saeculum " || $key || ": "
+  function($key,$value){element td { "Saeculum " || number($key) + 1 || ": "
  , element a { 
  attribute href {"http://croala.ffzg.unizg.hr/basex/dramachrono/" || $key } ,
     $value } }
