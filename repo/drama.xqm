@@ -291,8 +291,8 @@ declare function drama:dramaABC($collection) {
   order by $naslov
 return element tr {
   element td { $naslov } ,
-  element td { $d/*:author } ,
-  element td { $d/*[not(name()=("author", "title"))] },
+  element td { $d/*:date } ,
+  element td { $d/*[not(name()=("date", "title"))] },
   element td { $d/*:placeName }
 }
 };
