@@ -27,3 +27,11 @@ td > author {
   border-radius: 4px;
   display: block;
 }
+
+td corr {
+  color: #c7254e;
+}
+
+td name {
+  color: #F2FAF8;
+}
