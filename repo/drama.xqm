@@ -263,5 +263,21 @@ return $d
 
 (: return list of plays alphabetically by title :)
 declare function drama:dramatituli($collection) {
+  drama:titletable("Titulus", "Annus", "Nota")
+};
+
+declare function drama:titletable($col1, $col2, $col3){
+  element table { 
+  attribute class {"tablesorter"},
+  element thead {
+    element tr {
+      element td {$col1},
+      element td {$col2},
+      element td {$col3}
+    }
+  } ,
+  element tbody { 
   
+}
+}
 };
