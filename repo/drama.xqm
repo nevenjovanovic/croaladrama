@@ -252,3 +252,8 @@ return element div {
 
 }
 };
+
+(: return all plays for a given century :)
+declare function drama:dramachronosaec($collection, $saec) {
+  ($collection, $saec)
+};
