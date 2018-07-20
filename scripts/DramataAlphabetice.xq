@@ -71,7 +71,9 @@ element html { drama:htmlhead_drama($title) ,
 </div>
 </blockquote>
 <hr/>
+<div class="container-fluid">
 { drama:footer() }
+</div>
     </body>
 }
 };
