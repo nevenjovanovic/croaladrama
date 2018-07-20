@@ -290,7 +290,7 @@ declare function drama:dramaABC($collection) {
   let $naslov := if ($d/*:title[1]/string()) then $d/*:title else $placeholder
   order by $naslov
 return element tr {
-  element td { $naslov } ,
+  element td { for $n in $naslov return $n } ,
   element td { $d/*:date } ,
   element td { $d/*[not(name()=("date", "title"))] },
   element td { $d/*:placeName }
