@@ -65,7 +65,7 @@ element html { drama:htmlhead_drama($title) ,
   
 <blockquote class="croala">
       <div class="container-fluid col-xs-8 col-md-offset-1">
-      <h1>Dramata in saeculo { xs:num($saec) + 1 }</h1>
+      <h1>Dramata in saeculo { number($saec) + 1 }</h1>
  {
    drama:dramachronosaec($collection, $saec)
  }
