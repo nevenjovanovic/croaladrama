@@ -20,6 +20,10 @@ note bibl {
     font-size: small;
 }
 
+td > note {
+	display: block;
+	}
+
 td > author {
   font-size: 1.2em;
   color: #c7254e;
@@ -28,10 +32,4 @@ td > author {
   display: block;
 }
 
-title > corr {
-  color: #c7254e;
-}
 
-title > name {
-  color: #F2FAF8;
-}
