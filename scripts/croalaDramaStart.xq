@@ -67,7 +67,7 @@ return
   map:entry( substring-before($d, "xx"), count($p) )
 )
 return drama:tablesaeculum($map)  
-  }
+  } , 
    element h1 {
      element span {
        attribute class { "glyphicon glyphicon-education" },
