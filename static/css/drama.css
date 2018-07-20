@@ -21,9 +21,9 @@ note bibl {
 }
 
 td > author {
-  font-size: 90%;
+  font-size: 1.2em;
   color: #c7254e;
-  background-color: #f9f2f4;
+  background-color: #F2FAF8;
   border-radius: 4px;
   display: block;
 }
