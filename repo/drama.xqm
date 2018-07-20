@@ -288,7 +288,7 @@ declare function drama:dramaABC($collection) {
   for $d in collection($collection)//*:listBibl[@type="croala.drama"]/*:bibl
   let $placeholder := "TITULUS IGNORATUR"
   let $naslov := if ($d/*:title[1]/string()) then $d/*:title else $placeholder
-  order by $naslov
+  order by $naslov[1]
 return element tr {
   element td { for $n in $naslov return $n } ,
   element td { $d/*:date } ,
