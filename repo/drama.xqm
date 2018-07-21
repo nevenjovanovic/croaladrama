@@ -267,8 +267,7 @@ declare function drama:dramatituli($collection) {
 };
 
 declare function drama:titletable($collection, $col1, $col2, $col3, $col4){
-  element table { 
-  attribute class {"table table-striped"},
+  element table {
   element thead {
     element tr {
       element td {$col1},
