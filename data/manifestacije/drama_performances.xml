@@ -3167,7 +3167,7 @@
                </note>
                <note type="sadržaj"> Predstava je izvedena na latinskom jeziku. </note>
                <note type="testimonium">
-                  <quote>Scholastica juventus, esti <corr resp="#NČ">etsi</corr> peste et fame
+                  <quote>Scholastica juventus, <sic>esti</sic> <corr resp="#NČ">etsi</corr> peste et fame
                      delapsa Doctorem Parisiensem, diligentiorum laborem praemiante Comite Gasparo
                      Draskovich.</quote>
                   <bibl>(HCZagr. Cod. Ab 130, I. 1629. 36. v.)</bibl>
@@ -3321,13 +3321,14 @@
                </note>
                <note type="sadržaj"> Predstava je izvedena na latinskom jeziku. </note>
                <note type="testimonium">
-                  <quote>Sub initium veris in publicum theatrum productus Imperator Jovinianus,
-                        <corr corresp="#fancev1934">Iovininus</corr>qui ob minium fastum hominum
-                     divumque contemptor, dum in balneo lavaret, Angelo in simili Caesaris forma
-                     ejusque personam simulante, Imperio privatus, pro deliro habitus, ostiatim
-                     mendicare coactus est, donec agnosceret omnipotentem esse, qui deponit potentes
-                     de sede. Tandem mendicitate contritus, ab eodem Angelo divinae sententiae
-                     seriem exponente in thronum repositus didicit humiliter de se sentire. </quote>
+                  <quote>Sub initium veris in publicum theatrum productus Imperator Jovinianus, <sic
+                        corresp="#fancev1934">Iovininus</sic> qui ob <sic>minium</sic>
+                     <corr resp="#NJ">nimium</corr> fastum hominum divumque contemptor, dum in
+                     balneo lavaret, Angelo in simili Caesaris forma ejusque personam simulante,
+                     Imperio privatus, pro deliro habitus, ostiatim mendicare coactus est, donec
+                     agnosceret omnipotentem esse, qui deponit potentes de sede. Tandem mendicitate
+                     contritus, ab eodem Angelo divinae sententiae seriem exponente in thronum
+                     repositus didicit humiliter de se sentire. </quote>
                   <bibl>(HCZagr. Cod. Ab 130, I. 1636. 45. v.)</bibl>
                </note>
                <relatedItem>
@@ -4624,7 +4625,7 @@
                <note type="testimonium">
                   <quote>Zagrabiae demum eidem Christo triumphanti applausere symbolo Davidis puerum
                      Aegyptium ab Amelicitis relictum pane confortantis et eius roborati ductu de
-                     latrunculis triumpantis<corr resp="#NČ">triumphantis</corr>.</quote>
+                     latrunculis <sic>triumpantis</sic> <corr resp="#NČ">triumphantis</corr>.</quote>
                   <bibl>(HCZagr. Cod. Ab 130, I. 1669. 140. r. - LAW Cod. 12066, 1669. 95.p.)</bibl>
                </note>
                <relatedItem>
@@ -5148,7 +5149,7 @@
                   godine. </note>
                <note type="testimonium">
                   <quote>Ad exitum anni scholastici exhibitum est elegans drama in theatro, foris
-                     erecto, honori Alexandri Ignatii Miculić<corr resp="#NČ" corresp="#fancev1934">Mikulić</corr> praepositi majoris...cujus etiam liberalitate studiosae
+                     erecto, honori Alexandri Ignatii <sic>Miculić</sic> <corr resp="#NČ" corresp="#fancev1934">Mikulić</corr> praepositi majoris...cujus etiam liberalitate studiosae
                      juventuti de re scholastica bene meritae praemia distributa fuere.</quote>
                   <bibl>(HCZagr. Cod. Ab 130, I. 1685. 186. v. - LAW Cod.12082, 1685. 46. r. - LAR
                      Cod. Austr. 145, 1685. 121. r.)</bibl>
@@ -6188,7 +6189,7 @@
                <note type="sadržaj"> Predstava je izvedena na latinskom jeziku. </note>
                <note type="testimonium">
                   <quote>Producta fuit ante cineralem hebdomadam non minus ad poeseos leges
-                     accomodata, quam ad mores informandos idonea Dulcendo <corr corresp="#fancev1934">Dulcedo</corr> amara, seu Devorastius primogenitus
+                     accomodata, quam ad mores informandos idonea <sic>Dulcendo</sic> <corr corresp="#fancev1934">Dulcedo</corr> amara, seu Devorastius primogenitus
                      Bacchi, reiecta Abstinentia, Abundantiae nuptias ambiens inter convivandum
                      extinctus.</quote>
                   <bibl>(HDZagr. Cod. Ab 130, I. 1703. 264. r. - LAW Cod. 12098, 1703. 62. r. - 62.
@@ -6330,7 +6331,9 @@
                   </add>
                </note>
                <note type="testimonium">
-                  <quote>Regni Croatiae felicitas, eo quod velit et possit legitimo suo regi <corr corresp="#fancev1934">proregi</corr>adhaerere; praemissa ex adverso
+                  <quote>Regni Croatiae felicitas, eo quod velit et possit legitimo suo
+                        <sic>regi</sic>
+                     <corr corresp="#fancev1934">proregi</corr> adhaerere; praemissa ex adverso
                      Hispaniae et Scotiae infelicitate, eo, quod non possint. Poloniae vero et
                      Hungariae eo, quod non velint legitimo suo Regi obsequi.</quote>
                   <bibl>(HDZagr. Cod. Ab 130, I. 1704. 269. r. - LAW Cod. 12099, 1704. 53. v.
@@ -9260,7 +9263,7 @@
                <note type="sadržaj"> Predstava je izvedena na latinskom jeziku. </note>
                <note type="testimonium">
                   <quote>Media Catharotin captam, sive pulsam orbe sinceritatem in Connubio
-                     Politopyli cum <corr corresp="#fancev1937" resp="#NČ">Politophyli</corr>
+                     <sic>Politopyli</sic> <corr corresp="#fancev1937" resp="#NČ">Politophyli</corr> cum 
                      Lytopia spectandam dedit.</quote>
                   <bibl>(HCZagr.Cod. Ab 130, I. 1723. 350. v. - LAW Cod. 12117, 1723. 39. v.)</bibl>
                </note>
@@ -17960,7 +17963,8 @@
                </note>
                <note type="sadržaj"> Predstava je izvedena na latinskom jeziku. </note>
                <note type="testimonium">
-                  <quote>Elementaris tres Japonenses fratres in <sic>aludum</sic> materiam delegit.</quote>
+                  <quote>Elementaris tres Japonenses fratres in <sic>aludum</sic>
+                     <corr resp="#NJ">laudum</corr> materiam delegit.</quote>
                   <bibl>(LAW Cod. 12145, 1751. 72. r. - LAP Cod. 118-E-17, 1751. 86. p.)</bibl>
                </note>
                <relatedItem>
@@ -26157,7 +26161,7 @@
                </note>
                <note type="sadržaj"> </note>
                <note type="testimonium">
-                  <quote>Patra <corr corresp="#fancev1937">Parata</corr> item fuit
+                  <quote><sic>Patra</sic> <corr corresp="#fancev1937">Parata</corr> item fuit
                   pro fine anni major Actio, nisi nescio quod impedimentum intervenisset.</quote>
                   <bibl>(HCZagr. Cod. Ab 130, II. 1742. 55. r. - LAW Cod. 12136, 1742. 67.p.)</bibl>
                </note>
@@ -28235,8 +28239,8 @@
                </note>
                <note type="sadržaj"/> 
                <note type="testimonium">
-                  <quote><sic>Essekinensas</sic> scholas...Poësis et majora dramata, quod
-                  a reliquis Scholis praestitum, nec paucas suo Marte <sic>elumbratas</sic> 
+                  <quote><sic>Essekinensas</sic><corr resp="#NJ">Essekinenses</corr> scholas... Poësis et majora dramata, quod
+                  a reliquis Scholis praestitum, nec paucas suo Marte <sic>elumbratas</sic> <corr resp="#NJ">elucubratas</corr>
                   exercitationes decantavit.</quote>
                   <bibl>(LAW Cod. 12163, 1770. 51. v.)</bibl>
                </note>
@@ -28266,8 +28270,10 @@
                </note>
                <note type="sadržaj"/> 
                <note type="testimonium">
-                  <quote>Petrovardanum theatrum siluit, <sic>quod quod proprior</sic> ab aquis 
-                  metus, et illata ingens <sic>calamitus</sic> luctum, non spectacula <sic>posseret</sic>.</quote>
+                  <quote>Petrovardanum theatrum siluit, <sic>quod quod proprior</sic><corr
+                        resp="#NJ">quod propior</corr> ab aquis metus, et illata ingens
+                        <sic>calamitus</sic><corr resp="#NJ">calamitas</corr> luctum, non spectacula
+                        <sic>posseret</sic><corr resp="#NJ">poneret</corr>.</quote>
                   <bibl>(LAW Cod. 12163, 1770. 51. v.)</bibl>
                </note>
                <note type="criticum" resp="#NČ">Umjesto naslova Staudova napomena
