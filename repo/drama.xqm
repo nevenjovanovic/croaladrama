@@ -295,6 +295,6 @@ return element tr {
   attribute href { "http://www.geonames.org/" || $d/*:placeName/@ref },
   $d/*:placeName
 } },
-  element td { $d/*[not(name()=("date", "title"))] }
+  element td { data($d/*[not(name()=("date", "title"))]) }
 }
 };
