@@ -1,5 +1,7 @@
 module namespace drama = "http://www.ffzg.unizg.hr/klafil/drama";
 
+import module namespace dramahelp = "http://www.ffzg.unizg.hr/klafil/dramahelp" at "dramahelp.xqm";
+
 declare function drama:htmlhead_drama($title) {
   (: return html template to be filled with title :)
   (: title should be declared as variable in xq :)
@@ -290,12 +292,13 @@ declare function drama:dramaABC($collection) {
   order by $naslov[1]
 return element tr {
   element td { for $n in $naslov return $n } ,
-  element td { $d/*:date/@when/string() } ,
+  element td { $d/*:date[1]/@when/string() } ,
    element td { element a { 
   attribute href { "http://www.geonames.org/" || $d/*:placeName/@ref },
   $d/*:placeName
 } },
   element td { for $row in $d/*[not(name()=("date", "title"))]
-                return element span { attribute class { "notarow"}, data($row)} }
+                return if ($row/descendant::*:corr) then element span { attribute class { "notarow"},  data(dramahelp:remove-elements-deep($row, "corr")) }
+                else element span { attribute class { "notarow"}, data($row)} }
 }
 };
