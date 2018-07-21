@@ -290,8 +290,7 @@ declare function drama:dramaABC($collection) {
   let $naslov := if ($d/*:title[1]/string()) then $d/*:title[string()] else $placeholder
   order by $naslov[1]
 return element tr {
-  element th { 
-  attribute scope {"row"} , for $n in $naslov return $n } ,
+  element td { for $n in $naslov return $n } ,
   element td { $d/*:date/@when/string() } ,
    element td { element a { 
   attribute href { "http://www.geonames.org/" || $d/*:placeName/@ref },
