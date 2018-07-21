@@ -298,7 +298,7 @@ return element tr {
   $d/*:placeName
 } },
   element td { for $row in $d/*[not(name()=("date", "title"))]
-                return if ($row/descendant::*:sic) then element span { attribute class { "notarow"},  data(dramahelp:remove-elements-deep($row, "sic")) }
+                return if ($row/descendant::*:sic) then element span { attribute class { "notarow"},  dramahelp:remove-elements-deep($row, "sic") }
                 else element span { attribute class { "notarow"}, data($row)} }
 }
 };
