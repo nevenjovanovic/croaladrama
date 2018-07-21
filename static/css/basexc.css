@@ -40,7 +40,6 @@ td {
 	margin-left: 0.5em;
 	padding-top: 0.25em;
 	padding-bottom: 0.25em;
-	display:table-cell;
 }
 
 td.clausula {
@@ -59,7 +58,7 @@ tbody tr:nth-child(odd){
 	background-color: #ddd;
 }
 
-thead td, div.thead {
+thead > tr > td, div.thead {
 	background-color: maroon;
 	color: white;
 }

@@ -20,7 +20,7 @@ note bibl {
     font-size: small;
 }
 
-td > note {
+td > span.notarow {
 	display: block;
 	}
 
