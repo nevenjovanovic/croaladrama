@@ -33,7 +33,7 @@ element html { drama:htmlhead_drama($title) ,
 
 <body text="#000000">
 <div class="jumbotron">
-<h1><span class="glyphicon glyphicon-th" aria-hidden="true"></span> { element span {$title} }</h1>
+<h1><span  class="fas fa-align-justify" aria-hidden="true"></span> { element span {$title} }</h1>
 
 <div class="container-fluid">
       <div class="col-md-6 datum">
@@ -50,7 +50,7 @@ element html { drama:htmlhead_drama($title) ,
    
    { element h1 {
      element span {
-       attribute class { "glyphicon glyphicon-education" },
+       attribute class { "fas fa-asterisk" },
        attribute aria-hidden { "true" }
        } , 
    element a {
@@ -62,7 +62,7 @@ element html { drama:htmlhead_drama($title) ,
   } 
    { element h1 {
      element span {
-       attribute class { "glyphicon glyphicon-education" },
+       attribute class { "fas fa-asterisk" },
        attribute aria-hidden { "true" }
        } , 
    element a {
@@ -70,7 +70,7 @@ element html { drama:htmlhead_drama($title) ,
       " (omnes alphabetice)"} }
    { element h1 {
      element span {
-       attribute class { "glyphicon glyphicon-education" },
+       attribute class { "fas fa-asterisk" },
        attribute aria-hidden { "true" }
        } , 
    element a {
@@ -78,10 +78,10 @@ element html { drama:htmlhead_drama($title) ,
       " (omnia)"} }
    { drama:orderplacesabc($collection) } 
   
-   <h1><span class="glyphicon glyphicon-education" aria-hidden="true"></span> Thematice</h1>
+   <h1><span class="fas fa-asterisk" aria-hidden="true"></span> Thematice</h1>
    { element h1 {
       element span {
-       attribute class { "glyphicon glyphicon-education" },
+       attribute class { "fas fa-asterisk" },
        attribute aria-hidden { "true" }
        } , 
      element a { 
