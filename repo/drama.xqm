@@ -362,7 +362,7 @@ map:for-each(
   function($key,$value){
   element div {
     attribute class { "card text-center text-white bg-info mb-3"},
-    element div { 
+    element h3 { 
     attribute class {"card-header"},
     $key
      },
