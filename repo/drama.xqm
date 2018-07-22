@@ -363,7 +363,7 @@ map:for-each(
   element div {
     attribute class {"col"},
   element div {
-    attribute class { "card"},
+    attribute class { "card text-center"},
     element div {
       attribute class {"card-body"},
     element h5 {

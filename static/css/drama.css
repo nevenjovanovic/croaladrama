@@ -33,3 +33,7 @@ td > author {
 }
 
 
+h5.card-title {
+	background-color: maroon;
+	color: white;
+}
