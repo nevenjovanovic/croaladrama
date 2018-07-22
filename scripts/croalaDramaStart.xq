@@ -74,8 +74,8 @@ return drama:tablesaeculum($map)
        attribute aria-hidden { "true" }
        } , 
    element a {
-     attribute href {"http://croala.ffzg.unizg.hr/basex/dramatituli"} , "Tituli" },
-      " (omnes alphabetice)"} }
+     attribute href {"http://croala.ffzg.unizg.hr/basex/dramaloca"} , "Loca" },
+      " (omnia)"} }
     
    <h1><span class="glyphicon glyphicon-education" aria-hidden="true"></span> Loca</h1>
    <h1><span class="glyphicon glyphicon-education" aria-hidden="true"></span> Thematice</h1>

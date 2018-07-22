@@ -302,3 +302,7 @@ return element tr {
                 else element span { attribute class { "notarow"}, data($row)} }
 }
 };
+
+declare function drama:dramaloca($collection) {
+  $collection
+};
