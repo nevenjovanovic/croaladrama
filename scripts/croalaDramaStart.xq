@@ -58,15 +58,7 @@ element html { drama:htmlhead_drama($title) ,
       " (omnia)"} } 
       
       { 
-  let $map :=
-map:merge(
-for $p in drama:dramachrono3($collection)
-let $d := $p
-group by $d
-return 
-  map:entry( substring-before($d, "xx"), count($p) )
-)
-return drama:tablesaeculum($map)  
+  drama:tablefrommap($collection)  
   } 
    { element h1 {
      element span {

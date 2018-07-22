@@ -317,3 +317,15 @@ declare function drama:dramaloca($collection) {
   order by $placeref , $timeref
   return $d
 };
+
+declare function drama:tablefrommap($collection){
+  let $map :=
+map:merge(
+for $p in drama:dramachrono3($collection)
+let $d := $p
+group by $d
+return 
+  map:entry( substring-before($d, "xx"), count($p) )
+)
+return drama:tablesaeculum($map)
+};
