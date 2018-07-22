@@ -2412,10 +2412,10 @@
                   Thuroczi heroicae virtutes</title>
                <title xml:lang="hrv">Panegirički pozdrav i simbolički prizori u čast novome
                   potkralju Benku Turociju</title>
-               <note ana="tema" corresp="povijest"><term>Hrvatska</term>;<term> vladari i dužnosnici</term>;
-                  <persName ref="#croala.drama.314893">potkralj Benko Turoci</persName>
+               <note ana="tema" corresp="povijest"><term>Hrvatska</term>; <term>vladari i dužnosnici</term>;
+                  <persName ref="#croala.drama.314893">potkralj Benko Turoci</persName>; <term>ban</term>
                </note>
-               <note ana="tema" corresp="panegirik">
+               <note ana="tema" corresp="prigodno">
                   <term>Pozdrav potkralju Benku Turociju</term>
                <persName>Benko Turoci</persName>
                   <term>ban</term>
@@ -5607,7 +5607,7 @@
                <name>Drama symbolicum honori episcopo Martino Brajković</name>
                <title xml:lang="hrv"/>
                <note ana="tema" corresp="prigodno"><term>U čast</term>; <persName ref="#croala.drama.323903">biskup Martin
-                     Brajković</persName>
+                  Brajković</persName>; <term>biskup</term>
                </note>
                <note ana="žanr" resp="#fancev1937" corresp="drama">Drama symbolicum</note>
                <date when="1699" period="16xx_3_third"> 1699. </date>
@@ -10939,7 +10939,7 @@
                <title xml:lang="hrv"/>
                <note ana="tema" corresp="prigodno"><term>Proglašenje Lorenza Corsinija papom Klementom
                   XII.</term>;  <persName ref="#croala.drama.337888">Lorenzo Corsini</persName>
-                  <addName sameAs="Lorenzo Corsini" ref="#croala.drama.337888">Klement XII.</addName>
+                  <addName sameAs="Lorenzo Corsini" ref="#croala.drama.337888">Klement XII.</addName>; <term>papa</term>
                </note>
                <note ana="žanr" resp="#fancev1937" corresp="drama"/>
                <date when="1730" period="17xx_1_third"> 1730. </date>
@@ -11110,7 +11110,7 @@
                <title xml:lang="hrv"/>
                <note ana="tema" corresp="prigodno"><term>U čast biskupu Ivanu Antunu pl. Benzoniju</term>; 
                   <persName ref="#benzonid1e133">Ivan Antun pl. Benzoni</persName>
-                  <roleName>Biskup</roleName>
+                  <roleName>Biskup</roleName>; <term>biskup</term>
                </note>
                <note ana="žanr" corresp="drama"/>
                <date when="1731" period="17xx_1_third"> 1731. </date>
@@ -11221,7 +11221,7 @@
                <title xml:lang="hrv">Ivan Drašković, branič Ilirika</title>
                <note ana="tema" resp="#vanino1969" corresp="prigodno"><term>U čast novom banu Ivanu
                   Draškoviću</term> <persName ref="#croala.drama.338587">Ivan Drašković</persName>
-                  <roleName>Ban</roleName>
+                  <roleName>Ban</roleName>; <term>ban</term>
                </note>
                <note ana="žanr" resp="#fancev1937" corresp="drama"/>
                <date when="1732" period="17xx_1_third"> 1732. </date>
@@ -11485,7 +11485,7 @@
                <author ref="galjuf01">
                   <persName ref="galjuf01">Galjuf, Ivan</persName>
                </author>
-               <title xml:lang="lat">Croatiae theatrum virtutis Erdödianae</title>
+               <title xml:lang="lat"><corr resp="#NJ">Croatia</corr> theatrum virtutis Erdödianae</title>
                <title resp="#staud" xml:lang="lat">CROATIA VIRTUTIS ERDÖDIANAE</title>
                <title xml:lang="hrv">Hrvatska, poprište junaštva erdödskoga</title>
                <note ana="tema" corresp="prigodno"><term>U čast Emeriku Erdödyju</term>; <persName ref="#croala.drama.339313">Emerik Mirko
@@ -11734,7 +11734,7 @@
                <title xml:lang="hrv"/>
                <note ana="tema" corresp="prigodno"><term>U čast novom banu Josipu Esterhaziju</term>; 
                   <persName ref="#croala.drama.339958">Josip Esterhazy</persName>
-                  <roleName>Ban</roleName>
+                  <roleName>Ban</roleName>; <term>ban</term>
                </note>
                <note ana="tema" corresp="povijest"><term>Hrvatska</term>; <term>vladari</term><persName ref="#croala.drama.339958">Josip
                      Esterhazy</persName>
