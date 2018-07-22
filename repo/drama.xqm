@@ -284,11 +284,17 @@ declare function drama:titletable($collection, $col1, $col2, $col3, $col4){
 }
 };
 
+(: Latin words for missing title :)
+declare function drama:ignoratur($d){
+  let $placeholder := "TITULUS IGNORATUR"
+  let $naslov := if ($d/*:title[1]/string()) then $d/*:title[string()] else $placeholder
+  return $naslov
+};
+
 (: return alphabetical list of plays :)
 declare function drama:dramaABC($collection) {
   for $d in collection($collection)//*:listBibl[@type="croala.drama"]/*:bibl
-  let $placeholder := "TITULUS IGNORATUR"
-  let $naslov := if ($d/*:title[1]/string()) then $d/*:title[string()] else $placeholder
+  let $naslov := drama:ignoratur($d)
   order by $naslov[1]
 return element tr {
   element td { for $n in $naslov return $n } ,
@@ -304,5 +310,10 @@ return element tr {
 };
 
 declare function drama:dramaloca($collection) {
-  $collection
+  for $d in collection($collection)//*:listBibl[@type="croala.drama"]/*:bibl
+  let $naslov := drama:ignoratur($d)
+  let $placeref := $d/*:placeName/@ref
+  let $timeref := $d/*:date[1]/@when
+  order by $placeref , $timeref
+  return $d
 };
