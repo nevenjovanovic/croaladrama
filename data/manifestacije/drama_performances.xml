@@ -6847,7 +6847,7 @@
                <note ana="tema" corresp="alegorija"><term>Moralna alegorija</term></note>
                <note ana="žanr" resp="#vanino1987">Alegorijska igra</note>
                <date when="1708" period="17xx_1_third"> 1708. </date>
-               <placeName>Rijeka</placeName>
+               <placeName ref="3191648" type="geonames">Rijeka</placeName>
                <address>
                   <name ref="#rijeka001">Đačko kazalište isusovačke gimnazije u Rijeci</name>
                </address>
