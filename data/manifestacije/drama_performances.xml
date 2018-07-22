@@ -6873,7 +6873,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e13276">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat">Periculum in mora seu Abulus perdens dem eam neglegit</title>
+               <title xml:lang="lat">Periculum in mora seu Abulus perdens <corr resp="#NJ">dum</corr> eam neglegit</title>
                <title xml:lang="hrv">Opasnost odgađanja ili Abul gubi spasenje dok ga
                   zanemaruje</title>
                <note ana="tema" corresp="kršćanstvo"><term>Poduka</term></note>
@@ -8662,7 +8662,7 @@
                <note ana="tema" corresp="poduka"><term>Odgoj, obrazovanje i moral</term>; <term>loše društvo</term>
                   <persName ref="#croala.drama.331861">Adamando</persName>
                </note>
-               <note ana="tema" resp="#staud" corresp="drama"><term>Dramation</term></note>
+               <note ana="žanr" resp="#staud" corresp="drama"><term>Dramation</term></note>
                <note ana="žanr" resp="#fancev1937" corresp="drama"/>
                <date when="1720" period="17xx_1_third"> 1720. </date>
                <placeName type="geonames" ref="3186886">Zagreb</placeName>
@@ -8678,7 +8678,7 @@
                <note type="sadržaj"> Predstava je izvedena na latinskom jeziku. </note>
                <note type="testimonium">
                   <quote>Syntaxistae recitarunt dramation sub titulo anagramatice annum curentem
-                     exprimente: Idea vera conversationis et necessitudinis,sive Adamandus
+                     exprimente: Idea vera conversationis et necessitudinis, sive Adamandus
                      adolescens Spoletanus, integer vitae, scelerisque purus. Dramation.</quote>
                   <bibl>(HCZagr.Cod.Ab130,I. 1720: 338. v. - LAW Cod. 17112, 1720. 102. p.)</bibl>
                </note>
