@@ -194,29 +194,34 @@ return substring-before($d/*:date[1]/@period, "_")
 };
 
 declare function drama:tablesaeculum($result){
-  element table { 
-  element thead {
-    element tr {
-      element td {"Per saecula"},
-      element td { },
-      element td { },
-      element td { },
-      element td { }
-    }
-  } ,
-  element tbody {
-  element tr {
+  element div { 
+  attribute class {"container"},
+  element div {
+    attribute class { "row" },
     map:for-each(
   $result,
-  function($key,$value){element td { "Saeculum " || number($key) + 1 || ": "
- , element a { 
- attribute href {"http://croala.ffzg.unizg.hr/basex/dramachrono/" || $key } ,
+  function($key,$value){
+    element div { 
+    attribute class {"col"},
+    element div {
+      attribute class { "card text-center text-white bg-info mb-3" },
+      element h3 {
+        attribute class { "card-header"  },
+         "Saeculum " || number($key) + 1 },
+      element div {
+        attribute class { "card-body" },
+        element h5 {
+          attribute class { "card-title" },
+          element a { 
+             attribute href {"http://croala.ffzg.unizg.hr/basex/dramachrono/" || $key } ,
     $value } }
   }
-)
-  }
+}
 }
   }
+)
+}
+}
 };
 
 (: return chronological list of plays as divs :)
