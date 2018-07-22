@@ -9,7 +9,7 @@ declare function drama:htmlhead_drama($title) {
 <head><title> { $title } </title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <link rel="icon" href="/static/gfx/favicon.ico" type="image/x-icon" />
-<link rel="stylesheet" type="text/css" href="/basex/static/dist/css/bootstrap4-1/bootstrap.min.css"/>
+<link rel="stylesheet" type="text/css" href="/basex/static/dist/css/bootstrap4-1/css/bootstrap.min.css"/>
 <link rel="stylesheet" type="text/css" href="/basex/static/dist/css/basexc.css"/>
 <link rel="stylesheet" type="text/css" href="/basex/static/dist/css/drama.css"/>
 </head>
@@ -43,7 +43,7 @@ declare function drama:htmlhead-tablesorter($title) {
 <head><title> { $title } </title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <link rel="icon" href="/static/gfx/favicon.ico" type="image/x-icon" />
-<link rel="stylesheet" type="text/css" href="/static/dist/css//bootstrap4-1/bootstrap.min.css"/>
+<link rel="stylesheet" type="text/css" href="/static/dist/css//bootstrap4-1/css/bootstrap.min.css"/>
 <link rel="stylesheet" type="text/css" href="/static/dist/css/basexc.css"/>
 <link rel="stylesheet" type="text/css" href="/static/dist/css/drama.css"/>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
@@ -62,7 +62,7 @@ declare function drama:htmlhead-tablesorter-server($title) {
 <head><title> { $title } </title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <link rel="icon" href="/basex/static/gfx/favicon.ico" type="image/x-icon" />
-<link rel="stylesheet" type="text/css" href="/basex/static/dist/css/bootstrap4-1/bootstrap.min.css"/>
+<link rel="stylesheet" type="text/css" href="/basex/static/dist/css/bootstrap4-1/css/bootstrap.min.css"/>
 <link rel="stylesheet" type="text/css" href="/basex/static/dist/css/basexc.css"/>
 <link rel="stylesheet" type="text/css" href="/basex/static/dist/css/drama.css"/>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
