@@ -329,3 +329,54 @@ return
 )
 return drama:tablesaeculum($map)
 };
+
+(: return map of places of performances :)
+declare function drama:placesmap($collection) {
+let $maps := map:merge(
+for $d in drama:dramaloca($collection)
+let $place := $d/*:placeName
+let $placestring := $place/string()
+let $placeref := $place/@ref/string()
+let $placemap := map:entry( $placestring, $placeref)
+return $placemap
+)
+return $maps
+};
+(: return count of performances by place, unsorted :)
+(: format as Bootstrap cards :)
+declare function drama:perfbyplace($collection){
+map:for-each(
+  drama:placesmap($collection),
+  function($key,$value){ 
+  element div {
+    attribute class {"col"},
+  element div {
+    attribute class { "card"},
+    element div {
+      attribute class {"card-body"},
+    element h5 {
+      attribute class {"card-title" },
+      $key
+    } , 
+    element p {
+      attribute class {"card-text"},
+    element a { 
+    attribute href { "http://croala.ffzg.unizg.hr/basex/dramaloca2/" || $value },
+    count(drama:dramaloca($collection)[*:placeName/@ref=$value]) }
+  }
+  }
+  }
+}
+}
+  )
+};
+
+(: order places with counts of performances alphabetically :)
+declare function drama:orderplacesabc($collection) {
+element div {
+  attribute class { "row"},
+for $d in drama:perfbyplace($collection)
+order by $d
+return $d
+}
+};

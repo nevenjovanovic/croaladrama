@@ -76,7 +76,7 @@ element html { drama:htmlhead_drama($title) ,
    element a {
      attribute href {"http://croala.ffzg.unizg.hr/basex/dramaloca"} , "Loca" },
       " (omnia)"} }
-    
+   { drama:orderplacesabc($collection) } 
   
    <h1><span class="glyphicon glyphicon-education" aria-hidden="true"></span> Thematice</h1>
    { element h1 {
