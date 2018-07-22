@@ -360,6 +360,8 @@ declare function drama:perfbyplace($collection){
 map:for-each(
   drama:placesmap($collection),
   function($key,$value){
+    element div {
+      attribute class { "col"},
   element div {
     attribute class { "card text-center text-white bg-info mb-3"},
     element h3 { 
@@ -377,15 +379,19 @@ map:for-each(
     }
   }
 }
+}
   )
 };
 
 (: order places with counts of performances alphabetically :)
 declare function drama:orderplacesabc($collection) {
 element div {
-  attribute class { "card-deck"},
+  attribute class { "container"},
+element div {
+  attribute class { "row"},
 for $d in drama:perfbyplace($collection)
 order by $d
 return $d
+}
 }
 };
