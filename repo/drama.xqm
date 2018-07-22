@@ -204,7 +204,7 @@ declare function drama:tablesaeculum($result){
     element div { 
     attribute class {"col"},
     element div {
-      attribute class { "card text-center text-white bg-info mb-3" },
+      attribute class { "card text-center text-white  bg-secondary mb-3" },
       element h3 {
         attribute class { "card-header"  },
          "Saeculum " || number($key) + 1 },
