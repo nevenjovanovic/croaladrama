@@ -2,6 +2,8 @@ module namespace drama = "http://www.ffzg.unizg.hr/klafil/drama";
 
 import module namespace dramahelp = "http://www.ffzg.unizg.hr/klafil/dramahelp" at "dramahelp.xqm";
 
+declare namespace tei = 'http://www.tei-c.org/ns/1.0';
+
 declare function drama:htmlhead_drama($title) {
   (: return html template to be filled with title :)
   (: title should be declared as variable in xq :)
@@ -287,6 +289,7 @@ declare function drama:dramatituli($collection) {
 
 declare function drama:titletable($collection, $col1, $col2, $col3, $col4){
   element table {
+    attribute class {"table"},
   element thead {
     element tr {
       element th {$col1},
@@ -304,6 +307,15 @@ declare function drama:titletable($collection, $col1, $col2, $col3, $col4){
 (: Latin words for missing title :)
 declare function drama:ignoratur($d){
   let $placeholder := "TITULUS IGNORATUR"
+  let $naslov := if ($d/*:title[1]/string()) then $d/*:title[string()] else $placeholder
+  return $naslov
+};
+
+(: Latin words for missing title, wrapped in title :)
+declare function drama:ignoratur2($d){
+  let $placeholder := element title { 
+  namespace { "tei" } {"http://www.tei-c.org/ns/1.0"} ,
+  "TITULUS IGNORATUR" }
   let $naslov := if ($d/*:title[1]/string()) then $d/*:title[string()] else $placeholder
   return $naslov
 };
@@ -397,6 +409,46 @@ element div {
 for $d in drama:perfbyplace($collection)
 order by $d
 return $d
+}
+}
+};
+
+declare function drama:dramalocus1($collection, $locus) {
+  for $d in collection($collection)//*:listBibl[@type="croala.drama"]/*:bibl[*:placeName/@ref=$locus]
+  let $placeref := $d/*:placeName/@ref
+  let $timeref := $d/*:date[1]/@when
+  order by $timeref
+  return $d
+};
+
+(: display performances in a place: title with link to individual record, time, notes :)
+(: return alphabetical list of plays :)
+declare function drama:dramaLocusTabula($collection, $locus) {
+  for $d in drama:dramalocus1($collection, $locus)
+  return element tr {
+  element td { drama:ignoratur2($d) } ,
+  element td { $d/*:date[1]/@when/string() } ,
+  element td { for $row in $d/*[not(name()=("date", "title"))]
+                return 
+                if ($row/descendant::*:sic) 
+                then element span { attribute class { "notarow"},  dramahelp:remove-elements-deep($row, "sic") }
+                else element span { attribute class { "notarow"}, normalize-space(data($row)) } }
+}
+};
+
+(: put tbody with performances by place in a table :)
+declare function drama:makeplacetable($collection, $locus){
+  element table {
+    attribute class {"table"},
+  element thead {
+    element tr {
+      element th { "Titulus "},
+      element th { "Tempus" },
+      element th { "Notae" }
+    }
+  } ,
+  element tbody { 
+  drama:dramaLocusTabula($collection, $locus)
 }
 }
 };
