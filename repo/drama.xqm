@@ -289,7 +289,7 @@ declare function drama:dramatituli($collection) {
 
 declare function drama:titletable($collection, $col1, $col2, $col3, $col4){
   element table {
-    attribute class {"table"},
+    (: attribute class {"table"}, :)
   element thead {
     element tr {
       element th {$col1},
@@ -460,7 +460,7 @@ declare function drama:dramaLocusTabula($collection, $locus) {
 (: put tbody with performances by place in a table :)
 declare function drama:makeplacetable($collection, $locus){
   element table {
-    attribute class {"table"},
+    (: attribute class {"table"}, :)
   element thead {
     element tr {
       element th { "Titulus "},
