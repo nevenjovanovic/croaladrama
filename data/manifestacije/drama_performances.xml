@@ -2329,8 +2329,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e2799">
                <author>Plaut</author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name>Komedije vjerojatno izvedene 27. siječnja 1525.</name>
+               <title xml:lang="hrv">Komedije vjerojatno izvedene 27. siječnja 1525.</title>
                <note ana="tema" type="nn"/>
                <note ana="žanr" corresp="komedija"/>
                <date when="1525-01-27" period="15xx_1_third" cert="medium"> Vjerojatno izvedene
@@ -3679,8 +3678,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1638.crispus">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
-               <name>Comoedia de Crispo</name>
+               <title xml:lang="lat">Comoedia de Crispo</title>
                <title xml:lang="lat" resp="#staud">CRISPUS</title>
                <title xml:lang="hrv"/>
                <note ana="tema" corresp="povijest"><term>Rim</term>; <term> vladari</term>;  <persName ref="#croala.drama.317752">Flavije Julije
@@ -3720,8 +3718,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e5934">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name>Predstava izvedena 1638.</name>
+               <title xml:lang="hrv">Predstava izvedena 1638.</title>
                <note ana="tema" type="nn"/>
                <note ana="žanr" type="nn"/>
                <date when="1638" period="16xx_2_third"> 1638. </date>
@@ -3940,8 +3937,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e6424">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name>Predstava izvedena 1642.</name>
+               <title xml:lang="hrv">Predstava izvedena 1642.</title>
                <note ana="tema" type="nn"/>
                <note ana="žanr" type="nn"/>
                <date when="1642" period="16xx_2_third"> 1642. </date>
@@ -3997,8 +3993,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e6561">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name>Predstava u čast biskupu Riječaninu Petru Marianiju</name>
+               <title xml:lang="hrv">Predstava u čast biskupu Riječaninu Petru Marianiju</title>
                <note ana="tema" corresp="povijest"><term>Hrvatska</term>; <term> vladari i dužnosnici</term>;  <persName ref="#croala.drama.318667">biskup
                      Petar Mariani</persName>
                </note>
@@ -4098,8 +4093,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e6790">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name>Predstava o sv. Ignaciju</name>
+               <title xml:lang="hrv">Predstava o sv. Ignaciju</title>
                <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <persName ref="#croala.drama.314518">Sveti
                   Ignacije</persName>
                </note>
@@ -4132,7 +4126,7 @@
                <note ana="tema" corresp="kršćanstvo"><term>Sveci</term><persName ref="#croala.drama.321632">Sveta Katarina</persName>
                </note>
                <note ana="tema" corresp="hagiografija"><term>Sveta Katarina</term></note>
-               <name ana="žanr" type="nn"/>
+               <note ana="žanr" type="nn"/>
                <date when="1645" period="16xx_2_third"> 1645. </date>
                <placeName type="geonames" ref="3186886">Zagreb</placeName>
                <address>
@@ -5413,11 +5407,9 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e9656">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
-               <name>Elegans drama honori Alexandri Ignatii Mikulić, praepositi majoris</name>
-               <name resp="#staud">ELEGANS DRAMA</name>
-               <title xml:lang="hrv"/>
-               <name>Drama u čast velikom prepozitu Aleksandru Mikuliću</name>
+               <title xml:lang="lat">Elegans drama honori Alexandri Ignatii Mikulić, praepositi majoris</title>
+               <title resp="#staud" xml:lang="lat">ELEGANS DRAMA</title>
+               <title xml:lang="hrv">Drama u čast velikom prepozitu Aleksandru Mikuliću</title>
                <note ana="tema" corresp="povijest"><term>Hrvatska</term>; <term> vladari i dužnosnici</term>; 
                   <persName ref="#mikulicd1e1197">Aleksandar Mikulić</persName>
                   <roleName>Veliki
@@ -5456,8 +5448,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e9748">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name>Predstava izvedena 1685.</name>
+               <title xml:lang="hrv">Predstava izvedena 1685.</title>
                <note ana="tema" type="nn"/>
                <note ana="žanr" type="nn"/>
                <date when="1685" period="16xx_3_third"> 1685. </date>
@@ -5673,11 +5664,9 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e10189">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
-               <name>Dramation honori bano Adamo Battiany</name>
-               <name resp="#staud">DRAMATION</name>
-               <title xml:lang="hrv"/>
-               <name>Deklamacija u čast banu Adamu Batthyányu</name>
+               <title xml:lang="lat">Dramation honori bano Adamo Battiany</title>
+               <title resp="#staud">DRAMATION</title>
+               <title xml:lang="hrv">Deklamacija u čast banu Adamu Batthyányu</title>
                <note ana="tema" corresp="povijest"><term>Hrvatska</term>; <term> vladari i dužnosnici</term>;  <persName ref="#croala.drama.323319">Adam
                      Batthyány</persName>
                   <roleName>Ban</roleName>
@@ -5717,11 +5706,10 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e10282">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
-               <name>Gratiosa dramata iz 1694.</name>
-               <name xml:lang="hun" resp="#staud">Ismeretlen darabok előadása</name>
+               <title xml:lang="lat">Gratiosa dramata iz 1694.</title>
+               <title xml:lang="hun" resp="#staud">Ismeretlen darabok előadása</title>
                <title xml:lang="hrv"/>
-               <note ana="tema" type="nn"/>
+               <note ana="tema" type="panegirik"/>
                <note ana="žanr" resp="#fancev1937" corresp="drama">Drama gratiosum</note>
                <date when="1694" period="16xx_3_third"> 1694. </date>
                <placeName type="geonames" ref="3186886">Zagreb</placeName>
@@ -5827,8 +5815,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e10516">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name>Predstava izvedena 1698.</name>
+               <title xml:lang="hrv">Predstava izvedena 1698.</title>
                <note ana="tema" type="nn"/>
                <note ana="žanr" type="nn"/>
                <date when="1698" period="16xx_3_third"> 1698. </date>
@@ -5885,13 +5872,11 @@
             <bibl type="drama" xml:id="croala.drama.d1e10645">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat" resp="#staud">DRAMA SYMBOLICUM</title>
-               <title xml:lang="lat"/>
-               <name>Drama symbolicum honori episcopo Martino Brajković</name>
-               <title xml:lang="hrv"/>
+               <title xml:lang="lat">Drama symbolicum honori episcopo Martino Brajković</title>
                <note ana="tema" corresp="prigodno"><term>U čast</term>; <persName ref="#croala.drama.323903">biskup Martin
                   Brajković</persName>; <term>biskup</term>
                </note>
-               <note ana="žanr" resp="#fancev1937" corresp="drama">Drama symbolicum</note>
+               <note ana="žanr" resp="#fancev1937" corresp="symbolicum">Drama symbolicum</note>
                <date when="1699" period="16xx_3_third"> 1699. </date>
                <date resp="#staud" when="1699-04-17">Veliki petak 17.04.1699. </date>
                <placeName type="geonames" ref="3186886">Zagreb</placeName>
@@ -6014,9 +5999,8 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e10880">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
-               <name>Dramata iz 1700.</name>
-               <title xml:lang="hrv"/>
+               <title xml:lang="lat">Dramata</title>
+               <title xml:lang="hrv">Drame iz 1700.</title>
                <note ana="tema" type="nn"/>
                <note ana="žanr" resp="#fancev1937" corresp="drama"/>
                <date when="1700" period="16xx_3_third"> 1700. </date>
@@ -6081,8 +6065,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e11034">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name> Predstava izvedena 25. lipnja 1701.</name>
+               <title xml:lang="hrv">Predstava izvedena 25. lipnja 1701.</title>
                <note ana="tema" type="nn"/>
                <note ana="žanr" type="nn"/>
                <date when="1701-06-25" period="17xx_1_third"> 25.06.1701. </date>
@@ -6364,8 +6347,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e11609">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name>Predstava izvedena 1702.</name>
+               <title xml:lang="hrv">Predstava izvedena 1702.</title>
                <note ana="tema" type="nn"/>
                <note ana="žanr" type="nn"/>
                <date when="1702" period="17xx_1_third"> 1702. </date>
@@ -6386,11 +6368,10 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e11661">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
-               <name>Drama symbolicum</name>
+               <title xml:lang="lat">Drama symbolicum</title>
                <title xml:lang="hrv"/>
                <note ana="tema" type="nn"/>
-               <note ana="žanr" resp="#fancev1937" corresp="drama">Drama symbolicum</note>
+               <note ana="žanr" resp="#fancev1937" corresp="symbolicum">Drama symbolicum</note>
                <date when="1703" period="17xx_1_third"> 1703. </date>
                <placeName type="geonames" ref="3186886">Zagreb</placeName>
                <address>
@@ -6413,14 +6394,13 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e11721">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
-                  <name>Dramatica actiuncula</name>
+               <title xml:lang="lat">Dramatica actiuncula</title>
                <title xml:lang="hrv"/>
                <note ana="tema" corresp="kršćanstvo">
                   <persName ref="#croala.drama.325275">Blažena Djevica
                   Marija</persName>
                </note>
-               <note ana="žanr" resp="#fancev1937" corresp="drama">Dramatica actiuncula</note>
+               <note ana="žanr" resp="#fancev1937" corresp="dramation">Dramatica actiuncula</note>
                <date when="1703" period="17xx_1_third"> 1703. </date>
                <placeName type="geonames" ref="3186886">Zagreb</placeName>
                <address>
@@ -6649,12 +6629,11 @@
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat">Ad veterem illam Romanorum legem, quae crimine parricidii
                   obstrictos in flumen demergi jubebat</title>
-               <title xml:lang="hrv"/>
-               <name>Alegorija koja se naslanjala na rimski zakon da se ocoubojica baci u
-                  rijeku</name>
+               <title xml:lang="hrv">Alegorija koja se naslanjala na rimski zakon da se ocoubojica baci u
+                  rijeku</title>
                <note ana="tema" corresp="povijest"><term>Rim</term>; <term>običaji</term></note>
                <note ana="tema" corresp="alegorija"><term>Povijesna alegorija</term></note>
-               <note ana="žanr" type="nn"/>
+               <note ana="žanr" type="alegorija"/>
                <date when="1705" period="17xx_1_third"> 1705. </date>
                <placeName ref="3191648" type="geonames">Rijeka</placeName>
                <address>
@@ -6685,12 +6664,12 @@
             <bibl type="drama" xml:id="croala.drama.d1e12275">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name>Alegorija u čast Josipa I.</name>
+               <title xml:lang="hrv">Alegorija u čast Josipa I.</title>
                <note ana="tema" corresp="povijest"><term>Europa</term>; <term> vladari</term>; <term> Sveto Rimsko Carstvo</term>; <persName ref="#croala.drama.325981">Josip
                   I.</persName>
                </note>
                <note ana="tema" corresp="alegorija"><term>Povijesna alegorija</term></note>
+               <note ana="žanr" resp="#NJ" corresp="alegorija"/>
                <date when="1705" period="17xx_1_third"> 1705. </date>
                <placeName ref="3191648" type="geonames">Rijeka</placeName>
                <address>
@@ -6785,11 +6764,10 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e12484">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
-               <name>Dramatia iz 1705.</name>
-               <title xml:lang="hrv"/>
+               <title xml:lang="lat">Dramatia</title>
+               <title xml:lang="hrv">Dramatia iz 1705.</title>
                <note ana="tema" type="nn"/>
-               <note ana="žanr" resp="#fancev1937" corresp="drama"/>
+               <note ana="žanr" resp="#fancev1937" corresp="dramation"/>
                <date when="1705" period="17xx_1_third"> 1705. </date>
                <placeName type="geonames" ref="3186886">Zagreb</placeName>
                <address>
@@ -7029,8 +7007,7 @@
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
                <title xml:lang="lat" resp="#staud">JOANNES CALIBITA </title>
-               <title xml:lang="hrv"/>
-               <name>Predstava Ivana Kalibite</name>
+               <title xml:lang="hrv">Predstava Ivana Kalibite</title>
                <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <persName ref="#croala.drama.326915">Sveti Ivan
                   Kalibita</persName>
                </note>
@@ -7211,12 +7188,10 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e13406">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
-               <name>Gratiosa actiuncula honori episcopo</name>
-               <name xml:lang="lat" resp="#fancev1937">Gratiosa actiuncula honori Eppo</name>
-               <title xml:lang="hrv"/>
+               <title xml:lang="lat">Gratiosa actiuncula honori episcopo</title>
+               <title xml:lang="lat" resp="#fancev1937">Gratiosa actiuncula honori Eppo</title>
                <note ana="tema" type="nn"/>
-               <note ana="žanr" resp="#fancev1937" corresp="drama">Actiuncula gratiosa</note>
+               <note ana="žanr" resp="#fancev1937" corresp="panegirik">Actiuncula gratiosa</note>
                <date when="1709" period="17xx_1_third"> 1709. </date>
                <placeName type="geonames" ref="3186886">Zagreb</placeName>
                <address>
@@ -7328,12 +7303,11 @@
                      <persName ref="#croala.drama.327742">Profesor Kolschmidt</persName>                     
                   </add>
                </author>
-               <title xml:lang="lat"/>
-               <name>Actio theataralis<corr resp="#NČ">theatralis</corr>
-               </name>
+               <title xml:lang="lat">Actio <sic>theataralis</sic> <corr resp="#NČ">theatralis</corr></title>
+               
                <title xml:lang="hrv"/>
                <note ana="tema" type="nn"/>
-               <note ana="žanr" resp="#fancev1937" corresp="drama">Actio theatralis</note>
+               <note ana="žanr" resp="#fancev1937" corresp="actio">Actio theatralis</note>
                <date when="1710" period="17xx_1_third"> 1710. </date>
                <placeName type="geonames" ref="3186886">Zagreb</placeName>
                <address>
@@ -7973,10 +7947,9 @@
             <bibl type="drama" xml:id="croala.drama.d1e14866">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name>Komedija izvedena 1713.</name>
+               <title xml:lang="hrv">Komedija izvedena 1713.</title>
                <note ana="tema" type="nn"/>
-               <note ana="žanr" type="nn"/>
+               <note ana="žanr" type="comoedia"/>
                <date when="1713-02" period="17xx_1_third"> Na kraju poklada 1713. </date>
                <placeName ref="3191648" type="geonames">Rijeka</placeName>
                <address>
@@ -8067,9 +8040,8 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e15067">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
-               <name>Varia dramata iz 1715.</name>
-               <title xml:lang="hrv"/>
+               <title xml:lang="lat">Varia dramata</title>
+               <title xml:lang="hrv">Varia dramata iz 1715.</title>
                <note ana="tema" type="nn"/>
                <note ana="žanr" resp="#fancev1937" corresp="drama"/>
                <date when="1715" period="17xx_1_third"> 1715. </date>
@@ -8109,13 +8081,11 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e15149">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
-               <name xml:lang="lat">Bacchanalium hilaria</name>
-               <name resp="#staud" xml:lang="lat">BACCHANALIA</name>
-               <title xml:lang="hrv"/>
-               <name xml:lang="hrv">Šaljiva igra</name>
+               <title xml:lang="lat">Bacchanalium hilaria</title>
+               <title resp="#staud" xml:lang="lat">BACCHANALIA</title>
+               <title xml:lang="hrv">Šaljiva igra</title>
                <note ana="tema" type="nn"/>
-               <note ana="žanr" resp="#fancev1937" corresp="drama"/>
+               <note ana="žanr" resp="#fancev1937" corresp="ludus"/>
                <date when="1716" period="17xx_1_third"> 1716. </date>
                <placeName type="geonames" ref="3186886">Zagreb</placeName>
                <address>
@@ -8321,11 +8291,10 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e15572">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-                  <name>Dialogus izveden 1717.</name>
+               <title xml:lang="lat">Dialogus</title>
+               <title xml:lang="hrv">Dialogus izveden 1717.</title>
                <note ana="tema" type="nn"/>
-               <note ana="žanr" corresp="dialogus">Dialogus</note>
+               <note ana="žanr" corresp="dialogus"/>
                <note ana="žanr" resp="#fancev1937" corresp="drama"/>
                <date when="1717" period="17xx_1_third"> 1717. </date>
                <placeName type="geonames" ref="3186886">Zagreb</placeName>
@@ -9848,8 +9817,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e18833">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name>Predstava izvedena 1724.</name>
+               <title xml:lang="hrv">Predstava izvedena 1724.</title>
                <note ana="tema" type="nn"/>
                <note ana="žanr" type="nn"/>
                <date when="1724" period="17xx_1_third"> 1724. </date>
@@ -10262,8 +10230,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e19717">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name>Predstava izvedena 1726.</name>
+               <title xml:lang="hrv">Predstava izvedena 1726.</title>
                <note ana="tema" type="nn"/>
                <note ana="žanr" type="nn"/>
                <date when="1726-02" period="17xx_1_third"> Pokladni ponedjeljak 1726. </date>
@@ -10690,11 +10657,10 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e20610">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
-               <name>Actiuncula</name>
+               <title xml:lang="lat">Actiuncula</title>
                <title xml:lang="hrv"/>
                <note ana="tema" type="nn"/>
-               <note ana="žanr" resp="#fancev1937" corresp="drama">Actiuncula</note>
+               <note ana="žanr" resp="#fancev1937" corresp="dramation">Actiuncula</note>
                <date when="1728" period="17xx_1_third"> 1728. </date>
                <placeName type="geonames" ref="3186886">Zagreb</placeName>
                <address>
@@ -11288,8 +11254,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e21801">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name>Predstava izvedena 1730.</name>
+               <title xml:lang="hrv">Predstava izvedena 1730.</title>
                <note ana="tema" type="nn"/>
                <note ana="žanr" type="nn"/>
                <date resp="#NJ" when="1730-02-20" period="17xx_1_third"> Na pokladni ponedjeljak
@@ -11387,14 +11352,13 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e22006">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
-               <name>Drama gratulatorium</name>
+               <title xml:lang="lat">Drama gratulatorium</title>
                <title xml:lang="hrv"/>
                <note ana="tema" corresp="prigodno"><term>U čast biskupu Ivanu Antunu pl. Benzoniju</term>; 
                   <persName ref="#benzonid1e133">Ivan Antun pl. Benzoni</persName>
                   <roleName>Biskup</roleName>; <term>biskup</term>
                </note>
-               <note ana="žanr" corresp="drama"/>
+               <note ana="žanr" corresp="panegirik"/>
                <date when="1731" period="17xx_1_third"> 1731. </date>
                <placeName ref="3191648" type="geonames">Rijeka</placeName>
                <address>
@@ -11422,9 +11386,8 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e22071">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name>Dramata iz 1731.</name>
+               <title xml:lang="lat">Dramata</title>
+               <title xml:lang="hrv">Dramata iz 1731.</title>
                <note ana="tema" type="nn"/>
                <note ana="žanr" resp="#fancev1937" corresp="drama"/>
                <date when="1731" period="17xx_1_third"> 1731. </date>
@@ -11548,8 +11511,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e22325">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name>Predstava izvedena 1732.</name>
+               <title xml:lang="hrv">Predstava izvedena 1732.</title>
                <note ana="tema" type="nn"/>
                <note ana="žanr" type="nn"/>
                <date when="1732" period="17xx_1_third"> 1732. </date>
@@ -12281,8 +12243,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e23864">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name>Predstava o poljskom nasljednom ratu</name>
+               <title xml:lang="hrv">Predstava o poljskom nasljednom ratu</title>
                <note ana="tema" corresp="povijest"><term> Poljski nasljedni rat 1733-1735.</term>;  <term>lojalnost
                   dinastiji</term></note>
                <note ana="žanr" type="nn"/>
@@ -13506,8 +13467,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e26184">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name>Predstava izvedena 1736.</name>
+               <title xml:lang="hrv">Predstava izvedena 1736.</title>
                <date when="1736" period="17xx_2_third"> 1736. </date>
                <placeName ref="3191648" type="geonames">Rijeka</placeName>
                <address>
@@ -14258,8 +14218,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e27807">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name>Predstava izvedena 1739.</name>
+               <title xml:lang="hrv">Predstava izvedena 1739.</title>
                <date when="1739" period="17xx_2_third"> 1739. </date>
                <placeName ref="3191648" type="geonames">Rijeka</placeName>
                <address>
@@ -14486,11 +14445,10 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e28310">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
-               <name>Dramatia iz 1741.</name>
-               <title xml:lang="hrv"/>
+               <title xml:lang="lat">Dramatia</title>
+               <title xml:lang="hrv">Dramatia iz 1741.</title>
                <note ana="tema" type="nn"/>
-               <note ana="žanr" resp="#fancev1937" corresp="drama"/>
+               <note ana="žanr" resp="#fancev1937" corresp="dramation"/>
                <date when="1741" period="17xx_2_third"> 1741. </date>
                <placeName type="geonames" ref="3186886">Zagreb</placeName>
                <address>
@@ -15035,10 +14993,9 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e29489">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
-               <name>Dramation iz 1744.</name>
+               <title xml:lang="lat">Dramation</title>
                <title resp="#staud" xml:lang="lat">DRAMATION</title>
-               <title xml:lang="hrv"/>
+               <title xml:lang="hrv">Dramation iz 1744.</title>
                <note ana="tema" type="nn"/>
                <note ana="žanr" corresp="drama">Dramation</note>
                <date when="1744" period="17xx_2_third"> 1744. </date>
@@ -15960,8 +15917,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e31417">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name>Predstava izvedena 5. lipnja 1746.</name>
+               <title xml:lang="hrv">Predstava izvedena 5. lipnja 1746.</title>
                <date when="1746-06-05" period="17xx_2_third"> 05.06.1746. </date>
                <placeName type="geonames" ref="3190589">Požega</placeName>
                <address>
@@ -15996,12 +15952,11 @@
             <bibl type="drama" xml:id="croala.drama.d1e31493">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name>Predstava u čast Aleksandru i Adamu Patačiću</name>
+               <title xml:lang="hrv">Predstava u čast Aleksandru i Adamu Patačiću</title>
                <note ana="tema" corresp="povijest"><term>Hrvatska</term>; <persName ref="#croala.drama.350164">Aleksandar Antun
                   Patačić</persName> i<persName ref="patacicd1e1379">Adam Patačić</persName>
                </note>
-               <note ana="žanr" type="nn"/>
+               <note ana="žanr" type="panegirik"/>
                <date when="1746" period="17xx_2_third"> 1746. </date>
                <placeName type="geonames" ref="3190589">Požega</placeName>
                <address>
@@ -16050,8 +16005,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e31609">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name>Šaljiv komad izveden 1746.</name>
+               <title xml:lang="hrv">Šaljiv komad izveden 1746.</title>
                <note ana="tema" type="nn"/>
                <note ana="žanr" corresp="šaljiv komad"/>
                <date when="1746" period="17xx_2_third"> 1746. </date>
@@ -16526,7 +16480,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1748.gilimer">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+               <title xml:lang="lat">Gilimer</title>
                <title xml:lang="hrv">Gilimer</title>
                <note ana="tema" type="nn">
                   <persName ref="#croala.drama.351564">Gilimer</persName>
@@ -17242,8 +17196,7 @@
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
                <title xml:lang="lat" resp="#staud">DRAMA ELEGANS</title>
-               <title xml:lang="hrv"/>
-               <name>Drama izvedena 1749.</name>
+               <title xml:lang="hrv">Drama izvedena 1749.</title>
                <note ana="tema" type="nn"/>
                <note ana="žanr" type="nn"/>
                <date when="1749" period="17xx_2_third"> 1749. </date>
@@ -17320,7 +17273,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1750.alexis">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat">Alexis pro sui populi salute mortem ultro subeuns</title>
+               <title xml:lang="lat">Alexis pro sui populi salute mortem ultro subiens</title>
                <title xml:lang="lat" resp="#staud">ALEXIS</title>
                <title xml:lang="hrv">Aleksije</title>
                <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <persName ref="#croala.drama.319735">Sveti Aleksij</persName>
@@ -17813,8 +17766,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e35242">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name>Šaljiv komad izveden 1750.</name>
+               <title xml:lang="hrv">Šaljiv komad izveden 1750.</title>
                <note ana="tema" type="nn"/>
                <note ana="žanr" corresp="šaljiv komad"/>
                <date when="1750" period="17xx_2_third"> 1750. </date>
@@ -18567,7 +18519,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1752.hermannus.cultor">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat">Hermannus Virginis Santcissimae cultor eximius</title>
+               <title xml:lang="lat">Hermannus Virginis Sanctissimae cultor eximius</title>
                <title resp="#staud" xml:lang="lat">HERMANNUS</title>
                <title xml:lang="hrv"/>
                <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <persName ref="#croala.drama.356757">Sveti Herman
@@ -19807,7 +19759,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e39311">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat">Bythimae rex Prusia</title>
+               <title xml:lang="lat">Bythiniae rex Prusia</title>
                <title xml:lang="lat" resp="#staud">PRUSIA BYTHINIAE REX</title>
                <title xml:lang="hrv">Pruzija, kralj bitinijski</title>
                <note ana="tema" corresp="povijest"><term>Bitinija</term>;  <term>vladari</term><persName ref="#croala.drama.3327985">Prusija </persName></note>
@@ -23313,8 +23265,7 @@
                   </add>
                </author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name>Šaljiv komad izveden 1762.</name>
+               <title xml:lang="hrv">Šaljiv komad izveden 1762.</title>
                <note ana="tema" type="nn"/>
                <note ana="žanr" type="nn"/>
                <date when="1762" period="17xx_2_third"> 1762. </date>
@@ -23711,8 +23662,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e47323">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name>Šaljiv komad izveden 1763.</name>
+               <title xml:lang="hrv">Šaljiv komad izveden 1763.</title>
                <note ana="tema" type="nn"/>
                <note ana="žanr" corresp="šaljivi komad"/>
                <date when="1763-02" period="17xx_2_third"> 1763. </date>
@@ -24333,8 +24283,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e48628">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
-               <title xml:lang="hrv"/>
-               <name>Predstava izvedena o pokladama 1766.</name>
+               <title xml:lang="hrv">Predstava izvedena o pokladama 1766.</title>
                <note ana="tema" corresp="poduka"><term>Odgoj, obrazovanje i moral</term></note>
                <note ana="žanr" resp="#NJ" corresp="Plautino stylo"/>
                <note ana="žanr" type="nn"/>
@@ -24477,10 +24426,8 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e48925">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
-               <name>Fabula Croaticis leporibus plena</name>
-               <name resp="#fancev1937">Fabula Croaticis laporibus plena</name>
-               <name resp="#staud" xml:lang="lat"/>
+               <title xml:lang="lat">Fabula Croaticis leporibus plena</title>
+               <title  xml:lang="lat" resp="#fancev1937">Fabula Croaticis leporibus plena</title>
                <title xml:lang="hrv"/>
                <note ana="tema" type="nn"/>
                <note ana="žanr" resp="#fancev1937" corresp="drama"/>
@@ -24817,8 +24764,7 @@
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">PLAUTINI SALES</title>
-               <title xml:lang="hrv"/>
-               <name>Šaljiva predstava izvedena 1768.</name>
+               <title xml:lang="hrv">Šaljiva predstava izvedena 1768.</title>
                <note ana="tema" type="nn"/>
                <note ana="žanr" corresp="šaljiva predstava"/>
                <note ana="žanr" resp="#NJ" corresp="Plautino stylo"/>
@@ -25039,8 +24985,7 @@
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">LUDI PASTORITII</title>
-               <title xml:lang="hrv"/>
-               <name>Pastirske igre izvedene 1769.</name>
+               <title xml:lang="hrv">Pastirske igre izvedene 1769.</title>
                <note ana="tema" type="nn"/>
                <note ana="žanr" corresp="pastirska igra"/>
                <date when="1769" period="17xx_3_third"> 1769. </date>
@@ -25417,9 +25362,8 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e50888">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
-               <name>Duo dramatia iz 1771.</name>
-               <title xml:lang="hrv"/>
+               <title xml:lang="lat">Duo dramatia</title>
+               <title xml:lang="hrv">Dvije male drame iz 1771.</title>
                <note ana="tema" type="nn"/>
                <note ana="žanr" resp="#fancev1937" corresp="drama"/>
                <date when="1771" period="17xx_3_third"> 1771. </date>
@@ -26519,7 +26463,7 @@
                </note>
                <note type="sadržaj"/> 
                <note type="testimonium">
-                  <quote>Elementaris classis denuum, gravem inter fratres coortam de
+                  <quote>Elementaris classis <sic>denuum</sic> <corr resp="#NJ">demum</corr>, gravem inter fratres coortam de
                   mortui Patris haereditate seditionem, feliciter diremit.</quote>
                   <bibl>(HCZagr. Cod. Ab 130, II. 1744. 59. v. - LAW Cod. 12138, 1744.
                   101. p. - LAP Cod. 118-E-l3-1744. 100.p.)</bibl>
