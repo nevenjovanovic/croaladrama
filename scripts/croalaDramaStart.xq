@@ -94,7 +94,7 @@ element html { drama:htmlhead_drama($title) ,
    
    { element h1 {
       element span {
-       attribute class { "far fa-file-alt" },
+       attribute class { "fas fa-file-alt" },
        attribute aria-hidden { "true" }
        } , 
      element a { 
