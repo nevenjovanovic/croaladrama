@@ -33,7 +33,7 @@ element html { drama:htmlhead_drama($title) ,
 
 <body text="#000000">
 <div class="jumbotron">
-<h1><span  class="fas fa-align-justify" aria-hidden="true"></span> { element span {$title} }</h1>
+<h1><span  class="fas fa-th" aria-hidden="true"></span> { element span {$title} }</h1>
 
 <div class="container-fluid">
       <div class="col-md-6 datum">
@@ -47,41 +47,54 @@ element html { drama:htmlhead_drama($title) ,
      </div>
 </div>
 <div class="container-fluid">
-   
-   { element h1 {
+
+{ element h1 {
      element span {
-       attribute class { "fas fa-asterisk" },
+       attribute class { "fas fa-book" },
        attribute aria-hidden { "true" }
        } , 
    element a {
-     attribute href {"http://croala.ffzg.unizg.hr/basex/dramachrono2"} , "Chronologice" },
-      " (omnia)"} } 
+     attribute href {"http://croala.ffzg.unizg.hr/basex/dramalibri"} , "Libri" }
+   } }
+   
+   { element h1 {
+     element span {
+       attribute class { "fas fa-clock" },
+       attribute aria-hidden { "true" }
+       } , 
+       "Chronologice &ndash; ",
+   element a {
+     attribute href {"http://croala.ffzg.unizg.hr/basex/dramachrono2"} , "omnia" }
+      } } 
       
       { 
   drama:tablefrommap($collection)  
   } 
    { element h1 {
      element span {
-       attribute class { "fas fa-asterisk" },
+       attribute class { "fas fa-sort-alpha-down" },
        attribute aria-hidden { "true" }
        } , 
+       "Tituli ",
    element a {
-     attribute href {"http://croala.ffzg.unizg.hr/basex/dramatituli"} , "Tituli" },
-      " (omnes alphabetice)"} }
+     attribute href {"http://croala.ffzg.unizg.hr/basex/dramatituli"} , "omnes alphabetice"  }
+      } }
    { element h1 {
      element span {
-       attribute class { "fas fa-asterisk" },
+       attribute class { "fas fa-map-marker-alt" },
        attribute aria-hidden { "true" }
        } , 
+       "Loca ",
    element a {
-     attribute href {"http://croala.ffzg.unizg.hr/basex/dramaloca"} , "Loca" },
-      " (omnia)"} }
+     attribute href {"http://croala.ffzg.unizg.hr/basex/dramaloca"} , "omnia" },
+      } }
    { drama:orderplacesabc($collection) } 
   
-   <h1><span class="fas fa-asterisk" aria-hidden="true"></span> Thematice</h1>
+   <h1><span class="fas fa-archive" aria-hidden="true"></span> Thematice</h1>
+   
    { element h1 {
       element span {
-       attribute class { "fas fa-asterisk" },
+       attribute class { "far fa-file-alt" },
        attribute aria-hidden { "true" }
        } , 
      element a { 

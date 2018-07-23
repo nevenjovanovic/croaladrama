@@ -33,7 +33,7 @@ element html { drama:htmlhead-tablesorter-server($title) ,
 <body>
 <div class="container-fluid">
   <div class="jumbotron">
-    <h1><span class="fas fa-align-justify" aria-hidden="true"></span><span> </span> { $title } </h1>
+    <h1><span class="fas fa-th" aria-hidden="true"></span><span> </span> { $title } </h1>
     <div class="container-fluid">
       <div class="col-md-6 datum">
       <p><a href="http://croala.ffzg.unizg.hr">CroALa</a>, { current-date() }.</p>

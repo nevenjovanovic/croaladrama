@@ -33,7 +33,7 @@ let $f := <footer class="footer">
 <p class="text-center"><a href="http://www.ffzg.unizg.hr"><img src="/basex/static/gfx/ffzghrlogo.png"/> Filozofski fakultet</a> Sveučilišta u Zagrebu / <a href="http://www.ffzg.unizg.hr">Facultas philosophica</a> Universitatis Zagrabiensis</p> 
 </div>
 <div  class="col-md-3">
-<p class="text-center"><span class="fas fa-leaf" aria-hidden="true"></span> <a href="http://croala.ffzg.unizg.hr">Croatiae</a> auctores Latini<br/>
+<p class="text-center"><span class="fas fa-feather-alt" aria-hidden="true"></span> <a href="http://croala.ffzg.unizg.hr">Croatiae</a> auctores Latini<br/>
 <a href="http://github.com"><img src="/basex/static/gfx/GitHub-Mark-32px.png"/></a> in repositorio <a href="https://github.com/nevenjovanovic/croaladrama">Github</a></p> 
 </div>
 </div>
