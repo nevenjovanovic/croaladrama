@@ -2007,6 +2007,287 @@
                </place>
             </place>
          </listPlace>
+         <listBibl type="croala.drama">
+
+            <biblStruct xml:id="croala.dramabib.tisakd1e17926">
+               <monogr>
+
+                  <author>
+                     <ref target="bedek02">Bedeković Komorski, Kazimir</ref>
+                  </author>
+                  <title>Collegii Croatici Viennensis Hilaria ante cineres. <add>Auctore Casimiro
+                        Bedekovich</add>
+                  </title>
+                  <imprint>
+                     <pubPlace ref="2761369">Viennae</pubPlace>
+                     <publisher>Literis Geroldianis</publisher>
+                     <date period="17xx_3_third">
+                        <add>1780</add>
+                     </date>
+                  </imprint>
+                  <extent>107 pag. ; 8o </extent>
+               </monogr>
+               <note>Dramata.</note>
+               <note type="other">Xa * Jurić. Scriptores</note>
+               <relatedItem type="primjerak">
+                  <ref type="signatura">NSK Zagreb RIIF-8o-1547</ref>
+               </relatedItem>
+            </biblStruct>
+
+            <biblStruct xml:id="croala.dramabib.tisakd1e18134">
+               <monogr>
+
+                  <author>
+                     <ref target="bedek02">Bedeković Komorski, Kazimir</ref>
+                  </author>
+                  <title>Ioseph. Drama dicatum Josepho Gallyuff, episc. Zagrab </title>
+                  <imprint>
+                     <pubPlace ref="2761369">Vindobonae</pubPlace>
+                     <publisher>Typis Ioan. Thom. nob. de Trattnern</publisher>
+                     <date period="17xx_3_third">1778</date>
+                  </imprint>
+                  <extent>58 pag. ; 8o</extent>
+               </monogr>
+               <note type="other">Xa * Jurić. Scriptores</note>
+               <relatedItem type="primjerak">
+                  <ref type="signatura">NSK Zagreb RIIF-8o-39 adl. 1</ref>
+               </relatedItem>
+            </biblStruct>
+
+            <biblStruct xml:id="croala.dramabib.tisakd1e42649">
+               <monogr>
+
+                  <author>
+                     <ref type="croala" target="donat01">Donati, Ivan</ref>
+                  </author>
+                  <title>Sissiensis victoria Christianis felix, Turcis funesta, antea in scenam data
+                     dum <expan>reverendissimus</expan> Dominus Dominus Thomas Kovachevich
+                     venerabilis Capituli Ecclesiae Zagrabiensis canonicus senior et custos
+                     proto-notarius apostolicus <abbr>etc.</abbr>
+                     <abbr>etc.</abbr> bene meritis de re litteraria scholaribus in academico,
+                     caesareo et regio Societatis JESU Zagrabiensi lycaeo praemia decerneret. Nunc
+                     vero honori totius venerabilis Capituli Ecclesiae Zagrabiensis praelo commissa.
+                     Dum praeside reverendi patris Francisco Prekenfeldt e Societate JESU
+                     philosophiae professore emerito positiones ex universa philosophia defenderet
+                     eruditus ac perdoctus dominus Andreas Mandel philosophiae auditor emeritus.
+                  </title>
+                  <imprint>
+                     <pubPlace ref="3186886">
+                        <add>Zagrabiae</add>
+                     </pubPlace>
+                     <publisher>s. n.</publisher>
+                     <date period="17xx_1_third" when="1717">Anno Domini 1717. Mense <gap reason="netiskano"/> die <gap reason="netiskano"/></date>
+                  </imprint>
+                  <extent>
+                     <add>38</add> pag. ; 16o </extent>
+
+               </monogr>
+               <note>Drama.</note>
+               <note type="biblio">Reference: Kajkaviana Croatica, pag. 240.</note>
+               <note type="biblio">Reference: Jembrih. O autorstvu drama Sisciensis victoria, pag.
+                  88-96.</note>
+               <note type="other">Xb * Jurić. Scriptores * II * Jurić. Scriptores</note>
+               <relatedItem type="primjerak">
+                  <ref type="signatura">NSK Zagreb RIIF-16-99</ref>
+               </relatedItem>
+            </biblStruct>
+            
+            <biblStruct xml:id="croala.dramabib.tisakd1e42649b">
+               <monogr>
+                  <title>Sissiensis victoria Christianis felix, Turcis funesta : in scenam data ab
+                     academico et caesareo-regio Societatis Jesu Zagrabiensi Lycaeo dum ex
+                     munificentia reverendissimi domini domini Thomae Kovachevich, venerabilis
+                     ecclesiae Zagrabiensis canonici senioris, et custodis, proto-notarii
+                     apostolici, etc. etc. domini domini maecenatis gratiosissimi bene meritis de re
+                     literaria scholaribus praemia distribuerentur. Anno ab incarnatione Dominica
+                     1717, mense Augusto, die 4.</title>
+                  <imprint>
+                     <pubPlace ref="3186886">
+                        <add>Zagrabiae</add>
+                     </pubPlace>
+                     <publisher>Typis Jacobi Wenceslai Heyvvel Inclyti Regni Croatiae Typographi.</publisher>
+                     <date period="17xx_1_third" when="1717-08-04">1717</date>
+                  </imprint>
+                  <extent>
+                     <add>38</add> pag. ; 16o </extent>
+                  
+               </monogr>
+               <note>Drama.</note>
+               <relatedItem type="primjerak">
+                  <ref type="signatura">Bayerische Staatsbibliothek, 1139786 4 Bavar. 2194,II,1/60#Cah.19</ref>
+               </relatedItem>
+               <relatedItem type="faksimil">
+                  <ref type="url" target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10338025-6">urn:nbn:de:bvb:12-bsb10338025-6</ref>
+               </relatedItem>
+            </biblStruct>
+
+            <biblStruct xml:id="croala.dramabib.tisakd1e81612">
+               <monogr>
+
+                  <author>
+                     <ref type="croala" target="lukar01">Lukarević, Ivan</ref>
+                  </author>
+                  <title>Stanislaus Kostka. Drama sacrum authore patre Ioanne Luccaro, Soc. Jesu </title>
+                  <imprint>
+                     <pubPlace ref="3169070">Romae</pubPlace>
+                     <publisher>Ex officina Caietani Zenobii</publisher>
+                     <date period="17xx_1_third">1709</date>
+                  </imprint>
+                  <extent>42 pag. ; 12o </extent>
+               </monogr>
+               <note>Reference: Sommervogel, V, col. 146.</note>
+               <note type="other">Reference: Kolendić, pag. 167.</note>
+               <note type="other">Xa * Jurić. Scriptores</note>
+               <note>BNC Roma</note>
+               <relatedItem type="faksimil">
+                  <ref type="url" target="https://archive.org/details/bub_gb_ldx6wPj7IMMC">archive.org bub_gb_ldx6wPj7IMMC</ref>
+               </relatedItem>
+            </biblStruct>
+
+            <biblStruct xml:id="croala.dramabib.tisakd1e64627">
+               <monogr>
+
+                  <title>DEI, et Apostolicae Sedis gratia Episcopi Bosnensis, Abbatis Sancti Adriani
+                     de Szalavar, Sacrae, Caesareae, Regiaeque Majestatis Consiliarii, etc. Domini,
+                     Domini Patroni, ac Mecoenatis gratiosissimi AB Illustrissima, Perillustri,
+                     Pernobili, Nobili, ac Ingenua Iuventute Scholastica, Caesarei Societatis Jesu
+                     Gymnasii Varasdini exhibitus. Dum Juventuti Gymnasticae de Republica literaria
+                     optime meritae sub ejusdem gratiosis auspiciis Praemia decernerentur. Varasdini
+                     Die XV. Septembris.</title>
+                  <imprint>
+                     <pubPlace ref="2778067">Graecii </pubPlace>
+                     <publisher>Apud Haeredes Widmanstadii</publisher>
+                     <date ana="nn" resp="NinaCengic" when="1710-09-15">
+                        <supplied resp="#NJ">1710-09-15</supplied>
+                     </date>
+                  </imprint>
+                  <extent>VIII pag. </extent>
+               </monogr>
+               <note>Periocha theatralis.</note>
+               <note type="other">Reference: Fancev. Prvi, pag. 127-139.</note>
+               <note type="other">Xa * Jurić. Scriptores</note>
+            </biblStruct>
+
+            <biblStruct xml:id="croala.dramabib.tisakd1e15182">
+               <monogr>
+
+                  <title>Balthasar. Tragoedia acta ludis autumnalibus a Spectabili, Perillustri,
+                     Praenobili, Nobili, ac Ingenua facultatis oratoriae iuventute Zagrabiae in
+                     Caesereo et academico Soc. Iesu Collegio anno aerae Christianae MDCCLII. mense
+                     Augusto die 24. </title>
+                  <imprint>
+                     <pubPlace>
+                        <note>S. l.</note>
+                     </pubPlace>
+                     <publisher>s. n.</publisher>
+                     <date period="17xx_2_third" when="1752-08-24"><supplied resp="#NJ">1752-08-24</supplied></date>
+                  </imprint>
+                  <extent>/4/ pag. ; 8o </extent>
+               </monogr>
+               <note>Periocha theatralis.</note>
+               <note type="other">Xa * Jurić. Scriptores</note>
+               <relatedItem type="primjerak">
+                  <ref type="signatura">NSK Zagreb RIIF-8o-223</ref>
+               </relatedItem>
+            </biblStruct>
+
+            <biblStruct xml:id="croala.dramabib.tisakd1e102210">
+               <monogr>
+
+                  <title>Paradysus Alaodini. Ab illma ... Seminarii s. Josephi juventute Ludis
+                     Saturnalibus exhibitus Zagrabiae 1728 mense Februari </title>
+                  <imprint>
+                     <pubPlace>
+                        <note>S. l.</note>
+                     </pubPlace>
+                     <publisher>s. n.</publisher>
+                     <date when="1728-02" resp="NinaCengic" period="17xx_1_third">
+                        <supplied resp="#NJ">1728-02</supplied>
+                     </date>
+                  </imprint>
+                  <extent>/2/ f. ; 4o </extent>
+               </monogr>
+               <note>Periocha theatralis.</note>
+               <note type="other">Reference: Šimčik, pag. 45-49.</note>
+               <note type="other">Reference: Baričević, sub a. 1728.</note>
+               <note type="other">IX * Jurić. Scriptores</note>
+               <relatedItem type="primjerak">
+                  <ref type="signatura">K HAZU</ref>
+               </relatedItem>
+            </biblStruct>
+
+            <biblStruct xml:id="croala.dramabib.tisakd1e155925">
+               <monogr>
+
+                  <title>Virtus triumphans sive Genovefa ludis theatralibus exhibita a civibus et
+                     juventute scholastica in civitate Segniensi in Croatia </title>
+                  <imprint>
+                     <pubPlace ref="3196359">Labaci</pubPlace>
+                     <publisher>Ad Fr. Reichardt</publisher>
+                     <date period="17xx_2_third">1734</date>
+                  </imprint>
+                  <extent>4o </extent>
+               </monogr>
+               <note>Reference: Kukuljević. Jugoslavenska knjižnica, pag. 58, nr. 224.</note>
+               <note type="other">Xa * Jurić. Scriptores</note>
+            </biblStruct>
+            <msDesc xml:id="croala.dramabib.hr-sb-afs-b-viii-17">
+               <msIdentifier>
+                  <placeName>Slavonski Brod</placeName>
+                  <institution>Arhiv Franjevačkog samostana</institution>
+                  <idno>B-VIII-17</idno></msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title><ref type="croala" target="croala.drama.1805.marijan">Sanctus Marianus</ref></title>
+                  </msItem>
+               </msContents>
+               <additional>
+                  <listBibl>
+                     <bibl type="croala" corresp="#frkin1985">Frkin 1985</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+            
+            <msDesc xml:id="hr-zg-nsk-b-viii-17">
+               <msIdentifier>
+                  <placeName>Zagreb</placeName>
+                  <institution>Nacionalna i sveučilišna knjižnica</institution>
+                  <idno>Zbirka rijetkosti: R 3071</idno>
+                  <msName>Liber Comediarum et Dramatum.</msName>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title>Venantius. Tenera in aetate Christianae Fortitudinis Miraculum </title>
+                     <note>(2-17)</note>
+                  </msItem>
+                  <msItem>
+                     <title>Drama Abdolonymus. Populi amore solitudinis delicias publicis curis posthabens. </title>
+                     <note>(18-27r)</note>
+                  </msItem>
+                  <msItem>
+                     <title>Drama octavum Lanqueta ope humana destituta coelesti prodigiose adiuta </title>
+                     <note>(30-53)</note>
+                  </msItem>
+                  <msItem>
+                     <title>Genovefa innocenter pressa, non opressa </title>
+                     <note>(54-72)</note>
+                  </msItem>
+                  <msItem>
+                     <title>Maria Stuarta seu Constantia Christiana Regali sanguine purpurata ...exhibita.. Labaci anno 1662 Mense Augusto. </title>
+                     <note>(73-90)</note>
+                  </msItem>
+                  <msItem>
+                     <title><sic>Hencricus</sic> Vili tugurio Regale ad Solium mire evectus </title>
+                     <note>(91-109)</note>
+                  </msItem>
+               </msContents>
+               <history>
+                  <provenance>
+                     <p>Na listu Ir piše: "Poklonio Juraj Malahovsky, župni pomoćnik u Petrovaradinu. 1847"</p>
+                  </provenance>
+               </history>
+            </msDesc>
+         </listBibl>
 
          <listBibl type="croala.drama">
 
@@ -5087,7 +5368,7 @@
                   </add>
                </note>
                <note type="testimonium">
-                  <quote>Rosillus adolescens, qui licentiose vivens et in emne scelus prolapsus
+                  <quote>Rosillus adolescens, qui licentiose vivens et in <sic>emne</sic> <corr resp="#NJ">omne</corr> scelus prolapsus
                      infelici exitu vitam terminat.</quote>
                   <bibl corresp="#vanino1987">Vanino 206</bibl>
                </note>
@@ -5102,7 +5383,8 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e9596">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+               <title xml:lang="lat">Obsidio urbis Viennensis a Turcis facta ejusque solatio
+                  triumphantibus de hoste christianitatis victricibus armis foederatis</title>
                <title xml:lang="hrv">Oslobođenje Beča g. 1683.</title>
                <note ana="tema" corresp="povijest"><term>Suvremena povijest</term>;  <term>Oslobođenje Beča 1683.</term></note>
                <note ana="žanr" type="nn"/>
@@ -5117,8 +5399,8 @@
                <note type="sadržaj"> Predstava je izvedena na latinskom jeziku. </note>
                <note type="testimonium">
                   <quote>Ad calcar studiosae juventuti addendum data in theatrum obsidio urbis
-                     Viennensis a Turcis facta ejusque solatio triumphontibus de hoste
-                     christianitatis victricibus armis foederatis. Praemiata ea occaione fuit
+                     Viennensis a Turcis facta ejusque solatio <sic>triumphontibus</sic> <corr resp="#NJ">triumphantibus</corr> de hoste
+                     christianitatis victricibus armis foederatis. Praemiata ea <sic>occaione</sic> <corr resp="#NJ">occasione</corr> fuit
                      concertantium diligentia, munificentia perillustris D. Antonii Troer</quote>
                   <bibl corresp="#vanino1987">LAPA 1684, NBW - Cod. 12226, IV, p. 290</bibl>
                </note>
@@ -5320,7 +5602,7 @@
                      Augustissimum.</quote>
                   <bibl corresp="#vanino1987">Vanino 209, bilj. 27.)</bibl>
                   <quote>Fastus ottomanicus Augustissimo Caesari Leopoldo supplex
-                     datus...Auditoribus placuit a veritate, sed praecipuo Actorum gratia
+                     datus... Auditoribus placuit a veritate, sed praecipuo Actorum gratia
                      commendata, quorum complures Caesareis oculis digni a peritis Aestimatoribus
                      dicebantur</quote>
                   <bibl corresp="#fest1901">Fest, II. 101</bibl>
@@ -6370,7 +6652,7 @@
                <title xml:lang="hrv"/>
                <name>Alegorija koja se naslanjala na rimski zakon da se ocoubojica baci u
                   rijeku</name>
-               <note ana="tema" corresp="povijest"><term>Rim</term>;  <term>običaji</term></note>
+               <note ana="tema" corresp="povijest"><term>Rim</term>; <term>običaji</term></note>
                <note ana="tema" corresp="alegorija"><term>Povijesna alegorija</term></note>
                <note ana="žanr" type="nn"/>
                <date when="1705" period="17xx_1_third"> 1705. </date>
@@ -6387,7 +6669,7 @@
                   </add>
                </note>
                <note type="testimonium">
-                  <quote>…ad veterem illam Romanorum legem, quae crimine parricidii obstrictos in
+                  <quote>ad veterem illam Romanorum legem, quae crimine parricidii obstrictos in
                      flumen demergi jubebat, repraesentatum ibant in Nova lege salutis ream in
                      filium Dei parricidii animam, a Justitia et Clementia demersam in fontem quem
                      Salvatoris nostri cruor fecerat ebullire. </quote>
@@ -13314,7 +13596,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e26387">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat">Selymus paricida</title>
-               <title resp="#staud" xml:lang="lat">SELYMUS PARRACIDA</title>
+               <title resp="#staud" xml:lang="lat">SELYMUS <sic>PARRACIDA</sic> <corr resp="#NJ">parricida</corr></title>
                <title resp="#matić1935a" xml:lang="lat">Selimus</title>
                <title resp="#fancev1937" xml:lang="lat">Selymus paricida</title>
                <title xml:lang="hrv">Selim I. ubojica</title>
@@ -13362,7 +13644,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e26489">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat">Toxilus servus Philargiri avari senis</title>
-               <title xml:lang="hrv">Toksil, sluga škrtoga starca Filargiva</title>
+               <title xml:lang="hrv">Toksil, sluga škrtoga starca <sic>Filargiva</sic> <corr resp="#NJ">Filargira</corr></title>
                <note ana="tema" corresp="književnost"><term>Rim</term>;  <term>Plaut</term>?</note>
                <note ana="žanr" corresp="drama"/>
                <note ana="žanr" resp="#vanino1987" corresp="Plautino stylo"/>
@@ -16380,7 +16662,7 @@
                </note>
                <note type="sadržaj"> Predstava je izvedena na latinskom jeziku. </note>
                <note type="testimonium">
-                  <quote>Media fratrum, quorum nescio, discordiae exhibuit.</quote>
+                  <quote>Media fratrum, quorum nescio, <sic>discordiae</sic> <corr resp="#NJ">discordias</corr> exhibuit.</quote>
                   <bibl>(LAW Cod. 12142, 1748. 52. v.)</bibl>
                </note>
                <relatedItem>
@@ -16429,7 +16711,7 @@
                <title resp="#staud" xml:lang="lat">SYROES</title>
                <title xml:lang="hrv">Siroj</title>
                <note ana="tema" corresp="povijest"><term>Perzija</term>; <term> vladari</term>; <term> Siroj, sin kralja Khosraua
-                  II.</term>; <persName ref="#croala.drama.352053">Siroj</persName><addName ref="#croala.drama.352053">Kavadh II.</addName></note>
+                  II.</term>; <persName ref="#croala.drama.352053">Siroj</persName> <addName ref="#croala.drama.352053">Kavadh II.</addName></note>
                <note ana="žanr" type="nn"/>
                <date when="1748" period="17xx_2_third"> 1748. </date>
                <date resp="#staud" when="1748"> Kraj školske godine 1748.</date>
@@ -17727,7 +18009,7 @@
                   <quote>Rhetores et Poëtae pro more declamarunt, Bacchi ferijs publicae etiam
                      laetitiae litarunt. Annum terminavit Eugenia, quae spectatorem et laudatorem
                      habuit Excellentissimum et reverendissimum Antistitem Zagrabiensem, praemia in
-                     annum decernantem.</quote>
+                     annum <sic>decernantem</sic> <corr resp="#NJ">decernentem</corr>.</quote>
                   <bibl>(LAW Cod. 12145, 1751. 72. r. - LAP Cod. 118-E-17, 1751.86.p.)</bibl>
                </note>
                <relatedItem>
@@ -18523,7 +18805,7 @@
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">ABDOLONYMUS</title>
-               <title xml:lang="hrv">Abdolomin</title>
+               <title xml:lang="hrv"><sic>Abdolomin</sic> <corr resp="#NJ">Abdolonim</corr></title>
                <note ana="tema" corresp="povijest"><term>Sidon</term>; <term> vladari</term>; <persName ref="#croala.drama.357374">Abdolonim</persName>
                </note>
                <note ana="žanr" type="nn"/>
@@ -18961,7 +19243,7 @@
             <bibl type="drama" xml:id="croala.drama.1754.abdolonimus">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat">Abdolonimus</title>
-               <title xml:lang="lat" resp="#staud">ABDOLOMINUS AD SOLIUM EVECTUS</title>
+               <title xml:lang="lat" resp="#staud"><sic>ABDOLOMINUS</sic> <corr resp="#NJ">Abdolonimus</corr> AD SOLIUM EVECTUS</title>
                <title xml:lang="hrv">Abdolonim</title>
                <note ana="tema" corresp="povijest"><term>Sidon</term>; <term>vladari</term><persName ref="#croala.drama.357374">Abdolonim</persName>
                </note>
@@ -19425,7 +19707,7 @@
                   <date resp="#vanino1917" when="1754" period="17xx_2_third"> 1754. </date>
                </note>
                <note type="testimonium">
-                  <quote>Syntaxis Menoecenum victimam se pro patria devoventem exhibuit.</quote>
+                  <quote>Syntaxis <sic>Menoecenum</sic> <corr resp="#NJ">Menoeceum</corr> victimam se pro patria devoventem exhibuit.</quote>
                   <bibl>(LAW Cod. 12148, 1754. 109. v.)</bibl>
                </note>
                <relatedItem>
@@ -20165,7 +20447,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e40643">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat">Menosceus</title>
+               <title xml:lang="lat"><sic>Menosceus</sic> <corr resp="#NJ">Menoeceus</corr></title>
                <title resp="#staud" xml:lang="lat">MENAECEUS</title>
                <title xml:lang="hrv"/>
                <note ana="tema" corresp="povijest"><term>Legende</term>;  <term>Sedmorica protiv
@@ -20368,6 +20650,7 @@
                   moral</term>; <persName ref="#croala.drama.362148">Ukundo</persName>
                </note>
                <note ana="žanr" type="nn"/>
+               <note ana="tema" corresp="regija" cert="medium"><term>Japan</term></note>
                <date when="1756" period="17xx_2_third"> 1756. </date>
                <placeName ref="3188383" type="geonames">Varaždin</placeName>
                <address>
@@ -20950,7 +21233,7 @@
                </note>
                <note type="sadržaj"> Predstava je izvedena na latinskom jeziku. </note>
                <note type="testimonium">
-                  <quote>Suprema Grammatices classis Artaxerxiis in Artabanum clementiam
+                  <quote>Suprema Grammatices classis <sic>Artaxerxiis</sic> <corr resp="#NJ">Artaxerxis</corr> in Artabanum clementiam
                      exhibuit.</quote>
                   <bibl>(LAW Cod. 12152, 1758. 72. v.)</bibl>
                </note>
@@ -21155,7 +21438,7 @@
                </note>
                <note type="sadržaj"> Predstava je izvedena na latinskom jeziku. </note>
                <note type="testimonium">
-                  <quote>Syntaxis in placido Placuit.</quote>
+                  <quote>Syntaxis in <sic>placido Placuit</sic> <corr resp="#NJ">Placido placuit</corr>.</quote>
                   <bibl>(LAW Cod. 12152, 1758. 74.v.)</bibl>
                </note>
                <note type="testimonium">
@@ -21404,8 +21687,8 @@
                   <bibl corresp="#matić1935a">Historia 248</bibl>
                </note>
                <note type="criticum" resp="#NČ">Staud ima zasebno predstavu CLAUDIUS, a zasebno
-                  izvedbu djela VICTORIUS ET LUPEREUS. Prema tome su i razdijeljeni izvođači,
-                  Claudius principisti, Victorius et Lupereus parvisti.
+                  izvedbu djela VICTORIUS ET <sic>LUPEREUS</sic> <corr resp="#NJ">Lupercus</corr>. Prema tome su i razdijeljeni izvođači,
+                  Claudius principisti, Victorius et <sic>Lupereus</sic> <corr resp="#NJ">Lupercus</corr> parvisti.
                   <bibl corresp="#staud">Staud 327</bibl>
                </note>
                <relatedItem>
@@ -22069,7 +22352,7 @@
                </note>
                <note type="sadržaj"> Predstava je izvedena na latinskom jeziku. </note>
                <note type="testimonium">
-                  <quote>Rhetores et Poetae praeterquam quod cum laude diclamarint, Olynthum communi
+                  <quote>Rhetores et Poetae praeterquam quod cum laude <sic>diclamarint</sic> <corr resp="#NJ">declamarint</corr>, Olynthum communi
                      ordinum laude dederunt.</quote>
                   <bibl>(LAW Cod. 12154, 1760. 70. v.)</bibl>
                </note>
@@ -22601,7 +22884,7 @@
                   <date resp="#matić1935a" when="1765" period="17xx_2_third"> 1765. </date>
                </note>
                <note type="testimonium">
-                  <quote>Quod non dum justitium Scenis indictum esset in Suprema Grammatices Saulis
+                  <quote>Quod <sic>non dum</sic> <corr resp="#NJ">nondum</corr> justitium Scenis indictum esset in Suprema Grammatices Saulis
                      abjectio theatrum animavit.</quote>
                   <bibl>(LAW Cod. 12156, 1762. 45. r.)</bibl>
                </note>
@@ -23432,7 +23715,7 @@
                <name>Šaljiv komad izveden 1763.</name>
                <note ana="tema" type="nn"/>
                <note ana="žanr" corresp="šaljivi komad"/>
-               <date when="1763" period="17xx_2_third"> 1763. </date>
+               <date when="1763-02" period="17xx_2_third"> 1763. </date>
                <date resp="#staud" when="1763-02"> Fašnik 02.1763. </date>
                <placeName ref="3188383" type="geonames">Varaždin</placeName>
                <address>
@@ -23461,6 +23744,7 @@
                </relatedItem>
                <ref>RHK 656</ref>
             </bibl>
+            
             <bibl type="drama" xml:id="croala.drama.d1e47400">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat">Thomas Nadasdius de Turcis ad Jassenovacz victor</title>
@@ -23666,7 +23950,7 @@
                <title xml:lang="hrv">Siroe, sin Kozroe II</title>
                <title xml:lang="hrv">Siroj</title>
                <note ana="tema" corresp="povijest"><term>Perzija</term>; <term> vladari</term>; 
-                  <persName ref="#croala.drama.352053">Siroj></persName><addName ref="#croala.drama.352053">Kavadh II.</addName></note>
+                  <persName ref="#croala.drama.352053">Siroj</persName> <addName ref="#croala.drama.352053">Kavadh II.</addName></note>
                <note ana="žanr" type="nn"/>
                <date when="1764" period="17xx_2_third"> 1764. </date>
                <placeName ref="3188383" type="geonames">Varaždin</placeName>
@@ -24051,7 +24335,8 @@
                <title xml:lang="lat"/>
                <title xml:lang="hrv"/>
                <name>Predstava izvedena o pokladama 1766.</name>
-               <note ana="tema" type="nn"/>
+               <note ana="tema" corresp="poduka"><term>Odgoj, obrazovanje i moral</term></note>
+               <note ana="žanr" resp="#NJ" corresp="Plautino stylo"/>
                <note ana="žanr" type="nn"/>
                <date when="1766-02" period="17xx_2_third"> Poklade 1766. </date>
                <placeName type="geonames" ref="3190589">Požega</placeName>
@@ -24176,8 +24461,8 @@
                <note type="testimonium">
                   <quote>Petrovardinensi juventuti literaria opportuna Sedes in ipsa residentia est
                      constituta. Progressus literarios ipse Reverendus et Illustrissimus Episcopus
-                     periclitari, laudare et munerari dignatus est, Chremes datus plaucit. Domus
-                     Manethiana splendida praemiaet velim annum alterum Suffecture contulit.</quote>
+                     periclitari, laudare et munerari dignatus est, Chremes datus <sic>plaucit</sic> <corr resp="#NJ">placuit</corr>. Domus
+                     Manethiana splendida praemia et <sic>velim</sic> <corr resp="#NJ">vel in</corr> annum alterum <sic>Suffecture</sic> <corr resp="#NJ">suffectura</corr> contulit.</quote>
                   <bibl>(LAW Cod. 12161, 1767. 61. r.)</bibl>
                </note>
                <relatedItem>
@@ -24490,8 +24775,8 @@
                </note>
                <note type="sadržaj"> Predstava je izvedena na latinskom jeziku. </note>
                <note type="testimonium">
-                  <quote>Anno exitu Homo ad genium suum referens omnia et Excellentissimus Generali
-                     nobilissimorumque virorum coronae admondum placuit. Praemia.</quote>
+                  <quote><sic>Anno</sic> <corr resp="#NJ">Anni</corr> exitu Homo ad genium suum referens omnia et Excellentissimus Generali
+                     nobilissimorumque virorum coronae <sic>admondum</sic> <corr resp="#NJ">admodum</corr> placuit. Praemia.</quote>
                   <bibl>(LAW Cod. 12162, 1768. 55. r.)</bibl>
                </note>
                <relatedItem>
@@ -24536,6 +24821,7 @@
                <name>Šaljiva predstava izvedena 1768.</name>
                <note ana="tema" type="nn"/>
                <note ana="žanr" corresp="šaljiva predstava"/>
+               <note ana="žanr" resp="#NJ" corresp="Plautino stylo"/>
                <date when="1768" period="17xx_3_third"> 1768. </date>
                <placeName ref="3188383" type="geonames">Varaždin</placeName>
                <address>
@@ -26594,7 +26880,7 @@
                </note>
                <note type="sadržaj"/>
                <note type="testimonium">
-                  <quote>Actione altera excidatus in sludiis fervor.</quote>
+                  <quote>Actione altera <sic>excidatus</sic> <corr resp="#NJ">excitatus</corr> in studiis fervor.</quote>
                   <bibl>(LAW Cod. 12131, 1737. 56. v.)</bibl>
                </note>
                <relatedItem>
@@ -26693,7 +26979,7 @@
                </note>
                <note type="sadržaj"/> 
                <note type="testimonium">
-                  <quote>Posegae industriam suam Magistritum in Theatro, tum in 
+                  <quote>Posegae industriam suam Magistri tum in Theatro, tum in 
                   Rostro probarunt.</quote>
                   <bibl>(LAW Cod. 12140, 1746. 113. r. - LAP Cod. 118-E-15, 1746. 222. p.)</bibl>
                </note>
@@ -26765,7 +27051,7 @@
                </note>
                <note type="sadržaj"/> 
                <note type="testimonium">
-                  <quote>Posegani idunum commemorant quod Syntaxis, Grammatica, Elementari
+                  <quote>Posegani id unum commemorant quod Syntaxis, Grammatica, Elementari
                   Principia juncta honorificae in theatrum prodierint lectis sub anni finem
                   eorum nominibus, qui in literarum palestra praemia meruerunt.</quote>
                   <bibl>(LAW Cod. 12146, 1752. 43. r.)</bibl>
@@ -26799,7 +27085,7 @@
                </note>
                <note type="sadržaj"/> 
                <note type="testimonium">
-                  <quote>Syntaxis juncta Grammaticae historium specimen dedit.</quote>
+                  <quote>Syntaxis juncta Grammaticae <sic>historium</sic> <corr resp="#NJ">historicum</corr> specimen dedit.</quote>
                   <bibl>(LAW Cod. 12148, 1754. 107. v.)</bibl>
                </note>
                <note type="criticum" resp="#NČ">Staudova napomena da je to 
@@ -28012,8 +28298,8 @@
                </note>
                <note type="sadržaj"/>
                <note type="testimonium">
-                  <quote>Rhetores et Poëtae quoties declamarunt. Aliae quoque  
-                  classes thatrum vocale reddiderunt.</quote>
+                  <quote>Rhetores et Poëtae <sic>quoties</sic> <corr resp="#NJ">aliquoties</corr> declamarunt. Aliae quoque  
+                  classes <sic>thatrum</sic> <corr resp="#NJ">theatrum</corr> vocale reddiderunt.</quote>
                   <bibl>(LAW Cod. 12155, 1761. 68. v.)</bibl>
                </note>
                <relatedItem>
@@ -28023,34 +28309,7 @@
                </relatedItem>
                <ref>STAUD 301b</ref>
             </bibl>
-            <bibl type="drama" xml:id="croala.drama.d1e56759">
-               <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat" resp="#staud"/>
-               <title xml:lang="hrv"/>
-               <note ana="tema" type="nn"/>
-               <note ana="žanr" type="nn"/>
-               <date when="1763-02" period="17xx_2_third"> O pokladama 02.1763. </date>
-               <placeName ref="3188383" type="geonames">Varaždin</placeName>
-               <address>
-                  <name ref="#varaždin001">Đačko kazalište isusovačke gimnazije u Varaždinu</name>
-              </address>
-               <note type="izvođač">
-
-                  <orgName ref="#org003.4"><name>Đaci sintakse isusovačke gimnazije u Varaždinu</name></orgName>
-               </note>
-               <note type="sadržaj"/>
-               <note type="testimonium">
-                  <quote>Suprema Grammatices Bacchi ferijs risum spectatorum prolicere 
-                  studuit.</quote>
-                  <bibl>(LAW Cod. 12157, 1763. 66. r.)</bibl>
-               </note>
-               <relatedItem>
-                  <listBibl>
-                     <bibl type="staud">Staud 302</bibl>
-                  </listBibl>
-               </relatedItem>
-               <ref>STAUD 302</ref>
-            </bibl>
+            
             <bibl type="drama" xml:id="croala.drama.d1e56818">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat" resp="#staud">JONATHAS</title>
