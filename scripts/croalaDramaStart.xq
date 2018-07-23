@@ -62,7 +62,7 @@ element html { drama:htmlhead_drama($title) ,
        attribute class { "fas fa-clock" },
        attribute aria-hidden { "true" }
        } , 
-       "Chronologice &ndash; ",
+       "Chronologice – ",
    element a {
      attribute href {"http://croala.ffzg.unizg.hr/basex/dramachrono2"} , "omnia" }
       } } 
