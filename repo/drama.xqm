@@ -371,6 +371,20 @@ return $placemap
 )
 return $maps
 };
+
+(: return map of ids and placenames :)
+declare function drama:idPlaceName($collection) {
+let $maps := map:merge(
+for $d in drama:dramaloca($collection)
+let $place := $d/*:placeName
+let $placestring := $place/string()
+let $placeref := $place/@ref/string()
+let $placerefmap := map:entry( $placeref , $placestring)
+return $placerefmap
+)
+return $maps
+};
+
 (: return count of performances by place, unsorted :)
 (: format as Bootstrap cards :)
 declare function drama:perfbyplace($collection){
@@ -413,12 +427,19 @@ return $d
 }
 };
 
+(: get all performances in place with a certain ID / locus :)
 declare function drama:dramalocus1($collection, $locus) {
   for $d in collection($collection)//*:listBibl[@type="croala.drama"]/*:bibl[*:placeName/@ref=$locus]
   let $placeref := $d/*:placeName/@ref
   let $timeref := $d/*:date[1]/@when
   order by $timeref
   return $d
+};
+
+(: from a map with IDs and names, get name for ID :)
+declare function drama:fromIDgetName($collection, $locus) {
+let $map := drama:idPlaceName($collection)
+return map:get($map, $locus)
 };
 
 (: display performances in a place: title with link to individual record, time, notes :)

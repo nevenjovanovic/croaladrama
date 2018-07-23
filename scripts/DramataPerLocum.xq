@@ -66,9 +66,9 @@ element html { drama:htmlhead_drama($title) ,
 
       <div class="container-fluid col-xs-8 col-md-offset-1">
       <blockquote class="croala">
-      <h1>Dramata in { $locus }</h1>
+      <h1>Dramata in { drama:fromIDgetName($collection,$locus) }</h1>
  {
-   drama:dramalocus1($collection, $locus)
+   drama:makeplacetable($collection, $locus)
  }
  
 
