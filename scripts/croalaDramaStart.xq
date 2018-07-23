@@ -86,7 +86,7 @@ element html { drama:htmlhead_drama($title) ,
        } , 
        "Loca ",
    element a {
-     attribute href {"http://croala.ffzg.unizg.hr/basex/dramaloca"} , "omnia" },
+     attribute href {"http://croala.ffzg.unizg.hr/basex/dramaloca"} , "omnia" }
       } }
    { drama:orderplacesabc($collection) } 
   
