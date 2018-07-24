@@ -67,25 +67,32 @@ element html { drama:htmlhead_drama($title) ,
      attribute href {"http://croala.ffzg.unizg.hr/basex/dramachrono2"} , "omnia" }
       } } 
       
-      { element h3 { "Per annos quoslibet"} ,
+      
+      
+      { 
+      element h2 { "Per saecula"} ,
+  drama:tablefrommap($collection)  
+  } 
+  
+  { element h3 { "Per annos quoslibet"} ,
     element p { "Annum numerice scribe aut utere expressione regulari, ut illustratur URL indiculis quae sequuntur: " ,
+    element br {},
   element a {
     attribute href { "http://croala.ffzg.unizg.hr/basex/croaladramaperannum/1754" },
     "croala.ffzg.unizg.hr/basex/croaladramaperannum/1754"
   },
+  element br {},
   element a {
     attribute href { "http://croala.ffzg.unizg.hr/basex/croaladramaperannum/165.*" },
     "croala.ffzg.unizg.hr/basex/croaladramaperannum/165.*"
   },
+  element br {},
    element a {
     attribute href { "http://croala.ffzg.unizg.hr/basex/croaladramaperannum/17[23].*" },
     "croala.ffzg.unizg.hr/basex/croaladramaperannum/17[23].*"
   }
 } }
-      
-      { 
-  drama:tablefrommap($collection)  
-  } 
+  
    { element h1 {
      element span {
        attribute class { "fas fa-sort-alpha-down" },
