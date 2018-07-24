@@ -65,7 +65,7 @@ element html { drama:htmlhead_drama($title) ,
     "." }
          </div>
          <div class="col-md-4 dbinfo">
-        <p>Functionis indiculus: <br/><tt>{rest:uri()}</tt>.</p>
+        <p>Functionis indiculus: <tt>{rest:uri()}</tt>.</p>
       { drama:countplayentries($collection) }
          </div>
         <div class="col-md-4 dbinfo">
