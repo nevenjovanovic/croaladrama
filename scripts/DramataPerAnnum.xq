@@ -55,14 +55,11 @@ element html { drama:htmlhead_drama($title) ,
     <div class="container-fluid">
       <div class="col-md-6 datum">
       <p><a href="http://croala.ffzg.unizg.hr">CroALa</a>, { current-date() }.</p>
-      <p>Functionis indiculus: <tt>{rest:uri()}</tt>.</p>
-      { drama:countplayentries($collection) }
+      
       </div>
       <div class="container">
       <div class="row">
-      <div class="col-md-4 dbinfo">
-        <p/>
-         </div>
+      
         <div class="col-md-4 dbinfo">
         { "Vade retro ad ",
       element a {
@@ -70,6 +67,10 @@ element html { drama:htmlhead_drama($title) ,
         "incipit"
       },
     "." }
+         </div>
+         <div class="col-md-4 dbinfo">
+        <p>Functionis indiculus: <tt>{rest:uri()}</tt>.</p>
+      { drama:countplayentries($collection) }
          </div>
         <div class="col-md-4 dbinfo">
         {croala:infodb($collection)}
