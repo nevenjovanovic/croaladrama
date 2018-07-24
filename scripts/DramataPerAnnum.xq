@@ -58,8 +58,20 @@ element html { drama:htmlhead_drama($title) ,
       <p>Functionis indiculus: <tt>{rest:uri()}</tt>.</p>
       { drama:countplayentries($collection) }
       </div>
-      <div class="col-md-6 dbinfo">
+      <div class="container">
+      <div class="row">
+        <div class="col-md-6 dbinfo">
+        { "Vade retro ad ",
+      element a {
+        attribute href { "http://croala.ffzg.unizg.hr/basex/drama" },
+        "incipit"
+      },
+    "." }
+         </div>
+        <div class="col-md-6 dbinfo">
         {croala:infodb($collection)}
+         </div>
+      </div>
       </div>
      </div>
   </div>
@@ -67,7 +79,7 @@ element html { drama:htmlhead_drama($title) ,
 
       <div class="container-fluid col-xs-8 col-md-offset-1">
       <blockquote class="croala">
-      <h1>Dramata in { $annus }; inventa sunt { count(drama:dramaAnnus1($collection, $annus)) || "."}</h1>
+      <h1>Dramata in { $annus } inventa sunt { count(drama:dramaAnnus1($collection, $annus)) || "."}</h1>
  {
    drama:makeyearsettable($collection, $annus)
  }
