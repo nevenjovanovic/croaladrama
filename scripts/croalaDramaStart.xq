@@ -62,7 +62,8 @@ element html { drama:htmlhead_drama($title) ,
        attribute class { "fas fa-clock" },
        attribute aria-hidden { "true" }
        } , 
-       "Chronologice – ",
+       "Chronologice" },
+       element h2 {
    element a {
      attribute href {"http://croala.ffzg.unizg.hr/basex/dramachrono2"} , "omnia" }
       } } 
@@ -77,19 +78,22 @@ element html { drama:htmlhead_drama($title) ,
   { element h3 { "Per annos quoslibet"} ,
     element p { "Annum numerice scribe aut utere expressione regulari, ut illustratur URL indiculis quae sequuntur: " ,
     element br {},
+    "Ut dramata anno 1754 exhibita inspicias: "
   element a {
-    attribute href { "http://croala.ffzg.unizg.hr/basex/croaladramaperannum/1754" },
-    "croala.ffzg.unizg.hr/basex/croaladramaperannum/1754"
+    attribute href { "http://croala.ffzg.unizg.hr/basex/dramaperannum/1754" },
+    "croala.ffzg.unizg.hr/basex/dramaperannum/1754"
   },
   element br {},
+  "Ut dramata annis 1650-1659 (165.+) exhibita inspicias: "
   element a {
-    attribute href { "http://croala.ffzg.unizg.hr/basex/croaladramaperannum/165.*" },
-    "croala.ffzg.unizg.hr/basex/croaladramaperannum/165.*"
+    attribute href { "http://croala.ffzg.unizg.hr/basex/dramaperannum/165.*" },
+    "croala.ffzg.unizg.hr/basex/dramaperannum/165.+"
   },
   element br {},
+  "Ut dramata annis 1720-1739 (17[23].+) exhibita inspicias: "
    element a {
-    attribute href { "http://croala.ffzg.unizg.hr/basex/croaladramaperannum/17[23].*" },
-    "croala.ffzg.unizg.hr/basex/croaladramaperannum/17[23].*"
+    attribute href { "http://croala.ffzg.unizg.hr/basex/dramaperannum/17[23].*" },
+    "croala.ffzg.unizg.hr/basex/dramaperannum/17[23].+"
   }
 } }
   

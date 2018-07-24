@@ -473,3 +473,44 @@ declare function drama:makeplacetable($collection, $locus){
 }
 }
 };
+
+(: retrieve all performances for a certain year or a set of years as regex :)
+
+declare function drama:dramaAnnus1($collection, $annus) {
+  for $d in collection($collection)//*:listBibl[@type="croala.drama"]/*:bibl[*:date[matches(@when, $annus)]]
+  let $yearref := $d/*:date[1]/@when
+  return $d
+};
+
+(: display performances in a year: TBA title with link to individual record, time, notes :)
+(: return alphabetical list of plays? :)
+declare function drama:dramaPerAnnumTabula($collection, $annus) {
+  for $d in drama:dramaAnnus1($collection, $annus)
+  return element tr {
+  element td { drama:ignoratur2($d) } ,
+  element td { $d/*:date[1]/@when/string() } ,
+  element td { for $row in $d/*[not(name()=("date", "title"))]
+                return 
+                if ($row/descendant::*:sic) 
+                then element span { attribute class { "notarow"},  dramahelp:remove-elements-deep($row, "sic") }
+                else element span { attribute class { "notarow"}, normalize-space(data($row)) } }
+}
+};
+
+(: put all performances for a certain period of years in a table:)
+
+declare function drama:makeyearsettable($collection, $annus) {
+  element table {
+    (: attribute class {"table"}, :)
+  element thead {
+    element tr {
+      element th { "Titulus "},
+      element th { "Tempus" },
+      element th { "Notae" }
+    }
+  } ,
+  element tbody { 
+  drama:dramaPerAnnumTabula($collection, $annus)
+}
+}
+};
