@@ -54,7 +54,7 @@ element html { drama:htmlhead_drama($title) ,
        attribute aria-hidden { "true" }
        } , 
    element a {
-     attribute href {"http://croala.ffzg.unizg.hr/basex/dramalibri"} , "Libri" }
+     attribute href {"http://croala.ffzg.unizg.hr/basex/dramalibri"} , "Libri scripti et impressi" }
    } }
    
    { element h1 {
@@ -66,6 +66,22 @@ element html { drama:htmlhead_drama($title) ,
    element a {
      attribute href {"http://croala.ffzg.unizg.hr/basex/dramachrono2"} , "omnia" }
       } } 
+      
+      { element h3 { "Per annos quoslibet"} ,
+    element p { "Annum numerice scribe aut utere expressione regulari, ut illustratur URL indiculis quae sequuntur: " ,
+  element a {
+    attribute href { "http://croala.ffzg.unizg.hr/basex/croaladramaperannum/1754" },
+    "croala.ffzg.unizg.hr/basex/croaladramaperannum/1754"
+  },
+  element a {
+    attribute href { "http://croala.ffzg.unizg.hr/basex/croaladramaperannum/165.*" },
+    "croala.ffzg.unizg.hr/basex/croaladramaperannum/165.*"
+  },
+   element a {
+    attribute href { "http://croala.ffzg.unizg.hr/basex/croaladramaperannum/17[23].*" },
+    "croala.ffzg.unizg.hr/basex/croaladramaperannum/17[23].*"
+  }
+} }
       
       { 
   drama:tablefrommap($collection)  
