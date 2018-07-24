@@ -53,14 +53,10 @@ element html { drama:htmlhead_drama($title) ,
 <div class="jumbotron">
     <h1><span class="fas fa-clock" aria-hidden="true"></span><span> </span> { $title } </h1>
     <div class="container-fluid">
-      <div class="col-md-6 datum">
-      <p><a href="http://croala.ffzg.unizg.hr">CroALa</a>, { current-date() }.</p>
-      
-      </div>
-      <div class="container">
       <div class="row">
       
         <div class="col-md-4 dbinfo">
+        <p><a href="http://croala.ffzg.unizg.hr">CroALa</a>, { current-date() }.</p>
         { "Vade retro ad ",
       element a {
         attribute href { "http://croala.ffzg.unizg.hr/basex/drama" },
@@ -69,7 +65,7 @@ element html { drama:htmlhead_drama($title) ,
     "." }
          </div>
          <div class="col-md-4 dbinfo">
-        <p>Functionis indiculus: <tt>{rest:uri()}</tt>.</p>
+        <p>Functionis indiculus: <br/><tt>{rest:uri()}</tt>.</p>
       { drama:countplayentries($collection) }
          </div>
         <div class="col-md-4 dbinfo">
@@ -77,7 +73,6 @@ element html { drama:htmlhead_drama($title) ,
          </div>
       </div>
       </div>
-     </div>
   </div>
   
 
