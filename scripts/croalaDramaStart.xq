@@ -33,7 +33,7 @@ element html { drama:htmlhead_drama($title) ,
 
 <body text="#000000">
 <div class="jumbotron">
-<h1><span  class="fas fa-th" aria-hidden="true"></span> { element span {$title} }</h1>
+<h1><span  class="fas fa-th" aria-hidden="true"></span> { element span { " "} , element span {$title} }</h1>
 
 <div class="container-fluid">
       <div class="col-md-6 datum">
@@ -53,6 +53,7 @@ element html { drama:htmlhead_drama($title) ,
        attribute class { "fas fa-book" },
        attribute aria-hidden { "true" }
        } , 
+       element span { " "} ,
    element a {
      attribute href {"http://croala.ffzg.unizg.hr/basex/dramalibri"} , "Libri scripti et impressi" }
    } }
@@ -61,11 +62,12 @@ element html { drama:htmlhead_drama($title) ,
      element span {
        attribute class { "fas fa-clock" },
        attribute aria-hidden { "true" }
-       } , 
+       } ,
+      element span { " "} ,
        "Chronologice" },
        element h2 {
    element a {
-     attribute href {"http://croala.ffzg.unizg.hr/basex/dramachrono2"} , "omnia" }
+     attribute href {"http://croala.ffzg.unizg.hr/basex/dramachrono2"} , "Omnia chronologice" }
       } } 
       
       
@@ -76,7 +78,12 @@ element html { drama:htmlhead_drama($title) ,
   } 
   
   { element h3 { "Per annos quoslibet"} ,
-    element p { "Annum numerice scribe aut utere expressione regulari, ut illustratur URL indiculis quae sequuntur: " ,
+    element p { 
+    "Annum numerice scribe aut utere " , 
+    element a { 
+    attribute href { "https://en.wikipedia.org/wiki/Regular_expression" } ,
+    "expressione regulari"}, 
+    ", ut illustratur URL indiculis quae sequuntur: " ,
     element br {},
     "Ut dramata anno 1754 exhibita inspicias: ",
   element a {
@@ -84,17 +91,19 @@ element html { drama:htmlhead_drama($title) ,
     "croala.ffzg.unizg.hr/basex/dramaperannum/1754"
   },
   element br {},
-  "Ut dramata annis 1650-1659 (165.+) exhibita inspicias: ",
+  "... annis 1650-1659 (165.+) exhibita: ",
   element a {
     attribute href { "http://croala.ffzg.unizg.hr/basex/dramaperannum/165.*" },
     "croala.ffzg.unizg.hr/basex/dramaperannum/165.+"
   },
   element br {},
-  "Ut dramata annis 1720-1739 (17[23].+) exhibita inspicias: ",
+  "... annis 1720-1739 (17[23].+) exhibita: ",
    element a {
     attribute href { "http://croala.ffzg.unizg.hr/basex/dramaperannum/17[23].*" },
     "croala.ffzg.unizg.hr/basex/dramaperannum/17[23].+"
-  }
+  },
+  element br {},
+  "etc. etc."
 } }
   
    { element h1 {
@@ -102,6 +111,7 @@ element html { drama:htmlhead_drama($title) ,
        attribute class { "fas fa-sort-alpha-down" },
        attribute aria-hidden { "true" }
        } , 
+       element span { " "} ,
        "Tituli ",
    element a {
      attribute href {"http://croala.ffzg.unizg.hr/basex/dramatituli"} , "omnes alphabetice"  }
@@ -111,6 +121,7 @@ element html { drama:htmlhead_drama($title) ,
        attribute class { "fas fa-map-marker-alt" },
        attribute aria-hidden { "true" }
        } , 
+       element span { " "} ,
        "Loca ",
    element a {
      attribute href {"http://croala.ffzg.unizg.hr/basex/dramaloca"} , "omnia" }
@@ -124,6 +135,7 @@ element html { drama:htmlhead_drama($title) ,
        attribute class { "fas fa-file-alt" },
        attribute aria-hidden { "true" }
        } , 
+       element span { " "} ,
      element a { 
      attribute href { "http://croala.ffzg.unizg.hr/basex/dramabib" } , 
      "Fontes et alia opera docta"
