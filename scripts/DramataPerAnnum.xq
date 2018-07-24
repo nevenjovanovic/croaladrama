@@ -60,7 +60,10 @@ element html { drama:htmlhead_drama($title) ,
       </div>
       <div class="container">
       <div class="row">
-        <div class="col-md-6 dbinfo">
+      <div class="col-md-4 dbinfo">
+        <p/>
+         </div>
+        <div class="col-md-4 dbinfo">
         { "Vade retro ad ",
       element a {
         attribute href { "http://croala.ffzg.unizg.hr/basex/drama" },
@@ -68,7 +71,7 @@ element html { drama:htmlhead_drama($title) ,
       },
     "." }
          </div>
-        <div class="col-md-6 dbinfo">
+        <div class="col-md-4 dbinfo">
         {croala:infodb($collection)}
          </div>
       </div>
