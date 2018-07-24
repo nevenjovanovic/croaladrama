@@ -67,7 +67,7 @@ element html { drama:htmlhead_drama($title) ,
 
       <div class="container-fluid col-xs-8 col-md-offset-1">
       <blockquote class="croala">
-      <h1>Dramata in { $annus }</h1>
+      <h1>Dramata in { $annus }; inventa sunt { count(drama:dramaAnnus1($collection, $annus)) || "."}</h1>
  {
    drama:makeyearsettable($collection, $annus)
  }
