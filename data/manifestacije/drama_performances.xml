@@ -3553,12 +3553,12 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1628.ingori">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat">Joannis Ingori</title>
+               <title xml:lang="lat">Joannes Ingori</title>
                <title xml:lang="lat" resp="#staud">MARTYRIUM JOANNIS INGORI</title>
                <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <persName
-                     ref="#croala.drama.316977">Joannis Ingori</persName></note>
+                     ref="#croala.drama.316977">Joannes Ingori</persName></note>
                <note ana="tema" corresp="regija"><term>Japan</term></note>
-               <note ana="tema" corresp="kršćanstvo.hagiografija"><persName ref="#croala.drama.316977">Joannis
+               <note ana="tema" corresp="kršćanstvo.hagiografija"><persName ref="#croala.drama.316977">Joannes
                      Ingori</persName></note>
                <note ana="žanr" resp="#fancev1937" corresp="drama"/>
                <date when="1628" period="16xx_1_third"> 1628. </date>
@@ -3797,7 +3797,7 @@
                <title xml:lang="lat">Stultus propter Christum</title>
                <title xml:lang="lat">Sanctus Simeonus Abbatus</title>
                <title resp="#staud" xml:lang="lat">ACTIONES - SIMEON</title>
-               <title xml:lang="hrv">Sveti Simeon opat</title>
+               <title xml:lang="hrv">Sveti Simeon Opat</title>
                <note ana="tema" corresp="kršćanstvo"><term>Sveci</term><persName
                      ref="#croala.drama.336269">Sveti Simeon Opat</persName>
                </note>
@@ -4375,7 +4375,7 @@
                <note ana="tema" corresp="povijest"><term>Hrvatska</term>; <term>Vladari i
                      dužnosnici</term>
                   <persName ref="#croala.drama.338587">Ivan Drašković</persName>
-                  <roleName>Ban</roleName>
+                  <roleName ref="#croala.drama.338587">Ban</roleName>
                </note>
                <note ana="tema" corresp="regija"><term>Hrvatska</term></note>
                <note ana="žanr" resp="#fancev1937" corresp="drama"/>
@@ -4527,7 +4527,7 @@
                <note ana="tema" corresp="povijest"><term>Hrvatska</term>; <term> vladari i
                      dužnosnici</term>; <persName ref="#croala.drama.353079">Nikola
                      Zrinjski</persName>
-                  <roleName>Ban</roleName>
+                  <roleName ref="#croala.drama.353079">Ban</roleName>
                </note>
                <note ana="tema" corresp="alegorija"><term>Povijesna alegorijska igra</term></note>
                <note ana="žanr" resp="#fancev1937" corresp="drama"/>
@@ -4897,8 +4897,8 @@
                <note ana="tema" corresp="povijest"><term>Europa</term>; <term> vladari i
                      dužnosnici</term>; <term> Sveto Rimsko Carstvo</term>; <persName
                      ref="#croala.drama.320648">Maksimilijan Austrijski</persName>
-                  <note ana="žanr" resp="#fancev1937" corresp="drama"/>
                </note>
+               <note ana="žanr" resp="#fancev1937" corresp="drama"/>
                <note ana="tema" corresp="regija"><term>Sveto Rimsko Carstvo</term></note>
                <note ana="tema" corresp="regija"><term>Austrija</term></note>
                <date when="1657" period="16xx_2_third"> Tijelovska osmina 1657. </date>
@@ -5400,8 +5400,7 @@
                      <term>Sveto Rimsko Carstvo</term><persName ref="#croala.drama.320648">Car
                      Maksimilijan Austrijski</persName>
                </note>
-               <note ana="tema" corresp="kršćanstvo"><term>Povijesno-kršćanska
-                  alegorija</term></note>
+               <note ana="tema" corresp="kršćanstvo"><term>Pobožnosti</term></note>
                <note ana="tema" corresp="regija"><term>Sveto Rimsko Carstvo</term></note>
                <note ana="tema" corresp="regija"><term>Austrija</term></note>
                <date when="1675" period="16xx_3_third"> 1675. </date>
@@ -5654,7 +5653,7 @@
                <note ana="tema" corresp="povijest"><term>Hrvatska</term>; <term> vladari i
                      dužnosnici</term>; <persName ref="#mikulicd1e1197">Aleksandar
                      Mikulić</persName>
-                  <roleName>Veliki prepozit</roleName>
+                  <roleName ref="#mikulicd1e1197">Veliki prepozit</roleName>
                </note>
                <note ana="tema" corresp="regija"><term>Hrvatska</term></note>
                <note ana="žanr" resp="#fancev1937" corresp="drama">Drama elegans</note>
@@ -5937,7 +5936,7 @@
                <note ana="tema" corresp="povijest"><term>Hrvatska</term>; <term> vladari i
                      dužnosnici</term>; <persName ref="#croala.drama.323319">Adam
                      Batthyány</persName>
-                  <roleName>Ban</roleName>
+                  <roleName ref="#croala.drama.323319">Ban</roleName>
                </note>
                <note ana="tema" corresp="regija"><term>Hrvatska</term></note>
                <note ana="žanr" resp="#fancev1937" corresp="drama">dramation, deklamacija</note>
@@ -6401,7 +6400,7 @@
                <title xml:lang="hrv">Sigerik, nejaki jedinac burgundskog kralja Sigismunda,
                   maćehinim spletkama ubijen od rođenog oca</title>
                <note ana="tema" corresp="povijest"><term>Europa</term>; <term> vladari</term>;
-                     <persName ref="#croala.drama.324572">Sigerik</persName><roleName>Burgundski
+                  <persName ref="#croala.drama.324572">Sigerik</persName>, <roleName ref="#croala.drama.324572">Burgundski
                      princ</roleName>; <persName ref="#croala.drama.358781"
                   >Sigismund</persName></note>
                <note ana="tema" corresp="regija"><term>Burgundija</term></note>
@@ -7159,8 +7158,8 @@
             <bibl type="drama" xml:id="croala.drama.d1e12735">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat">Funus serenissimi Josephi Lotharingiae ducis celebratum</title>
-               <note ana="tema" type="nn"><persName ref="#croala.drama.326569"
-                     >Josephus</persName><roleName>Lotharingiae dux</roleName></note>
+               <note ana="tema" type="povijest"><persName ref="#croala.drama.326569"
+                  >Josephus</persName>, <roleName ref="#croala.drama.326569">Lotharingiae dux</roleName></note>
                <date when="1706" period="17xx_1_third"> 1706. </date>
                <placeName ref="3191648" type="geonames">Rijeka</placeName>
                <address>
@@ -10776,7 +10775,7 @@
                <title resp="#staud" xml:lang="lat">STULTUS PROPTER CHRISTUM</title>
                <title xml:lang="hrv">Sveti Simeon Opat</title>
                <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <persName
-                     ref="#croala.drama.336269">Sveti Simeon opat</persName>
+                     ref="#croala.drama.336269">Sveti Simeon Opat</persName>
                </note>
                <note ana="tema" corresp="kršćanstvo.hagiografija">
                   <persName ref="#croala.drama.336269">Sveti Simeon Opat</persName>
@@ -11154,7 +11153,7 @@
                <title xml:lang="lat">Chremes</title>
                <title xml:lang="lat">Chremetis tenacitas</title>
                <title xml:lang="hrv">Hremet</title>
-               <note ana="tema" type="nn">
+               <note ana="tema" type="književnost">
                   <persName ref="#croala.drama.337208">Hremet</persName>
                </note>
                <date when="1729-02" period="17xx_1_third"> O pokladama 1729. </date>
@@ -11183,7 +11182,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e21187">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat">Justinus fraterni amoris victima</title>
-               <note ana="tema" type="nn">
+               <note ana="tema" type="poduka">
                   <persName ref="#croala.drama.337289">Justin</persName>
                </note>
                <date when="1729" period="17xx_1_third"> 1729. </date>
@@ -11241,7 +11240,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e21315">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat">Speramungus</title>
-               <note ana="tema" type="nn">
+               <note ana="tema" type="poduka">
                   <persName ref="#croala.drama.337450">Speramungus</persName>
                </note>
                <note ana="žanr" resp="#fancev1937" corresp="drama"/>
@@ -11400,8 +11399,7 @@
                <note ana="tema" corresp="prigodno"><term>Proglašenje Lorenza Corsinija papom
                      Klementom XII.</term>; <persName ref="#croala.drama.337888">Lorenzo
                      Corsini</persName>
-                  <addName sameAs="Lorenzo Corsini" ref="#croala.drama.337888">Klement
-                     XII.</addName>; <term>papa</term>
+                  <persName ref="#croala.drama.337888">Klement XII.</persName>; <term>papa</term>
                </note>
                <note ana="žanr" resp="#fancev1937" corresp="drama"/>
                <note ana="žanr" resp="#NJ" corresp="panegirik"/>
@@ -12060,11 +12058,11 @@
                <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">REGNUM ADIAE ET EXILIUM THEOPHOBI</title>
                <title xml:lang="hrv">Kraljevstvo Adijino i izgon Teofoba</title>
-               <note ana="tema" type="nn">
+               <note ana="tema" corresp="kršćanstvo">
+                  <term>Poduka</term>
                   <persName ref="#croala.drama.339639">Adija</persName>
                   <persName ref="#croala.drama.339641">Teofob</persName>
                </note>
-               <note ana="tema" corresp="kršćanstvo"><term>Poduka</term></note>
                <date when="1733" period="17xx_1_third"> 1733. </date>
                <placeName ref="3188383" type="geonames">Varaždin</placeName>
                <address>
@@ -12099,7 +12097,7 @@
                <note ana="tema" corresp="kršćanstvo"><term>Isusovci</term>;
                      <term>mučenici</term><persName ref="#croala.drama.329182">Luis
                      Florez</persName>
-                  <addName ref="#croala.drama.329182">Ludovicus</addName>
+                  <persName ref="#croala.drama.329182">Ludovicus</persName>
                </note>
                <note ana="tema" corresp="regija"><term>Japan</term></note>
                <date when="1733" period="17xx_1_third"> 1733. </date>
@@ -12368,7 +12366,7 @@
                <title xml:lang="hrv">Nigrin</title>
                <note ana="tema" corresp="kršćanstvo">
                   <persName ref="#croala.drama.340450">Nitrinus</persName>
-                  <addName ref="#croala.drama.340450">Nigrin</addName>
+                  <persName ref="#croala.drama.340450">Nigrin</persName>
                </note>
                <date when="1734" period="17xx_2_third"> 1734. </date>
                <placeName type="geonames" ref="3190589">Požega</placeName>
@@ -13884,7 +13882,7 @@
                <title xml:lang="hrv">Abimek, sin Turčina Osmana</title>
                <note ana="tema" corresp="kršćanstvo"><term>Obraćenje Turčina Abimeka</term>;
                      <persName ref="#croala.drama.343900">Abimecus</persName>
-                  <addName>Osman</addName>
+                  <persName>Osman</persName>
                </note>
                <note ana="žanr" resp="#fancev1937" corresp="drama"/>
                <date when="1737" period="17xx_2_third"> 1737. </date>
@@ -14529,7 +14527,7 @@
                   mučeništva</title>
                <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <persName
                      ref="#croala.drama.345648">Blaženi Leonard Kimura</persName> ili<persName
-                     ref="#croala.drama.345651">blaženi Sebastijan Kimura</persName>
+                     ref="#croala.drama.345651">Blaženi Sebastijan Kimura</persName>
                </note>
                <note ana="tema" corresp="kršćanstvo.hagiografija"><term>Blaženi Leonard ili Sebastijan
                      Kimura</term></note>
@@ -15414,7 +15412,7 @@
                <title xml:lang="lat">Porcinus rex Cheresiae</title>
                <title xml:lang="lat" resp="#fancev1937">Porcinus rex Chresiae</title>
                <title xml:lang="lat" resp="#staud">PORCINUS REX CHRESIAE</title>
-               <note ana="tema" type="nn">
+               <note ana="tema" type="povijest">
                   <persName ref="#croala.drama.348128">Porcinus</persName>
                </note>
                <note ana="žanr" resp="#fancev1937" corresp="drama"/>
@@ -15913,7 +15911,7 @@
                <title xml:lang="lat">Conanus</title>
                <title xml:lang="lat" resp="#vanino1987">Connanus</title>
                <title xml:lang="hrv">Konan, koji se izbavlja propasti zagovorom Gospinim</title>
-               <note ana="tema" corresp="kršćanstvo"><term>Pobožnost</term>; <persName
+               <note ana="tema" corresp="kršćanstvo"><term>Pobožnosti</term>; <persName
                      ref="#croala.drama.325275">Djevica Marija</persName>
                   <persName ref="#croala.drama.349454">Konan</persName>
                </note>
@@ -16631,7 +16629,6 @@
                      <persName ref="#croala.drama.351387">Klement</persName>
                   <persName ref="#croala.drama.351390">Lino</persName>
                </note>
-               <note ana="tema" resp="#vanino1987" type="nn"/>
                <note ana="tema" corresp="regija"><term>Japan</term></note>
                <date when="1748" period="17xx_2_third"> 1748. </date>
                <placeName type="geonames" ref="3190589">Požega</placeName>
@@ -16870,7 +16867,7 @@
                <note ana="tema" corresp="povijest"><term>Perzija</term>; <term> vladari</term>;
                      <term> Siroj, sin kralja Khosraua II.</term>; <persName
                      ref="#croala.drama.352053">Siroj</persName>
-                  <addName ref="#croala.drama.352053">Kavadh II.</addName></note>
+                  <persName ref="#croala.drama.352053">Kavadh II.</persName></note>
                <note ana="tema" corresp="regija"><term>Perzija</term></note>
                <date when="1748" period="17xx_2_third"> 1748. </date>
                <date resp="#staud" when="1748"> Kraj školske godine 1748.</date>
@@ -17322,7 +17319,7 @@
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat">Sanctus Chlodoaldus</title>
                <title xml:lang="hrv">Sveti Klodoald</title>
-               <note ana="tema" corresp="povijest"><term>Franačka</term>; <term> vladari</term>;
+               <note ana="tema" corresp="povijest"><term>Franačka</term>; <term>vladari</term>;
                      <persName ref="#croala.drama.353217">Sveti Klodoald</persName>
                </note>
                <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <persName
@@ -17591,7 +17588,7 @@
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat">Japhengus Japo</title>
                <title xml:lang="hrv">Jafeng Japanac</title>
-               <note ana="tema" type="nn">
+               <note ana="tema" type="povijest">
                   <persName ref="#croala.drama.353964">Jafeng</persName>
                </note>
                <note ana="tema" corresp="regija"><term>Japan</term></note>
@@ -17632,7 +17629,7 @@
                <title xml:lang="lat">Jerobaal seu Gedeon</title>
                <note ana="tema" corresp="kršćanstvo.Biblija"><term>Stari Zavjet</term>; <term> Suci</term>;
                      <persName sameAs="Gideon" ref="#croala.drama.352650">Jerubaal </persName>
-                  <addName ref="#croala.drama.352650">Gideon</addName>
+                  <persName ref="#croala.drama.352650">Gideon</persName>
                </note>
                <date when="1750" period="17xx_2_third"> 1750. </date>
                <placeName type="geonames" ref="3190589">Požega</placeName>
@@ -20578,9 +20575,10 @@
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat">Mennius e pastore Syriae regem creatus</title>
                <title xml:lang="hrv">Menije koji je od pastira postao kralj Sirije</title>
-               <note ana="tema" type="nn">
+               <note ana="tema" type="povijest">
                   <persName ref="#croala.drama.361549">Menije</persName>
                </note>
+               <note ana="tema" type="regija"><term>Sirija</term></note>
                <date when="1756" period="17xx_2_third"> 1756. </date>
                <placeName type="geonames" ref="3186886">Zagreb</placeName>
                <address>
@@ -21556,8 +21554,8 @@
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat">Placidus</title>
                <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <persName
-                     ref="#croala.drama.365214" sameAs="Sveti Eustahije">Placid</persName>
-                  <addName ref="#croala.drama.365214">Sveti Eustahije</addName>
+                     ref="#croala.drama.365214">Placid</persName>
+                  <persName ref="#croala.drama.365214">Sveti Eustahije</persName>
                </note>
                <date when="1758" period="17xx_2_third"> 1758. </date>
                <placeName type="geonames" ref="3190589">Požega</placeName>
@@ -21992,7 +21990,7 @@
                <title xml:lang="hrv">Eustahije</title>
                <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <persName
                      ref="#croala.drama.365214">Sveti Eustahije</persName>
-                  <addName ref="#croala.drama.365214">Placid</addName>
+                  <persName ref="#croala.drama.365214">Placid</persName>
                </note>
                <note ana="žanr" resp="#vanino1987" corresp="mučenička tragedija"/>
                <date when="1759" period="17xx_2_third"> 1759. </date>
@@ -24012,7 +24010,7 @@
                <title xml:lang="hrv">Siroj</title>
                <note ana="tema" corresp="povijest"><term>Perzija</term>; <term> vladari</term>;
                      <persName ref="#croala.drama.352053">Siroj</persName>
-                  <addName ref="#croala.drama.352053">Kavadh II.</addName></note>
+                  <persName ref="#croala.drama.352053">Kavadh II.</persName></note>
                <note ana="tema" corresp="regija"><term>Perzija</term></note>
                <date when="1764" period="17xx_2_third"> 1764. </date>
                <placeName ref="3188383" type="geonames">Varaždin</placeName>
