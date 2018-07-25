@@ -4980,7 +4980,7 @@
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat">Josaphatus et Barlaamus</title>
                <title xml:lang="hrv">Jozafat i Barlaam</title>
-               <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <term>legende</term>
+               <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <term>Legende</term>
                   <persName ref="#croala.drama.348950">Sveti Jozafat</persName>i<persName
                      ref="#croala.drama.320864">Barlaam</persName>
                </note>
@@ -12261,7 +12261,7 @@
                <title resp="#staud" xml:lang="lat">FATINGUS JAPO</title>
                <title xml:lang="hrv">Japanac Fatingo postojan u vjeri</title>
                <note ana="tema" corresp="kršćanstvo"><term>Isusovci</term>;
-                     <term>legende</term><persName ref="#croala.drama.340174">Fatingo</persName>
+                     <term>Legende</term><persName ref="#croala.drama.340174">Fatingo</persName>
                </note>
                <note ana="tema" corresp="regija"><term>Japan</term></note>
                <date when="1734" period="17xx_2_third"> 1734. </date>
@@ -15449,7 +15449,7 @@
                <title xml:lang="hrv">Švedski kraljevići Regner i Torold vraćeni na očinsko
                   prijestolje</title>
                <note ana="tema" corresp="povijest"><term>Švedska</term>;
-                     <term>legende</term><persName ref="#croala.drama.348218">Regner</persName>i
+                     <term>Legende</term><persName ref="#croala.drama.348218">Regner</persName>i
                      <persName ref="#croala.drama.348221">Torold</persName>
                </note>
                <note ana="tema" corresp="regija"><term>Švedska</term></note>
@@ -15800,8 +15800,7 @@
                <note ana="tema" corresp="povijest"><term>Kina</term>; <persName
                      ref="#croala.drama.349150">Kraljević Surnijam</persName>
                </note>
-               <note ana="tema" corresp="kršćanstvo"><term>Kina</term>; <term>kineski mučenici za
-                     vjeru</term></note>
+               <note ana="tema" corresp="kršćanstvo"><term>Kina</term>; <term>Mučenici</term></note>
                <note ana="tema" corresp="regija"><term>Kina</term></note>
                <date when="1745" period="17xx_2_third"> 1745. </date>
                <date resp="#staud" when="1745"> Kraj školske godine 1745. </date>
@@ -16351,7 +16350,7 @@
                <title xml:lang="lat">Melanippus et Charito</title>
                <title resp="#staud" xml:lang="lat">MAENALIPPUS ET CHARITON</title>
                <title xml:lang="hrv">Menalip i Harito</title>
-               <note ana="tema" corresp="povijest"><term>Sicilija</term>; <term>legende</term>;
+               <note ana="tema" corresp="povijest"><term>Sicilija</term>; <term>Legende</term>;
                      <persName ref="#croala.drama.350653">Melanip</persName>
                   <persName ref="#croala.drama.350655">Hariton</persName>
                </note>
