@@ -2728,8 +2728,7 @@
                <title xml:lang="lat">Fugitivus sancti Joannis evangelistae discipulus</title>
                <title resp="#staud" xml:lang="lat">FUGITIVUS <sic>SANCTUS</sic> JOANNIS EVANGELISTAE
                   DISCIPULUS</title>
-               <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>;<term>
-                     legende</term>;<persName ref="#croala.drama.314663">Sveti Ivan
+               <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>;<term>Legende</term>;<persName ref="#croala.drama.314663">Sveti Ivan
                      Evanđelist</persName>
                </note>
                <note ana="tema" corresp="kršćanstvo.hagiografija">
@@ -3595,7 +3594,7 @@
                <title xml:lang="lat">Cenodoxus</title>
                <title xml:lang="lat">Doctor Parisiensis</title>
                <title xml:lang="hrv">Pariški liječnik</title>
-               <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <term> legende</term>;
+               <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <term>Legende</term>;
                      <persName ref="#croala.drama.317078">Sveti Bruno</persName>
                </note>
                <note ana="žanr" corresp="drama">tragedija</note>
@@ -5432,7 +5431,7 @@
                   exitus</title>
                <title xml:lang="hrv">Tragični svršetak okorjelog dvorjanika engleskog kralja
                   Konrada</title>
-               <note ana="tema" corresp="povijest"><term>Engleska</term>; <term> legende</term>;
+               <note ana="tema" corresp="povijest"><term>Engleska</term>; <term>Legende</term>;
                      <persName ref="#croala.drama.322074">kralj Konrad</persName>
                </note>
                <note ana="tema" resp="#vanino1987" corresp="poduka"><term>Odgoj, obrazovanje i
@@ -15132,7 +15131,7 @@
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat"/>
                <title xml:lang="hrv">Sv. Blaž</title>
-               <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <term> legende</term>;
+               <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <term>Legende</term>;
                      <persName ref="#croala.drama.347331">Sveti Blaž</persName>
                </note>
                <note ana="tema" corresp="kršćanstvo.hagiografija"><term>Sveti Blaž</term></note>
@@ -16624,7 +16623,7 @@
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat">Clemens et Linus Japones</title>
                <title xml:lang="hrv">Klement i Lino, dva japanska kršćanina</title>
-               <note ana="tema" corresp="kršćanstvo"><term>kršćani</term>; <term> legende</term>;
+               <note ana="tema" corresp="kršćanstvo"><term>kršćani</term>; <term>Legende</term>;
                      <persName ref="#croala.drama.351387">Klement</persName>
                   <persName ref="#croala.drama.351390">Lino</persName>
                </note>
@@ -18166,7 +18165,7 @@
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat">Ivanus eremum regno praeferens</title>
                <title resp="#staud" xml:lang="lat">IVANUS REGNUM NEGLIGENS</title>
-               <note ana="tema" corresp="povijest"><term>Hrvatska</term>; <term> legende</term>;
+               <note ana="tema" corresp="povijest"><term>Hrvatska</term>; <term>Legende</term>;
                      <persName ref="#croala.drama.336846">Sveti Ivan Hrvatski</persName>
                </note>
                <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <persName
@@ -18284,7 +18283,7 @@
                <title xml:lang="lat">S. Ivanus Gostomili Croatiae regis filius</title>
                <title resp="#staud" xml:lang="lat">IVANUS</title>
                <title xml:lang="hrv">Sv. Ivan, sin Gostomila, kralja Hrvatske</title>
-               <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <term> legende</term>;
+               <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <term>Legende</term>;
                      <persName ref="#croala.drama.336846">Sveti Ivan Hrvatski</persName>
                </note>
                <note ana="tema" corresp="kršćanstvo.hagiografija">
@@ -18785,11 +18784,11 @@
                <title xml:lang="lat">S. Ivanus Gostomili Croatiae regis filius</title>
                <title xml:lang="lat" resp="#staud">SANCTUS IVANUS</title>
                <title xml:lang="hrv">Sv. Ivan, sin Gostomila, kralja Hrvatskoga</title>
-               <note ana="tema" corresp="povijest"><term>Hrvatska</term>; <term> legende</term>;
+               <note ana="tema" corresp="povijest"><term>Hrvatska</term>; <term>Legende</term>;
                      <persName ref="#croala.drama.336846">Sveti Ivan Hrvatski</persName>
                   <persName ref="#croala.drama.342377">Hrvatski kralj Gostomil</persName>
                </note>
-               <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <term> legende</term>;
+               <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <term>Legende</term>;
                      <persName ref="#croala.drama.336846">Sveti Ivan Hrvatski</persName>
                </note>
                <note ana="tema" corresp="regija"><term>Hrvatska</term></note>
@@ -19574,7 +19573,7 @@
                <note ana="tema" corresp="kršćanstvo">
                   <persName ref="#croala.drama.353204">Klodoald</persName>
                </note>
-               <note ana="tema" corresp="povijest"><term>Danska</term>; <term> legende</term>;
+               <note ana="tema" corresp="povijest"><term>Danska</term>; <term>Legende</term>;
                      <persName ref="#croala.drama.353204">Klodoald</persName>
                </note>
                <note ana="tema" corresp="regija"><term>Danska</term></note>
@@ -20454,7 +20453,7 @@
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat">Joseramnus</title>
                <title resp="#staud" xml:lang="lat">JOSARAMNUS</title>
-               <note ana="tema" corresp="povijest"><term>Flandrija</term>; <term> legende</term>;
+               <note ana="tema" corresp="povijest"><term>Flandrija</term>; <term>Legende</term>;
                      <term> Flandrija</term>; <term> Joseramno, sin flandrijskog grofa
                      Liderika</term>; <persName ref="#croala.drama.361241">Joseramno</persName>
                </note>
@@ -21921,7 +21920,7 @@
                <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">DINDIMUS CIMBERIAE THRONO IMPOSITUS</title>
                <title xml:lang="hrv">Dindim postavljen na prijestolje Danske</title>
-               <note ana="tema" corresp="povijest"><term>Danska</term>; <term> legende</term>;
+               <note ana="tema" corresp="povijest"><term>Danska</term>; <term>Legende</term>;
                      <persName ref="#croala.drama.365034">Dindim</persName>
                </note>
                <note ana="tema" corresp="regija"><term>Danska</term></note>
@@ -25046,7 +25045,7 @@
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat">Numitor</title>
                <note ana="tema" corresp="povijest"><term>Rim</term>; <term> Alba Longa</term>;
-                     <term> legende</term>; <persName ref="#croala.drama.373279">Numitor</persName>
+                     <term>Legende</term>; <persName ref="#croala.drama.373279">Numitor</persName>
                </note>
                <note ana="tema" corresp="regija"><term>Rimsko Carstvo</term></note>
                <date when="1769" period="17xx_3_third"> Kraj školske godine 1769. </date>
@@ -25175,7 +25174,7 @@
                <title xml:lang="lat">Tragoedia Sanctae Pelagiae, virginis Tarsensis et <corr
                      resp="#NJ">martyris</corr></title>
                <title xml:lang="hrv">Sveta Pelagija, djevica i mučenica iz Tarza</title>
-               <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <term> legende</term>;
+               <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <term>Legende</term>;
                      <persName ref="#croala.drama.373649">Sveta Pelagija iz Tarsa</persName>
                </note>
                <note ana="tema" corresp="kršćanstvo.hagiografija">
@@ -26621,7 +26620,7 @@
             <bibl type="drama" xml:id="croala.drama.d1e53480">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat" resp="#staud">ROMULUS ET REMUS</title>
-               <note ana="tema" corresp="povijest"><term>Rim</term>; <term> legende</term>;
+               <note ana="tema" corresp="povijest"><term>Rim</term>; <term>Legende</term>;
                      <persName ref="#croala.drama.33456113">Romul</persName>
                   <persName ref="#croala.drama.33466112">Rem</persName>
                </note>
