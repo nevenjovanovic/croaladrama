@@ -5749,7 +5749,7 @@
                      Gymnasij, apparato eleganti theatro S. Quirinus episcopus Sisciensis et martyr,
                      honori domini Stephani Dojcic, cujus munificentia praemia studiosae juventuti
                      distributa fuere. Instructore dramatis <expan>Patre</expan> praefecto. Res optatum habuit
-                     successum cum aplausu spectantium et ipsius Illustrissimi ac Reverendissimi
+                     successum cum <sic>aplausu</sic> <corr resp="#NJ">applausu</corr> spectantium et ipsius Illustrissimi ac Reverendissimi
                      maecenatis (qui cum aliis multis ex nobolitate spectator aderat) approbatione
                      singulari. <persName ref="patacicd1e1383">Johannes Patachich</persName>
                      <roleName>Instructor</roleName>
@@ -13863,7 +13863,7 @@
                <note type="testimonium">
                   <quote>Magister infimae et elementaris classis Toxilum servum Philargiri avari
                      senis Plautino stylo in scenam induxit, quae actio propter elegantiam puerorum
-                     in dicendo plausum ab omniubs specatoribus et laudem tulit.</quote>
+                     in dicendo plausum ab omnibus specatoribus et laudem tulit.</quote>
                   <bibl corresp="#vanino1987">LAPA 1736, ARSI – Austr. 193, f. 85 v</bibl>
                </note>
                <relatedItem>
@@ -26174,10 +26174,20 @@
                <note type="testimonium">
                   <quote>Praeter consuetas Rhetorum et Poëtarum declamationes Illustrissimo ac
                      Reverendissimo Ordinario Viennam reduci, ac in triclinio hospiti brevis
-                     actiunculae exhibita est. Prodiverunt et reliqui quatuor minorum Classium
-                     Professores cum suis plausabilites.</quote>
+                        <sic>actiunculae</sic>
+                     <corr resp="#NJ">actiuncula</corr> exhibita est. Prodiverunt et reliqui quatuor
+                     minorum Classium Professores cum suis <sic>plausabilites</sic>
+                     <corr resp="#NJ">laudabiliter</corr>.</quote>
                   <bibl>(HCZagr. Cod. Ab 130, I. 1713. 301. v. - LAW Cod. 12107, 1713. 159. p. - LAR
                      Cod. Austr. 170, 1713. 176.p.)</bibl>
+               </note>
+               <note type="testimonium">
+                  <quote>Magistri inferiorum classium praeter ordinarias rhetorum et poetarum omnes
+                     cum suis in theatro prodierunt magna et sui et discipulorum cum commendatione.
+                     <gap/> Praeter consuetas rhetorum declamationes <expan>Illustrissimo</expan> ac
+                        <expan>Reverendissimo Domino Episcopo</expan> Zagrabiensi Viennam reduci, ac
+                     in triclinio hospiti brevis actiuncula exhibita est</quote>
+                  <bibl type="staud" corresp="#fancev1934">Fancev 168</bibl>
                </note>
                <relatedItem>
                   <listBibl>
