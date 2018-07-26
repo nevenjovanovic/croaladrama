@@ -500,6 +500,7 @@ declare function drama:dramaPerAnnumTabula($collection, $annus) {
 (: put all performances for a certain period of years in a table:)
 
 declare function drama:makeyearsettable($collection, $annus) {
+  if ( drama:dramaAnnus1($collection, $annus) ) then
   element table {
     (: attribute class {"table"}, :)
   element thead {
@@ -512,5 +513,8 @@ declare function drama:makeyearsettable($collection, $annus) {
   element tbody { 
   drama:dramaPerAnnumTabula($collection, $annus)
 }
+}
+else element div {
+  element p { "Eo anno nullum drama in fontibus memoratur." }
 }
 };
