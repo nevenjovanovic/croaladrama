@@ -84,7 +84,7 @@ element html { drama:htmlhead_drama($title) ,
       <blockquote class="croala">
       
  {
-   drama:dramaLibri($collection)
+   drama:makebookstable($collection)
  }
  
 
