@@ -532,3 +532,23 @@ return element tr {
                 else for $r in $row/* return element span { attribute class { "notarow"}, normalize-space(data($r)) } }
 }
 };
+
+declare function drama:makebookstable($collection) {
+  if ( drama:dramaLibri($collection) ) then
+  element table {
+    (: attribute class {"table"}, :)
+  element thead {
+    element tr {
+      element th { "Titulus "},
+      element th { "Annus" },
+      element th { "Notae" }
+    }
+  } ,
+  element tbody { 
+  drama:dramaLibri($collection)
+}
+}
+else element div {
+  element p { "Nullum drama in libris inventum." }
+}
+};

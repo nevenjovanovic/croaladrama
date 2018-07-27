@@ -79,10 +79,10 @@ element html { drama:htmlhead_drama($title) ,
        attribute class { "fas fa-book" },
        attribute aria-hidden { "true" }
        } , 
-       element span { " Libri scripti et impressi"}
+       element span { " Dramata in libris inventa sunt " || count(drama:dramaLibri($collection)) || "."}
    } }
       <blockquote class="croala">
-      <h1>Dramata in libris inventa sunt { count(drama:dramaLibri($collection)/*) || "."}</h1>
+      
  {
    drama:dramaLibri($collection)
  }
