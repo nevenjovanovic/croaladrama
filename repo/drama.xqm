@@ -309,6 +309,8 @@ declare function drama:ignoratur($d){
   let $placeholder := "TITULUS IGNORATUR"
   let $naslov := if ($d/*:title[1]/string()) then $d/*:title[string()] 
   else if ($d/*:monogr/*:title[1]/string()) then $d/*:monogr/*:title[string()]
+  else if ($d/*:msName) then element title { data($d/*:msName) }
+  else if ($d//*:msItem/*:title) then $d//*:msItem/*:title
   else $placeholder
   return $naslov
 };
