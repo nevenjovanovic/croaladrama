@@ -518,3 +518,17 @@ else element div {
   element p { "Eo anno nullum drama in fontibus memoratur." }
 }
 };
+
+(: return alphabetical list of books :)
+declare function drama:dramaLibri($collection) {
+  for $d in collection($collection)//*:listBibl[@type="croala.drama.libri"]/*
+  let $naslov := drama:ignoratur($d)
+  order by $naslov[1]
+return element tr {
+  element td { for $n in $naslov return $n } ,
+  element td { $d/*:monogr/*:imprint/*:date[1]/@when/string() } ,
+  element td { for $row in $d/*
+                return if ($row/descendant::*:sic) then element span { attribute class { "notarow"},  dramahelp:remove-elements-deep($row, "sic") }
+                else element span { attribute class { "notarow"}, data($row)} }
+}
+};
