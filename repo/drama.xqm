@@ -453,7 +453,7 @@ declare function drama:dramaLocusTabula($collection, $locus) {
                 return 
                 if ($row/descendant::*:sic) 
                 then element span { attribute class { "notarow"},  dramahelp:remove-elements-deep($row, "sic") }
-                else element span { attribute class { "notarow"}, normalize-space(data($row)) } }
+                else for $r in $row/* return element span { attribute class { "notarow"}, normalize-space($r) } }
 }
 };
 
@@ -529,6 +529,6 @@ return element tr {
   element td { $d/*:monogr/*:imprint/*:date[1]/@when/string() } ,
   element td { for $row in $d/*
                 return if ($row/descendant::*:sic) then element span { attribute class { "notarow"},  dramahelp:remove-elements-deep($row, "sic") }
-                else element span { attribute class { "notarow"}, data($row)} }
+                else for $r in $row/* return element span { attribute class { "notarow"}, normalize-space(data($r)) } }
 }
 };
