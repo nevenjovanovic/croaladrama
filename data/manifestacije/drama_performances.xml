@@ -2125,7 +2125,7 @@
                   <imprint>
                      <pubPlace ref="2761369">Viennae</pubPlace>
                      <publisher>Literis Geroldianis</publisher>
-                     <date period="17xx_3_third">
+                     <date period="17xx_3_third" when="1780">
                         <add>1780</add>
                      </date>
                   </imprint>
@@ -2148,7 +2148,7 @@
                   <imprint>
                      <pubPlace ref="2761369">Vindobonae</pubPlace>
                      <publisher>Typis Ioan. Thom. nob. de Trattnern</publisher>
-                     <date period="17xx_3_third">1778</date>
+                     <date period="17xx_3_third" when="1778">1778</date>
                   </imprint>
                   <extent>58 pag. ; 8o</extent>
                </monogr>
@@ -2239,7 +2239,7 @@
                   <imprint>
                      <pubPlace ref="3169070">Romae</pubPlace>
                      <publisher>Ex officina Caietani Zenobii</publisher>
-                     <date period="17xx_1_third">1709</date>
+                     <date period="17xx_1_third" when="1709">1709</date>
                   </imprint>
                   <extent>42 pag. ; 12o </extent>
                </monogr>
@@ -2331,7 +2331,7 @@
                   <imprint>
                      <pubPlace ref="3196359">Labaci</pubPlace>
                      <publisher>Ad Fr. Reichardt</publisher>
-                     <date period="17xx_2_third">1734</date>
+                     <date period="17xx_2_third" when="1734">1734</date>
                   </imprint>
                   <extent>4o </extent>
                </monogr>
