@@ -4059,7 +4059,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e6350">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">JULIANUS APOSTATA</title>
                <title xml:lang="hrv">Julijan Odmetnik</title>
                <note ana="tema" corresp="povijest"><term>Rim</term>; <term> carevi</term>; <persName
@@ -4216,7 +4215,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e6714">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title xml:lang="lat" resp="#staud">DANIEL IN LACU LEONUM</title>
                <title xml:lang="hrv">Danijel u jami među lavovima</title>
                <note ana="tema" corresp="kršćanstvo.Biblija"><term>Stari Zavjet</term>; <term> Daniel</term>;
@@ -4278,7 +4276,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1645.diva.catharina">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">DIVA CATHARINA</title>
                <title xml:lang="hrv">Sveta Katarina</title>
                <note ana="tema" corresp="kršćanstvo"><term>Sveci</term><persName
@@ -5252,7 +5249,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1673.s.catharina">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title xml:lang="lat" resp="#staud">SANCTA CATHARINA DE MAXENTIO TRIUMPHANS</title>
                <title xml:lang="hrv">Sveta Katarina kako umom, znanjem i postojanošću pobjeđuje cara
                   Maksencija</title>
@@ -5351,7 +5347,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1674.vilim">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title xml:lang="lat" resp="#staud">GUILIELMUS NORMANNIAE DUX</title>
                <title xml:lang="hrv">Vilim, vojvoda normanski, kako se spasio od neprijatelja
                   presvetom euharistijom</title>
@@ -7283,7 +7278,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1707.joannes.kalibita">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title xml:lang="lat" resp="#staud">JOANNES CALIBITA </title>
                <title xml:lang="hrv">Predstava Ivana Kalibite</title>
                <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <persName
@@ -7538,7 +7532,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e13569">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">METAMORPHOSIS AMORIS</title>
                <title xml:lang="hrv">Metamorfoza ljubavi</title>
                <date when="1709" period="17xx_1_third"> 1709. </date>
@@ -8192,7 +8185,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e14786">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title xml:lang="lat" resp="#staud">LUDOVICUS JAPONIAE MARTYR</title>
                <title xml:lang="hrv">Japanac Ludovik</title>
                <note ana="tema" corresp="kršćanstvo"><term>Mučenici</term>; <persName
@@ -8457,7 +8449,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e15325">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">VIRTUS REVOCATA</title>
                <title xml:lang="hrv">Kako su mudrost i pravednost uspostavile krepost i oslobodile
                   umjetnost</title>
@@ -8492,7 +8483,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e15403">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">COMMUNE JUVENTUTIS CRIMEN</title>
                <title xml:lang="hrv">Laž, općenita opačina mladeži</title>
                <note ana="tema" corresp="poduka"><term>Odgoj, obrazovanje i moral</term>;
@@ -8672,7 +8662,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e15796">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">CONSTANS INCONSTANTIA IN SIGISMUNDO</title>
                <title xml:lang="hrv">Sigmund, mladić plemenita roda</title>
                <note ana="tema" corresp="poduka"><term>Odgoj, moral i obrazovanje</term></note>
@@ -8867,7 +8856,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e16201">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">NISUS ET EURYALUS</title>
                <title xml:lang="hrv">Junačka smrt vjernih prijatelja Euriala i Niza</title>
                <note ana="tema" corresp="mitologija"><term>Grčka</term>; <persName
@@ -8951,7 +8939,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e16386">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title xml:lang="lat" resp="#staud">LEONILLUS</title>
                <title xml:lang="hrv">Otac koji je sina Leonila naveo na pravi put</title>
                <note ana="tema" corresp="poduka"><term>Odgoj, obrazovanje i moral</term><persName
@@ -10427,7 +10414,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e19546">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">JUVENIS AD MELIOREM VITAM REVOCATUS</title>
                <title xml:lang="hrv">Mladić pozvan na bolji život</title>
                <note ana="tema" corresp="poduka"><term>Odgoj, obrazovanje i moral</term></note>
@@ -10526,7 +10512,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e19772">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">SCIPIO</title>
                <title xml:lang="hrv">Sinovska ljubav Scipiona Mlađeg</title>
                <note ana="tema" corresp="povijest"><term>Rim</term>; <persName
@@ -11560,7 +11545,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e21920">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">CONRADINUS SUEVUS</title>
                <title xml:lang="hrv">Tragični udes Konradina</title>
                <note ana="tema" corresp="povijest"><term>Europa</term>; <term> vladari</term>;
@@ -12016,7 +12000,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e22899">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">BASANDARUS ORMUZIO REGIS FILIUS</title>
                <title xml:lang="hrv">Bazandur, sin ormuskog kralja, sjekirom pogubljen zbog
                   okrutnosti počinjene suprot rođenom ocu</title>
@@ -12095,7 +12078,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1733.regnum.adiae">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">REGNUM ADIAE ET EXILIUM THEOPHOBI</title>
                <title xml:lang="hrv">Kraljevstvo Adijino i izgon Teofoba</title>
                <note ana="tema" corresp="kršćanstvo">
@@ -12130,7 +12112,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e23138">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">LUDOVICUS ADOLESCENS</title>
                <title xml:lang="hrv">Ludovika, mladića iz Nagasakija, pobjeda nad Galbanucijem i
                   idolopoklonstvom</title>
@@ -12297,7 +12278,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e23476">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">FATINGUS JAPO</title>
                <title xml:lang="hrv">Japanac Fatingo postojan u vjeri</title>
                <note ana="tema" corresp="kršćanstvo"><term>Isusovci</term>;
@@ -12328,7 +12308,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e23547">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">EXILIUM FIDEI</title>
                <title xml:lang="hrv">Kako su dva rođena brata, paži na dvoru poznatoga japanskoga
                   cara Daifuzame, iz ljubavi k vjeri pošli u progonstvo</title>
@@ -12401,7 +12380,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e23696">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">NITRINUS ADOLESCENS</title>
                <title xml:lang="hrv">Nigrin</title>
                <note ana="tema" corresp="kršćanstvo">
@@ -13202,7 +13180,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e24997">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">FRIDERICUS AUSTRIUS ET CONRADINUS</title>
                <title xml:lang="hrv">Fridrik Austrijski i Konradin</title>
                <note ana="tema" corresp="povijest"><term>Europa</term>; <term> vladari</term>;
@@ -13989,7 +13966,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1737.fingus.japo">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">FINGUS JAPO</title>
                <title xml:lang="hrv">Japanac <sic>Tingo</sic> i dva mu sina pobjednici nad
                   tiranstvom</title>
@@ -14800,7 +14776,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e28475">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">THOMAS NADASDIUS</title>
                <title xml:lang="hrv">Vrli ban Toma Nadažd</title>
                <note ana="tema" corresp="povijest"><term>Hrvatska</term>;
@@ -14955,7 +14930,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e28810">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">FRANCISCUS BATHYANIUS DE TURCIS VICTOR</title>
                <title xml:lang="hrv">Franjo Baćani, pobjednik nad Turcima</title>
                <note ana="tema" corresp="povijest"><term>Hrvatska</term>;
@@ -15107,7 +15081,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e29115">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title xml:lang="lat" resp="#annuae">Sesostris</title>
                <title xml:lang="hrv">Ramses II.</title>
                <note ana="tema" corresp="povijest"><term>Egipat</term>; <term> vladari</term>;
@@ -15356,7 +15329,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e29659">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">JAPON FIDEI</title>
                <title xml:lang="hrv">Japanac uzor vjere</title>
                <note ana="tema" corresp="kršćanstvo"><term>kršćani</term></note>
@@ -15518,7 +15490,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e30001">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">ARTABANUS</title>
                <title xml:lang="hrv">Slavični Artaban</title>
                <note ana="tema" corresp="povijest"><term>Perzija</term>; <persName
@@ -15656,7 +15627,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e30291">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">ATTILIUS REGULUS</title>
                <title xml:lang="hrv">Atilije Regul, vojvoda rimski u ratu protiv Kartage</title>
                <note ana="tema" corresp="povijest"><term>Rim</term>; <term> Punski ratovi</term>;
@@ -15725,7 +15695,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e30441">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">HERALDUS</title>
                <title xml:lang="hrv">Heraldo</title>
                <note ana="tema" type="nn">
@@ -15797,7 +15766,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e30599">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">MEANDRUS REGNO RESTITUTUS</title>
                <title xml:lang="hrv">Meandar, kako se opet dovinuo prijestolja</title>
                <note ana="tema" type="nn">
@@ -15834,7 +15802,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e30678">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">SURNIANUS EXUL</title>
                <title xml:lang="hrv">Surmiama u zatočju</title>
                <note ana="tema" corresp="povijest"><term>Kina</term>; <persName
@@ -16348,7 +16315,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e31797">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">CASTRIOTUS IN ALBANIA</title>
                <title xml:lang="hrv">Juraj Kastriot</title>
                <note ana="tema" corresp="povijest"><term>Albanija</term>; <term> vladari</term>;
@@ -16872,7 +16838,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e32909">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">ANONYMI HISPANI CONSTANTIA</title>
                <title xml:lang="hrv">Postojanost nepoznatog Španjolca</title>
                <note ana="tema" corresp="kršćanstvo"><term>Poduka</term></note>
@@ -16900,7 +16865,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e32973">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">SYROES</title>
                <title xml:lang="hrv">Siroj</title>
                <note ana="tema" corresp="povijest"><term>Perzija</term>; <term> vladari</term>;
@@ -16938,7 +16902,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1748.aetius">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">AETIUS</title>
                <title xml:lang="hrv">Tužna kob Aetija, posljednjega velikog braniča Zapadnoga
                   rimskog carstva</title>
@@ -17002,7 +16965,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1749.albert">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">ALBERTUS</title>
                <title xml:lang="hrv">Albert</title>
                <note ana="tema" type="nn">
@@ -17137,7 +17099,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1749.gideon">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">GEDEON</title>
                <title xml:lang="hrv">Gedeon koji je srušio Balov oltar sazidan od oca njegova i
                   spasio Izrael od Madijanićana</title>
@@ -17176,7 +17137,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1749.josaphatus">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">JOSAPHATUS</title>
                <title xml:lang="hrv">Jozafat</title>
                <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <persName
@@ -17392,7 +17352,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e33989">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title xml:lang="lat" resp="#staud">SAUL</title>
                <title xml:lang="hrv">Saul</title>
                <note ana="tema" corresp="kršćanstvo.Biblija"><term>Stari Zavjet</term>; <term> Prva knjiga o
@@ -17422,7 +17381,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e34061">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title xml:lang="lat" resp="#staud">DRAMA ELEGANS</title>
                <title xml:lang="hrv">Drama izvedena 1749.</title>
                <date when="1749" period="17xx_2_third"> 1749. </date>
@@ -17534,7 +17492,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e34306">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">ALPHONSUS</title>
                <title xml:lang="hrv">Alfonzo</title>
                <note ana="tema" type="nn">
@@ -17592,7 +17549,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e34435">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title xml:lang="lat" resp="#staud">JACOBUS</title>
                <title xml:lang="hrv">Jakov</title>
                <title xml:lang="hrv">Jakob</title>
@@ -17699,7 +17655,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e34671">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">JORAMUS</title>
                <title xml:lang="hrv">Joram</title>
                <note ana="tema" corresp="kršćanstvo.Biblija"><term>Stari Zavjet</term>; <term> Druga knjiga o
@@ -17734,8 +17689,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e34749">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
-               <title resp="#staud" xml:lang="lat">SEIFLAUS</title>
+               <title resp="#staud" xml:lang="lat"><sic>SEIFLAUS</sic> <corr resp="#NJ">Seislaus</corr></title>
                <title xml:lang="hrv">Kralj Sejslav</title>
                <note ana="povijest">Hrvatska; legende; vladari;<persName ref="#croala.drama.354268"
                      >Sejslav</persName>
@@ -17939,7 +17893,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e35171">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title xml:lang="lat" resp="#staud">SILVESTRUS</title>
                <title xml:lang="hrv">Silvestar</title>
                <note ana="tema">
@@ -18070,7 +18023,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e35451">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">ANAXIA ET AMICHAJA</title>
                <title xml:lang="hrv">Anaksija i Amikaja</title>
                <note ana="tema" type="nn"><persName ref="#croala.drama.355128"
@@ -18134,7 +18086,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e35594">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">BACCHANALISTICAE - EUGENIA</title>
                <title xml:lang="hrv">Eugenija</title>
                <note ana="tema" type="nn"><persName ref="#croala.drama.355313"
@@ -18174,7 +18125,6 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e35675">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
                <title resp="#staud" xml:lang="lat">HIERIANUS</title>
                <title xml:lang="hrv">Hijerijan</title>
                <note ana="tema" type="nn">
@@ -18253,7 +18203,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e35840">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">JACOBUS ET ESAU</title>
                <title xml:lang="hrv">Jakov i Ezav</title>
                <note ana="tema" corresp="kršćanstvo.Biblija"><term>Stari Zavjet</term>;
@@ -18374,7 +18324,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e36096">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">TRES JAPONES FRATRES</title>
                <title xml:lang="hrv">Tri japanska brata</title>
                <note ana="tema" corresp="kršćanstvo"><term>kršćani</term></note>
@@ -18514,7 +18464,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1752.peleus.telamon">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">TELAMON ET PELEUS</title>
                <title xml:lang="hrv">Bijeg Peleja i Telemona</title>
                <note ana="tema" corresp="mitologija"><term>Grčka</term>; <persName
@@ -18545,7 +18495,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1752.cezarije">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">CAESAREUS</title>
                <title xml:lang="hrv">Cezarije, biskup arlski, kako je iz tamnice vraćen na biskupsku
                   stolicu</title>
@@ -18585,7 +18535,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1752.filemon">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">PHILEMON</title>
                <title xml:lang="hrv">Filemon</title>
                <note ana="tema">
@@ -18900,7 +18850,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e37150">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">TIMON ET SESEUS</title>
                <title xml:lang="hrv">Timon i Sezen</title>
                <note ana="tema" type="nn">
@@ -18938,7 +18888,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1753.abdolonymus">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">ABDOLONYMUS</title>
                <title xml:lang="hrv"><sic>Abdolomin</sic>
                   <corr resp="#NJ">Abdolonim</corr></title>
@@ -19118,9 +19068,9 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e37620">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
-               <title xml:lang="hrv">Herman i Haritija</title>
                <title resp="#staud" xml:lang="lat">HERNANDUS ET CARITIAS</title>
+               <title xml:lang="hrv">Herman i Haritija</title>
+
                <note ana="tema" type="nn">
                   <persName ref="#croala.drama.357859">Herman</persName>i<persName
                      ref="#croala.drama.357862">Haritija</persName></note>
@@ -19262,7 +19212,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e37936">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">MATHIAS</title>
                <title xml:lang="hrv">Matatija koji zajedno sa svojim junačkim sinovima bije ljut boj
                   za slobodu i vjeru otaca</title>
@@ -19491,7 +19441,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e38385">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">DAVID CUM JONATHA</title>
                <title xml:lang="hrv">David i Jonatan</title>
                <note ana="tema" corresp="kršćanstvo.Biblija"><term>Stari Zavjet</term>; <term> Prva knjiga o
@@ -19608,7 +19558,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e38603">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">CLOTALDUS DANIAE REX</title>
                <title xml:lang="hrv">Klodoald, kralj danski</title>
                <note ana="tema" corresp="kršćanstvo">
@@ -19652,7 +19602,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e38694">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">CRESUS A CYRO BELLO CAPTUS ET REGNO
                   REDDITUS</title>
                <title xml:lang="hrv">Krez</title>
@@ -19894,8 +19844,8 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1754.pueri.hebraei">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
-               <title resp="#staud" xml:lang="lat">PUERI HEBRAEI A FLAMIS ILLAESI</title>
+
+               <title resp="#staud" xml:lang="lat">PUERI HEBRAEI A <sic>FLAMIS</sic> <corr resp="#NJ">flammis</corr> ILLAESI</title>
                <title xml:lang="hrv">Tri mladića u gvozdenoj peći</title>
                <note ana="tema" corresp="kršćanstvo.Biblija"><term>Stari Zavjet</term>; <term> Daniel</term>;
                      <persName ref="#croala.drama.359759">Šadrak</persName>
@@ -20115,7 +20065,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1755.alphonsus">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">ALPHONSUS</title>
                <title xml:lang="hrv">Garcia pobjeđuje Alfonza</title>
                <note ana="tema" corresp="povijest"><term>Španjolska</term>;
@@ -20149,8 +20099,8 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e39637">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
-               <title resp="#staud" xml:lang="lat">CHRISIPPUS PAEDAGOGOUS</title>
+
+               <title resp="#staud" xml:lang="lat">CHRISIPPUS <sic>PAEDAGOGOUS</sic> <corr resp="#NJ">paedagogus</corr></title>
                <title xml:lang="hrv">Hrizip</title>
                <note ana="tema" corresp="povijest"><term>Rim</term>; <term> osvajanje
                   Faliska</term>; <term> Falerij</term>; <persName ref="#croala.drama.371111"
@@ -20222,7 +20172,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e39790">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title xml:lang="lat" resp="#staud">PAULUS SAMOZATENUS</title>
                <title xml:lang="hrv">Pavao Samozatski, poznati krivovjerac u doba kraljice
                   Zenobije</title>
@@ -20346,7 +20296,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e40031">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title xml:lang="lat" resp="#staud">ROBOAMUS CUM DEO CONCILIATUS</title>
                <title xml:lang="hrv">Roboam</title>
                <note ana="tema" corresp="kršćanstvo.Biblija"><term>Stari Zavjet</term>; <term> Prva knjiga o
@@ -20458,7 +20408,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e40250">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">JOACHIMUS</title>
                <title xml:lang="hrv">Joakim</title>
                <note ana="tema" corresp="kršćanstvo.Biblija"><term>Stari Zavjet</term>; <term> Druga knjiga o
@@ -20539,9 +20489,9 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e40420">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
-               <title resp="#staud" xml:lang="lat">CHEDEMUM DETRUSO E SOLIO SELIMO</title>
-               <title xml:lang="hrv">Kedem od Selima otjeran s prijestolja</title>
+
+               <title resp="#staud" xml:lang="lat"><sic>CHEDEMUM</sic> DETRUSO E SOLIO SELIMO</title>
+               <title xml:lang="hrv">Kedem <sic>od Selima otjeran s prijestolja</sic></title>
                <note ana="tema" corresp="povijest"><term>Turska</term>; <term> vladari</term>;
                      <persName ref="#croala.drama.361358">Kedem</persName>i<persName
                      ref="#croala.drama.361361">Selim</persName>
@@ -20693,7 +20643,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e40740">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">MITHRIDATES</title>
                <title xml:lang="hrv">Mitridat</title>
                <note ana="tema" corresp="povijest"><term>Mala Azija</term>; <term> Pont</term>;
@@ -20767,7 +20717,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e40897">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">PLEUSIS</title>
                <title xml:lang="hrv">Pleuzid, koga je mati mazila i zlo odgojila</title>
                <note ana="tema" corresp="poduka"><term>Odgoj, obrazovanje i moral</term>; <persName
@@ -20841,7 +20791,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e41057">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">UCUNDUS</title>
                <title xml:lang="hrv">Ukundo koji je s opasnošću života pomogao majci svojoj</title>
                <note ana="tema" corresp="poduka"><term>Odgoj, obrazovanje i moral</term>; <persName
@@ -20876,7 +20826,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e41132">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">ANTIOCHUS</title>
                <title xml:lang="hrv">Antioh kako pomoću Trifonovom zavlada Sirijom</title>
                <note ana="tema" corresp="kršćanstvo.Biblija"><term>Stari Zavjet</term>; <term> Prva knjiga o
@@ -21174,7 +21124,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e41727">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">MITHRIDATES AC DEMETRIUS</title>
                <title xml:lang="hrv">Mitridat i Demetrije</title>
                <note ana="tema" corresp="povijest"><term>Mala Azija</term>; <term> Pont</term>;
@@ -21216,7 +21166,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e41817">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">SCIPIO JUNIOR</title>
                <title xml:lang="hrv">Scipion mlađi</title>
                <note ana="tema" corresp="povijest"><term>Rim</term>; <persName
@@ -21247,7 +21197,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e41883">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title xml:lang="lat" resp="#staud">SELEUCUS</title>
                <title xml:lang="hrv">Seleuk</title>
                <note ana="tema" corresp="povijest">
@@ -21402,7 +21352,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e42214">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">ARTAXERXES</title>
                <title xml:lang="hrv">Artakserkso</title>
                <note ana="tema" corresp="povijest"><term>Perzija</term>; <term> vladari</term>;
@@ -21633,7 +21583,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1758.andreas.corsinus">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">ANDREAS CORSINUS</title>
                <title xml:lang="hrv">Sv. Andrija Corsini</title>
                <title xml:lang="hrv">Andrej Korsin</title>
@@ -21680,7 +21630,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e42804">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">TITUS MANLIUS</title>
                <title xml:lang="hrv">Tit Manlije</title>
                <note ana="tema" corresp="povijest"><term>Rim</term>; <persName
@@ -21752,7 +21702,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e42949">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">ZIZIMUS</title>
                <title xml:lang="hrv">Zizim</title>
                <note ana="tema" corresp="povijest"><term>Turska</term>; <term> vladari</term>;
@@ -21958,7 +21908,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e43379">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">DINDIMUS CIMBERIAE THRONO IMPOSITUS</title>
                <title xml:lang="hrv">Dindim postavljen na prijestolje Danske</title>
                <note ana="tema" corresp="povijest"><term>Danska</term>; <term>Legende</term>;
@@ -22054,7 +22004,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1759.gideon">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">GEDEON</title>
                <title xml:lang="hrv">Gedeon koji je srušio Balov oltar sazidan od oca njegova i
                   spasio Izrael od Madijanićana</title>
@@ -22162,9 +22112,10 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1759.justus.pastor">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
-               <title xml:lang="hrv">Postojanost Justa i Pastora</title>
+               
                <title xml:lang="lat" resp="#staud">JUSTI ET PASTORIS CONSTANTIA</title>
+               <title xml:lang="hrv">Postojanost Justa i Pastora</title>
+               
                <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <persName
                      ref="#croala.drama.328822">Sveti Just</persName>i <persName
                      ref="#croala.drama.365583">Pastor</persName>
@@ -22201,7 +22152,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e43890">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title xml:lang="lat" resp="#staud">THEMISTOCLES</title>
                <title xml:lang="hrv">Temistoklo</title>
                <note ana="tema" corresp="povijest"><term>Grčka</term>; <persName
@@ -22235,7 +22186,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e43967">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">JOACHAZUS</title>
                <title xml:lang="hrv">Udes kralja Joahaza</title>
                <title xml:lang="hrv">Joahaz</title>
@@ -22557,9 +22508,9 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e44660">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">ULTIMA ACTIO</title>
-               <title xml:lang="hrv">Posljedni čin</title>
+               <title xml:lang="hrv">Posljednji čin</title>
                <date when="1760" period="17xx_2_third"> 1760. </date>
                <placeName ref="3188383" type="geonames">Varaždin</placeName>
                <address>
@@ -22910,7 +22861,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e45401">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">CLEANTUS</title>
                <title xml:lang="hrv">Kleant</title>
                <note ana="tema" type="nn">
@@ -23106,7 +23057,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e45808">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">ALMUS DE CUMANIS TRIUMPHANS</title>
                <title xml:lang="hrv">Almoš, pobjedink Kumanaca</title>
                <title xml:lang="hrv">Almo pobjeđuje Kumance</title>
@@ -23248,7 +23199,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e46096">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">DEMETRIUS IN REGNUM REPOSITUS</title>
                <title xml:lang="hrv">Demetrije ponovno postavljen na kraljevsko prijestolje</title>
                <note ana="tema" corresp="povijest"><term>Seleukidi</term>; <persName
@@ -23317,7 +23268,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e46240">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">PUNITA JOVINIANI ARROGANTIA</title>
                <title xml:lang="hrv">Kažnjena Jovinijanova drskost</title>
                <note ana="tema" corresp="povijest"><term>Rim</term>; <term> vladari</term>;
@@ -23389,7 +23340,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e46394">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">FRAUDES DAEMONIS</title>
                <title xml:lang="hrv">Šala o krivom dukatu</title>
                <title xml:lang="hrv">Đavolje varke</title>
@@ -23569,7 +23520,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1763.s.genoveva">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">GENOVEFA</title>
                <title xml:lang="hrv">Genoveva Brabantska</title>
                <note ana="tema" corresp="povijest"><term>Legende</term>; <persName
@@ -23666,7 +23617,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e46991">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">CYRUS REX</title>
                <title xml:lang="hrv">Kir od pastira kralj</title>
                <title xml:lang="hrv">Kralj Kir</title>
@@ -23703,7 +23654,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e47073">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">PRAEPOSTERUM PARENTUM IN LIBEROS AMOR</title>
                <title xml:lang="hrv">Kriva ljubav k djeci</title>
                <title xml:lang="hrv">Ljubav naopakih roditelja prema djeci</title>
@@ -23778,7 +23729,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e47236">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">RAYNALDUS</title>
                <title xml:lang="hrv">Rajnald, kako se vratio na stazu kreposti</title>
                <note ana="tema" corresp="poduka"><term>Odgoj, obrazovanje i moral</term>; <persName
@@ -23893,7 +23844,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e47492">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">ALEXIS</title>
                <title xml:lang="hrv">Aleksis</title>
                <note ana="tema" type="nn">
@@ -24044,7 +23995,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e47804">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">SIROËS</title>
                <title xml:lang="hrv">Siroe, sin Kozroe II</title>
                <title xml:lang="hrv">Siroj</title>
@@ -24152,7 +24103,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1765.edmund">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">EDMUNDUS</title>
                <title xml:lang="hrv">Edmund kako je skinuo s ruke prsten i prikazao ga svetoj
                   Bogorodici</title>
@@ -24211,7 +24162,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1765.zenobia">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">ZENOBIA</title>
                <title xml:lang="hrv">Tragična sudbina palmirske kraljice Zenobije</title>
                <note ana="tema" corresp="povijest"><term>Sirija</term>; <term> Palmira</term>;
@@ -24246,7 +24197,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1766.justin.adrast">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">JUSTINUS AB ADRASTO EREPTUS</title>
                <title xml:lang="hrv">Adrast spašava Justina</title>
                <note ana="tema" type="nn">
@@ -24392,7 +24343,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1766.osiris.adrast">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">OSYRIS ET ADRASTUS</title>
                <title xml:lang="hrv">Osiris i Adrast</title>
                <note ana="tema" type="nn">
@@ -24462,7 +24413,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.1766.teodor.pustinjak">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">THEODORUS</title>
                <title xml:lang="hrv">Teodor pustinjak</title>
                <note ana="tema" corresp="kršćanstvo"><term>Sveci</term>; <persName
@@ -24749,7 +24700,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e49322">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">CAROLUS REX SAXONIAE</title>
                <title xml:lang="hrv">Bojevi Karla Velikog s poganskim Sasima</title>
                <note ana="tema" corresp="povijest"><term>Europa</term>; <term> vladari</term>;
@@ -24899,7 +24850,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e49637">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">PLAUTINI SALES</title>
                <title xml:lang="hrv">Šaljiva predstava izvedena 1768.</title>
                <note ana="žanr" corresp="šaljiva predstava"/>
@@ -25114,7 +25065,7 @@
             </bibl>
             <bibl type="drama" xml:id="croala.drama.d1e50086">
                <author ref="#nn">Anonimno</author>
-               <title xml:lang="lat"/>
+
                <title resp="#staud" xml:lang="lat">LUDI PASTORITII</title>
                <title xml:lang="hrv">Pastirske igre izvedene 1769.</title>
                <note ana="žanr" corresp="pastirska igra"/>
