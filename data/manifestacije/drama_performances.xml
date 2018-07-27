@@ -2111,7 +2111,7 @@
                </place>
             </place>
          </listPlace>
-         <listBibl type="croala.drama">
+         <listBibl type="croala.drama.libri">
 
             <biblStruct xml:id="croala.dramabib.tisakd1e17926">
                <monogr>
@@ -2388,7 +2388,7 @@
                      <note>(73-90)</note>
                   </msItem>
                   <msItem>
-                     <title><sic>Hencricus</sic> Vili tugurio Regale ad Solium mire evectus </title>
+                     <title><sic>Hencricus</sic> <corr resp="#NJ">Henricus</corr> Vili tugurio Regale ad Solium mire evectus </title>
                      <note>(91-109)</note>
                   </msItem>
                </msContents>
@@ -23460,6 +23460,7 @@
                <author>
                   <persName ref="#croala.drama.374278">D'Aragon, Sanseverino</persName>
                </author>
+               <title xml:lang="lat">Cyrus <supplied resp="#NJ">in</supplied> Babilone</title>
                <title xml:lang="tal">Ciro in Babilonia</title>
                <title xml:lang="hrv">Kir u Babiloniji</title>
                <note ana="tema" corresp="povijest"><term>Perzija</term>; <term> vladari</term>;
@@ -23478,7 +23479,7 @@
                <note type="sadržaj"> Predstava je izvedena na latinskom jeziku. </note>
                <note type="testimonium">
                   <quote>Cyrus Babilone acta a rhetoribus magnam commendationem actoribus,
-                     praecipuanum vero Sanseverino auctori peperit</quote>
+                     <sic>praecipuanum</sic> <corr resp="#NJ">praecipuam</corr> vero Sanseverino auctori peperit</quote>
                   <bibl corresp="#vanino1987">Vanino 198</bibl>
                   <bibl corresp="#vanino1987">LAPA 1763, ARSI – Austr. 218, f. 61 r.)</bibl>
                   <bibl corresp="#vanino1987"/>
