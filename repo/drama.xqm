@@ -307,7 +307,9 @@ declare function drama:titletable($collection, $col1, $col2, $col3, $col4){
 (: Latin words for missing title :)
 declare function drama:ignoratur($d){
   let $placeholder := "TITULUS IGNORATUR"
-  let $naslov := if ($d/*:title[1]/string()) then $d/*:title[string()] else $placeholder
+  let $naslov := if ($d/*:title[1]/string()) then $d/*:title[string()] 
+  else if ($d/*:monogr/*:title[1]/string()) then $d/*:monogr/*:title[string()]
+  else $placeholder
   return $naslov
 };
 
