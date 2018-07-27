@@ -6053,29 +6053,7 @@
                </relatedItem>
                <ref>RHK 163</ref>
             </bibl>
-            <bibl type="drama" xml:id="croala.drama.d1e10438a">
-               <title xml:lang="lat">Juventus in theatro exercenda</title>
-               <note ana="tema" corresp="kršćanstvo"><term>Poduka</term></note>
-               <note ana="žanr" resp="#fancev1937" corresp="excercitatio"/>
-               <date when="1697" period="16xx_3_third"> 1697. </date>
-               <placeName type="geonames" ref="3186886">Zagreb</placeName>
-               <address>
-                  <name ref="#zagreb001">Đačko kazalište isusovačke gimnazije u Zagrebu</name>
-               </address>
-               <note type="izvođač">
-                  <orgName ref="#org001">Đaci isusovačke gimnazije u Zagrebu</orgName>
-               </note>
-               <note corresp="testimonium">
-                  <quote>Humaniorum professores juventutem in theatro exercuere quaterni, Rhetor
-                     scilicet et Poeta, Grammatista et Principista, omnes non sine laude.</quote>
-                  <bibl>Fancev 1937, 131</bibl>
-               </note>
-               <relatedItem>
-                  <listBibl>
-                     <bibl corresp="#fancev1937">Fancev 1937</bibl>
-                  </listBibl>
-               </relatedItem>
-            </bibl>
+            
             <bibl type="drama" xml:id="croala.drama.d1e10438">
                <author ref="#nn">Anonimno</author>
                <title xml:lang="lat">Post bellum pax sub trophaeo crucis</title>
@@ -26108,6 +26086,11 @@
                      scilicet et Poëta, Grammatista et Principista omnes non sine laude.</quote>
                   <bibl>(HCZagr. Cod. Ab 130, I. 1697. 224. v. - LAW Cod. 12093, 1697. 33. v. - LAR
                      Cod. Austr. 155, 1697. 53.r.) </bibl>
+               </note>
+               <note corresp="testimonium">
+                  <quote>Humaniorum professores juventutem in theatro exercuere quaterni, Rhetor
+                     scilicet et Poeta, Grammatista et Principista, omnes non sine laude.</quote>
+                  <bibl>Fancev 1937, 131</bibl>
                </note>
                <relatedItem>
                   <listBibl>
