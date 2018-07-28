@@ -35,13 +35,21 @@ In hanc regionem venit Societas Jesu anno 1559 (millesimo quingentesimo undesexa
 
 *** Narratio: quid, quando, ubi, quot?
 
-Nunc ad ipsa dramata veniamus! Explanabo paginas in rete ostendens, ubi praeterea notitias nostras et vos invenire et studiosius pertractare potestis. Notitias de libris impressis et manu scriptis e bibliographiis et catalogis collegimus; numerus librorum re vera minimus est, non sunt plus quam undecim.
+Nunc ad ipsa dramata veniamus! Explanabo paginas in rete ostendens, ubi praeterea notitias nostras et vos invenire et studiosius pertractare potestis. 
 
 *Pagina* http://croala.ffzg.unizg.hr/basex/dramalibri
 
-E fontibus autem secundariis -- quandoque et tertiariis, cuius Latinitas non est optima -- hausimus notitias de ludis dramaticis numero sescentis octoginta septem (687).
+Notitias de libris impressis et manu scriptis e bibliographiis et catalogis collegimus; numerus librorum re vera minimus est, non sunt plus quam undecim; inter eos tres periochae, et tres libri publici iuris facti extra Croatiam; horum librorum dramata, a Croatis scripta, extra Croatiam producta sunt -- unde videmus quam angusti sint fines nationum cum res agatur de litteris Neo-Latinis.
 
 *Pagina* http://croala.ffzg.unizg.hr/basex/dramachrono2
+
+E fontibus autem secundariis -- quandoque et tertiariis, cuius Latinitas non est semper optima -- hausimus notitias de ludis dramaticis numero sescentis octoginta septem (687). Eas notitias redegimus cum in ordinem chronologicum, tum in ordinem alphabeticum. Possumus etiam inspicere dramata annis singulis exhibita, exempli gratia anno 1754 (millesimo septingentesimo quinquagesimo quarto), sive in tempore plures annos complectente, exempli gratia decem annos ab 1650 usque ad 1659, sive duo decennia ab 1720 usque ad 1739.
+
+Ut rem altius perspiceremus, ordinem chronologicum dramatum etiam in imagines vertimus, saecula septimum decimum et octavum decimum complectentia (ante hoc tempus, sicut et post, dramata occurrunt paucissima et dissipata). 
+
+Deinceps res duas intellegimus: 
+
+
 
 
 
@@ -93,6 +101,7 @@ Alibi inventa
 croala.drama.1651.s.galikan
 
 ** curiosa
++ disputatio historicorum: nota marginalis 1711, croala.drama.d1e14586
 + Erasmus Montanus
 + Menecrates medicus ex Athenaeo
 + De Turcis allegorice sub specie Tantali
