@@ -556,3 +556,12 @@ else element div {
   element p { "Nullum drama in libris inventum." }
 }
 };
+
+(: a page for each drama :)
+declare function drama:dramatitlepage2($collection, $dramaid) {
+  let $i := collection($collection)//*:listBibl[@type="croala.drama"]/*:bibl[@xml:id=$dramaid]
+  return element div {
+    attribute class { "dramainfo"},
+    $i
+  }
+};
