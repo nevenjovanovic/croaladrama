@@ -130,6 +130,18 @@ element html { drama:htmlhead_drama($title) ,
   
    <h1><span class="fas fa-archive" aria-hidden="true"></span> Thematice</h1>
    
+   { element h2 {
+      element span {
+       attribute class { "fas fa-user-circle" },
+       attribute aria-hidden { "true" }
+       } , 
+       element span { " "} ,
+     element a { 
+     attribute href { "http://croala.ffzg.unizg.hr/basex/dramaheroes" } , 
+     "Heroes in dramatibus"
+   }
+ } }
+   
    { element h1 {
       element span {
        attribute class { "fas fa-file-alt" },
