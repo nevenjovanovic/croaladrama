@@ -6,6 +6,7 @@
 \definecolor{links}{HTML}{2A1B81}
 \hypersetup{colorlinks,linkcolor=,urlcolor=links}
 \usetheme[numbering=none]{metropolis}           % Use metropolis theme
+\setmainfont{Gentium}
 \setsansfont{Gentium}
 \hyphenation{me-mo-ra-bi-li-um}
 \title{De corpore dramatum Latinorum in Croatia actorum restituendo}
@@ -17,21 +18,21 @@
   
 
 
-\begin{frame}
-\tableofcontents
-\end{frame}
+%% \begin{frame}
+%% \tableofcontents
+%% \end{frame}
 
 \section{Prooemium: De dramatum in Croatia ignorantia et notitia}
 
 \begin{frame}
-  In Croatia ab anno 1525 usque ad annum 1805 plus quam sescentae actiones Latinas in scaena productae sunt.
+  In Croatia ab anno 1525 usque ad annum 1805 plus quam sescentae actiones Latinae in scaena productae sunt.
 \end{frame}
 
 \begin{frame}
-  Ubi id factum sit, et quorum ope?
-  Qui libri impressi et manu scripti exsistunt?
-  Qui dramatum tituli?
-  Quid spectatores de actionibus iudicaverint?
+  Ubi id factum sit, et quorum ope?\\
+  Qui libri impressi et manu scripti exsistunt?\\
+  Qui dramatum tituli?\\
+  Quid spectatores de actionibus iudicaverint?\\
 \end{frame}
 
 \begin{frame}
@@ -70,11 +71,13 @@ Argumentatio: quomodo distinxerimus res de quibus fabulae agantur?
 
 \section{Prooemium: De ignorantiae quattuor causis}
 
-\begin{frame}
-  textus dramatum deperditi
-  dramata in scholis exhibita
-  deest Auctor
-  religio et ecclesia suspectae
+\begin{frame}{Ignorantiae causae}
+  \begin{itemize}
+  \item textus dramatum deperditi
+  \item dramata in scholis exhibita
+  \item deest Auctor
+  \item religio et ecclesia suspectae
+  \end{itemize}
   
 \end{frame}
 
@@ -95,24 +98,24 @@ Argumentatio: quomodo distinxerimus res de quibus fabulae agantur?
     }
 
 
-\begin{frame}[Croatia inter tres aut quattuor dominationes divisa]
+\begin{frame}{Croatia inter dominationes divisa}
 
-  Res publica Venetorum
-  Provinciae hereditariae regni Austriaci
-  Ottomanicum imperium
-  Res publica Ragusina
-  Regnum Croatiae, Regnum Slavoniae
-
+  \begin{itemize}
+  \item Res publica Venetorum
+  \item Provinciae hereditariae regni Austriaci
+  \item   Ottomanicum imperium
+  \item   Res publica Ragusina
+  \item   Regnum Croatiae, Regnum Slavoniae
+  \end{itemize}
 \end{frame}
 
 
 \begin{frame}{Societas Jesu in Croatia}
-
-\alert{1559} venerunt Ragusam
-
-\alert{1604–1698} fundaverunt collegia Ragusae, Zagrabiae, Fluminis S. Viti (Rijeka), Varasdini, Posegae
-
-\alert{1773} suppressio ordinis
+\begin{itemize}
+  \item \alert{1559} venerunt Ragusam
+  \item \alert{1604–1698} fundaverunt collegia Ragusae, Zagrabiae, Fluminis S. Viti (Rijeka), Varasdini, Posegae
+  \item \alert{1773} suppressio ordinis
+\end{itemize}
 \end{frame}
 
 {
@@ -127,18 +130,23 @@ Argumentatio: quomodo distinxerimus res de quibus fabulae agantur?
 \section{Narratio: quid, quando, ubi, quot?}
 
 
-
+{
+    \usebackgroundtemplate{\includegraphics[width=\paperwidth]{img/illyricum_urb.png}}
+    \setbeamertemplate{navigation symbols}{}
+    \begin{frame}[plain]
+    \end{frame}
+    }
 
 \section{Argumentatio: unde et quomodo notitias hauserimus?}
 
-\begin{frame}[Bibliographiae]
+\begin{frame}{Bibliographiae}
 
 Martina Petranović and Lucija Ljubić. \emph{Repertoar hrvatskih kazališta : Knjiga peta : Deskriptivna obrada važnijih predstava na hrvatskom jeziku i izvedbi na stranim jezicima hrvatskih izvođača do 1840. godine}, Zagreb 2012.
 
 Staud, Géza. \emph{A magyarországi jezsuita iskolai színjátékok forrásai, III. : 1561-1773, Fontes ludorum scenicorum in scholis S. J. Hungariae, pars tertia}, Budapest 1988.
 
 \end{frame}
-\begin{frame}[Historiae]
+\begin{frame}{Historiae}
 
 Fancev, Franjo, Građa za povijest školskog i književnog rada
 isusovačkoga kolegija u Zagrebu. Starine. Knj. 37. Jugoslavenska
@@ -150,48 +158,22 @@ akademija znanosti i umjetnosti, Zagreb 1937.
 
 \end{frame}
 
-\section{Methods}
+\begin{frame}{E libris in computatrum}
 
-\begin{frame}
-
-An XML file holding records of performances.
-
-An XML database with recorded searches.
-
-A version-controlled repository with data, scripts, and documentation: \href{https://github.com/nevenjovanovic/croaladrama}{github.com/nevenjovanovic/croaladrama}.
-
-The repository is freely available, can be updated, enhanced, integrated into larger collections.
-
-\end{frame}
-
-\section{Findings}
-
-\begin{frame}{Findings}
-
-The database holds records on \alert{686} performances in 1607–1805.
-
-There are \alert{19} performances (2.6 percent) whose titles have to do with Japan.
-
-\end{frame}
-
-\begin{frame}{Findings}
-
-The plays on Japan were performed during the 133 years between 1628 and 1761. 
-
-They were performed in Jesuit colleges of the four cities:\\
-\alert{Zagreb} (established 1606)\\
-\alert{Varaždin} (Jesuits present from 1632, college established 1678)\\
-\alert{Rijeka} (college established 1627)\\
-\alert{Požega} (college established 1698).
+Verba librorum > XML > receptaculum datorum > quaestiones XQuery
 
 \end{frame}
 
 {
-    \usebackgroundtemplate{\includegraphics[width=\paperwidth]{img/illyricum_urb.png}}
+    \usebackgroundtemplate{\includegraphics[width=\paperwidth]{img/drama_github.png}}
     \setbeamertemplate{navigation symbols}{}
     \begin{frame}[plain]
     \end{frame}
     }
+
+
+
+
 
 
 
