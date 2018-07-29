@@ -77,7 +77,7 @@ element html { drama:htmlhead_drama($title) ,
 
       <div class="container-fluid col-xs-8 col-md-offset-1">
       <blockquote class="croala">
-      <h1>Notitiae de dramate { $annus } inventae.</h1>
+      <h1>Notitiae de dramate { $dramaid } inventae.</h1>
  {
    drama:dramatitlepage2($collection, $dramaid)
  }
