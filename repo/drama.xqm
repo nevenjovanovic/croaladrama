@@ -593,5 +593,45 @@ return element a {
 
 (: from person ref to name :)
 declare function drama:fromRefToName($ref){
-  $ref
+  let $record := collection("croaladrama_personae_db")//*:listPerson[@type="croala.personae.fictae"]/*:person[@xml:id=substring-after($ref, "#")]
+  return $record
+};
+
+declare function drama:personstable($collection){
+  (: find all persName elements in bibl/note :)
+  (: return result as tr / td :)
+let $names :=
+drama:personslist($collection)
+for $n in $names
+let $ref := $n/@ref
+group by $ref
+let $plays := distinct-values($n/@xml:id)
+order by count($plays) descending
+return element tr { 
+  element td { normalize-space(drama:fromRefToName($ref)/*:persName[1]/string()) } , 
+  element td { count($plays) } , 
+  element td { 
+    for $p in $plays
+    return drama:fromTitleToRecord($collection, $p) }
+}
+};
+
+declare function drama:makeheroesstable($collection) {
+  if ( drama:personstable($collection) ) then
+  element table {
+    (: attribute class {"table"}, :)
+  element thead {
+    element tr {
+      element th { "Heros "},
+      element th { "Occurrit in dramatibus" },
+      element th { "Dramatum tituli" }
+    }
+  } ,
+  element tbody { 
+  drama:personstable($collection)
+}
+}
+else element div {
+  element p { "Nulli heroes in dramatibus inventi." }
+}
 };
