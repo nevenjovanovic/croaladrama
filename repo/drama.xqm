@@ -565,3 +565,33 @@ declare function drama:dramatitlepage2($collection, $dramaid) {
     $i
   }
 };
+
+(: return list of persons annotated as thema in each play :)
+declare function drama:personslist($collection){
+  let $names :=
+for $d in collection($collection)//*:listBibl[@type="croala.drama"]/*:bibl[*:note[@ana="tema" and *:persName]]
+for $persname in $d/*:note[@ana="tema"]/*:persName[@ref]
+return element pers { 
+$d/@xml:id , $persname/@ref , normalize-space($persname/string()) }
+return $names
+};
+
+(: from id to title :)
+declare function drama:idToTitle($collection, $p){
+  for $t in collection($collection)//*:listBibl[@type="croala.drama"]/*:bibl[@xml:id=$p]/*:title[1] return $t
+};
+
+(: link from title to record :)
+declare function drama:fromTitleToRecord($collection, $p){
+  let $title := drama:idToTitle($collection, $p)
+return element a {
+  attribute href { "http://croala.ffzg.unizg.hr/basex/dramasingulare/" || $p  },
+  if (not($title/string())) 
+  then "Titulus ignoratur" 
+  else normalize-space($title/string()) }
+};
+
+(: from person ref to name :)
+declare function drama:fromRefToName($ref){
+  $ref
+};
