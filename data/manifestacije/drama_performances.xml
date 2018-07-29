@@ -5903,6 +5903,18 @@
                   <bibl>(HCZagr. Cod. Ab 130, I. 1693. 214. v. - LAW Cod. 12089, 1693. 29. v. - LAR
                      Cod. Austr. 151. II. 1693. 47.p.)</bibl>
                </note>
+               <note type="testimonium">
+                  <quote>Prodierunt in scenas leviore socco Poesis et Rhetorica, singulae quinques,
+                     et suprema grammaticae semel cothurnata; singulae cum debita laude et
+                     audientium approbatione. Prodiit quoque sub finem anni scholastici ante
+                     ecclesiam nostram in publicum tragoedia, assumpto in argumentum Alvaro Luna in
+                     fortunae suo plenilunio eclipsim passo, in qua ex liberalitate et munificentia
+                     Alexandri Ignatii Mikulić, episcopi Zagrabiensis, erectum de novo cum suis
+                     scenis comicoque agentium ornatu theatrum, et condigna mecoenatis tanti
+                     favoribus juventuti scholasticae de re litteraria bene meritae praemia fuerunt
+                     distributa.</quote>
+                  <bibl type="staud" corresp="#fancev1934">Fancev 1934, 127</bibl>
+               </note>
                <note type="criticum" resp="#NČ">Staud kaže da su izvođači bili đaci poetike i
                   retorike, a RHK da su to bili đaci isusovačke gimnazije u Zagrebu.</note>
                <relatedItem>
@@ -5918,6 +5930,13 @@
                      <bibl corresp="#vanino1969">Vanino 1969</bibl>
                      <bibl corresp="#ljubić2004">Ljubić 2004</bibl>
                      <bibl corresp="croala">Croala</bibl>
+                     <bibl type="comparandum">
+                        <ref
+                           target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10885920-5"
+                           >Hogglmann, Johann Matthäus. Eclipsis Lunae Seu Alvarus De Luna :
+                           Tragoedia Jngolstadt, Schleig: 1735. Signatur: 7374007 Res/4 Bavar.
+                           2196,IV,1/73#Beibd.37 7374007 Res/4 Bavar. 2196,IV,1/73#Beibd.3</ref>
+                     </bibl>
                   </listBibl>
                </relatedItem>
                <ref>RHK 159</ref>
