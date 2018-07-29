@@ -79,7 +79,7 @@ element html { drama:htmlhead_drama($title) ,
        attribute class { "fas fa-user-circle" },
        attribute aria-hidden { "true" }
        } , 
-       element span { " Heroes dramatum inventi sunt " || count(drama:makeheroesstable($collection)) || "."}
+       element span { " Heroes dramatum inventi sunt " || count(drama:personstable($collection)) || "."}
    } }
       <blockquote class="croala">
       

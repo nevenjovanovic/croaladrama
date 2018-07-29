@@ -612,7 +612,7 @@ return element tr {
   element td { count($plays) } , 
   element td { 
     for $p in $plays
-    return drama:fromTitleToRecord($collection, $p) }
+    return element p { drama:fromTitleToRecord($collection, $p) } }
 }
 };
 
