@@ -143,7 +143,7 @@ element html { drama:htmlhead_drama($title) ,
    },
    element p {
      element a { 
-     attribute href {"http://croala.ffzg.unizg.hr/basex/dramasingulare/croala.drama.croala.drama.d1e7315"},
+     attribute href {"http://croala.ffzg.unizg.hr/basex/dramasingulare/croala.drama.d1e7315"},
      "croala.drama.d1e7315" }
    },
    element p {
