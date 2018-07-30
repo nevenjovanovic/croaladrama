@@ -127,6 +127,36 @@ element html { drama:htmlhead_drama($title) ,
      attribute href {"http://croala.ffzg.unizg.hr/basex/dramaloca"} , "omnia" }
       } }
    { drama:orderplacesabc($collection) } 
+   
+   { element h1 {
+      element span {
+       attribute class { "fas fa-fingerprint" },
+       attribute aria-hidden { "true" }
+       } , 
+       element span { " "} ,
+     "Dramata per symbolos"
+   },
+   element p {
+     element a { 
+     attribute href {"http://croala.ffzg.unizg.hr/basex/dramasingulare/croala.drama.d1e10078"},
+     "croala.drama.d1e10078" }
+   },
+   element p {
+     element a { 
+     attribute href {"http://croala.ffzg.unizg.hr/basex/dramasingulare/croala.drama.croala.drama.d1e7315"},
+     "croala.drama.d1e7315" }
+   },
+   element p {
+     element a { 
+     attribute href {"http://croala.ffzg.unizg.hr/basex/dramasingulare/croala.drama.d1e14586"},
+     "croala.drama.d1e14586" }
+   },
+   element p {
+     element a { 
+     attribute href {"http://croala.ffzg.unizg.hr/basex/dramasingulare/croala.drama.d1e49768"},
+     "croala.drama.d1e49768" }
+   }
+ }
   
    <h1><span class="fas fa-archive" aria-hidden="true"></span> Thematice</h1>
    
