@@ -9,35 +9,55 @@ Hac ianua ingredientes corpus dramatum in Croatia actorum ex annalibus variis re
 ** Schema
 *** Prooemium: De dramatum ignorantia et notitia
 
-Si me quaesissetis ante quattuor annos de dramatibus in Croatia lingua Latina scriptis et in scaena exhibitis -- ut re vera me quaesierant Janus Bloemendael et Yasmin Haskell -- parum aut nihil vobis respondissem. Hodie tamen scimus in Croatia ab anno 1525 (millesimo quingentesimo vicesimo quinto) usque ad annum 1805 (millesimum octingentesimum quintum) plus quam sescentas actiones Latinas in scaena productas esse; scimus ubi id factum sit, et quorum ope; scimus libros impressos et manu scriptos; scimus titulos plurimos, et saepe scimus quid spectatores de actionibus iudicaverint. Videlicet vix expectaverunt dramata Latina in Croatia, ut invenirentur et in corpus restituerentur.
+Clarissimi collegae,
 
-De is ergo dramatibus hodie Albasiti mihi brevissime dicendum est. Primum tamen hoc proemium claudam causas ignorantiae nostrae explicando: quare de dramatibus Latinis in Croatia tam diu nihil sciverimus, seu scire voluerimus. Deinde, in narratione, de Croatia, quae terra et ubi, dicam. Tum ostendam dramatum numerum et frequentiam, productionum tempora et loca: ubi actiones plurimae, ubi pauciores exhibitae sint, ubi demum ipsa sua absentia praefulgeant. In argumentatione vero ostendam unde et quibus modis de dramatibus notitias hauriamus, et explicabo quomodo distinxerimus res fabularum. Postea legam vobiscum exempla notitiarum, ea typica sicut et curiosa, deinde producam exempla fabularum repetitarum, ipso tempore et loco, sive alibi in Croatia, sive alibi in orbe terrarum. Peroratio mea conclusiones quasdam offerret, et, quid porro faciendum et investigandum sit, proponet.
+*S2*
+
+si me quaesissetis ante quattuor annos de dramatibus in Croatia lingua Latina scriptis et in scaena exhibitis -- ut re vera me quaesierant Janus Bloemendal et Yasmin Haskell -- parum aut nihil vobis respondissem. *S3* Hodie tamen scimus in Croatia ab anno 1525 (millesimo quingentesimo vicesimo quinto) usque ad annum 1805 (millesimum octingentesimum quintum) plus quam sescentas actiones Latinas in scaena productas esse; *S4* scimus ubi id factum sit, et quorum ope; scimus libros impressos et manu scriptos; scimus titulos plurimos, et saepe scimus quid spectatores de actionibus iudicaverint. 
+
+Videlicet vix expectaverunt dramata Latina in Croatia, ut invenirentur et in corpus restituerentur.
+
+De is ergo dramatibus hodie Albasiti mihi brevissime dicendum est. *S5* Hoc proemium ipsum claudam causas ignorantiae nostrae explicando: quare de dramatibus Latinis in Croatia tam diu nihil sciverimus, seu nihil scire voluerimus. *S6* Deinde, in narratione, de Croatia, quae terra et ubi, dicam. *S7* Tum ostendam dramatum numerum et frequentiam, productionum tempora et loca: ubi actiones plurimae, ubi pauciores exhibitae sint, ubi demum ipsa sua absentia praefulgeant. *S8* In argumentatione vero ostendam unde et quibus modis de dramatibus notitias hauriamus, *S9* et explicabo quomodo distinxerimus res fabularum. *S10* Postea demonstrabo exempla notitiarum, ea typica sicut et curiosa; producam themata characteristica, et quare sint characteristica explanabo. *S11* Peroratio mea conclusiones quasdam offerret, et, quid porro faciendum et investigandum sit, proponet.
 
 *** Prooemium: De ignorantiae quattuor causis
+*S12*
 
 Nunc de ignorantiae nostrae causis. Viris doctis qui ante nos erant, qui de historia litteraria Croatica indaganda optime meriti sunt, visa sunt dramata Latina parvi seu nullius momenti quattuor de causis.
 
+*S13*
+
 *Primum*, textus dramatum deperditi sunt, paucissimos hodie legere possumus, ipsa ergo substantia rei litterariae deese videbatur.
 
-*Secundum*, dramata in scholis, a pueris exhibita sunt, ideo aestimabantur valuisse didactice plus quam artificiose -- et rei litterariae minus interest ut scholam, quam artem noverit.
+*Secundum*, dramata in scholis, a pueris exhibita sunt, ideo aestimabantur valuisse didactice plus quam artificiose -- cum rei litterariae minus interesset ut scholam, quam artem nosceret.
 
-*Tertium*, nomina auctorum perraro notabantur, deerat ergo Auctor, sine quo non est historia litteraria; nihilominus, cum dramata in scholis Iesuiticis producta sint, ubi saepe docuerint alienigenae, non Croatae, potest fieri ut auctores extra Croatia nati sint; at, pro historia litteraria nationali, extra natione nulla salus!
+*Tertium*, nomina auctorum perraro notabantur; deerat ergo Auctor, sine quo non est historia litteraria; nihilominus, cum dramata in scholis Iesuiticis producta sint, ubi saepe docuerint alienigenae, non Croatae, potest fieri ut auctores extra Croatiam nati sint; at, pro historia litteraria nationali, extra nationem nulla salus!
 
-*Quartum*, iam dixi dramata perplurimum in collegiis Societatis Iesu producta esse; itaque dum Croatia res publica foederata Iugoslaviae erat, in Iugoslavia autem ideologia socialistica, communistica, et marxistica dominabatur, tamdiu aliquantum suspiciosae, quandoque et odiosae erant partes eae quas in historia et in artibus liberalibus ecclesia et religio egissent.
+*Quartum*, iam dixi dramata perplurimum in collegiis Societatis Iesu producta esse; itaque dum Croatia res publica foederata Iugoslaviae erat, in Iugoslavia autem ideologia socialistica, communistica, et marxistica dominabatur, tamdiu suspectae, quandoque et odiosae erant partes eae quas in historia et in artibus liberalibus ecclesia et religio egissent.
 
-Nos autem gratias debemus imprimis amicis nostris Oenipontanis, quorum indagationes dramaticae nos incitaverunt ut nostram ipsam indagationis fortunam experiremur.
+*S14*
+
+Nos autem, qui post magistros nostros venimus, gratias debemus imprimis amicis nostris Oenipontanis, quorum indagationes dramaticae nos hortabantur ut nostram ipsam indagationis fortunam experiremur.
 
 *** Narratio: De Croatia saeculis XVI-XIX (brevissime)
 
-Ut theatrum Latinum in Croatia melius intelligamus, de Croatia ipsa, saeculis a sexto decimo usque ad undevicesimum, brevissime dicam. Erat Croatia tunc inter tres aut quattuor dominiones divisa: oram maritimam regebant Veneti et domus Austriaca, cum tamen Ragusa sive Dubrovnik res publica libera remaneret; magnas partes regionis internae occupabant Turcae, quos tandem Eugenius dux Sabaudiae e Slavonia usque ad Semlinum (hodie Zemun, in Serbia) expulsit anno 1718 (millesimo septingentesimo duodevicesimo); pars quae Militare confinium appellabatur sub regno domus Austriacae, pars autem sub nomine Regni Croatiae et Sclavoniae -- contines, inter alias urbes, Zagrabiam -- historice erat Regno Hungariae iuncta unione personali, ideoque sub corona Sancti Stephani, sed cum quadam autonomia, erat. Ergo: erat eo tempore Croatia regio parva, in confinio Imperii Ottomanici, inter multos dominos divisa.
+*S15*
 
-In hanc regionem venit Societas Jesu anno 1559 (millesimo quingentesimo undesexagesimo); Jesuitae in quattuor urbibus collegia fundaverunt, Ragusae, Zagrabiae, Fluminis Sancti Viti (quod hodie Rijeka appellatur), et Varasdini. Postquam Požega, in Slavonia, regno Turcico liberata est, anno 1699 ibi collegium quintum fundatum est. Collegia Croatica dministrabantur ut pars Provinciae Austriacae Societatis Jesu.
+Ut theatrum Latinum in Croatia melius intelligamus, de Croatia ipsa, *S16* quae nunc pars est Europae centralis-orientalis, saeculis a sexto decimo usque ad undevicesimum, brevissime dicam. *S17* Erat Croatia tunc inter tres aut quattuor dominiones divisa: oram maritimam regebant Veneti et domus Austriaca, cum tamen Ragusa sive Dubrovnik res publica libera remaneret; magnas partes regionis internae occupabant Turcae, quos tandem Eugenius dux Sabaudiae e Slavonia usque ad Semlinum (hodie Zemun, in Serbia) expulsit anno 1718 (millesimo septingentesimo duodevicesimo); pars quae Militare confinium appellabatur sub regno domus Austriacae, pars autem sub nomine Regni Croatiae et Sclavoniae -- continens, inter alia, Zagrabiam urbem -- historice erat Regno Hungariae iuncta unione personali, ideoque sub corona Sancti Stephani, sed cum quadam autonomia, erat. *S18* Ergo: erat eo tempore Croatia regio parva, in confinio Imperii Ottomanici, inter multos dominos divisa.
+
+*S19*
+
+In hanc regionem venit Societas Jesu anno 1559 (millesimo quingentesimo undesexagesimo); Jesuitae in quattuor urbibus collegia fundaverunt, Ragusae, Zagrabiae, Fluminis Sancti Viti (quod hodie Rijeka appellatur), et Varasdini. Postquam Požega, in Slavonia, regno Turcico liberata est, anno 1699 ibi collegium quintum fundatum est. *S20* Collegia Croatica dministrabantur ut pars Provinciae Austriacae Societatis Jesu.
 
 *** Narratio: quid, quando, ubi, quot?
+*S21*
 
-Nunc ad ipsa dramata veniamus! Explanabo paginas in rete ostendens, ubi praeterea notitias nostras et vos invenire et studiosius pertractare potestis. 
+Nunc ad ipsa dramata veniamus! Explanabo paginas in rete ostendens, ubi praeterea notitias nostras et vos ipsi invenire et studiosius et otiosius pertractare potestis.
+
+*S22*
 
 *Pagina* http://croala.ffzg.unizg.hr/basex/dramalibri
+
+*In pagina:*
 
 Notitias de libris impressis et manu scriptis e bibliographiis et catalogis collegimus; numerus librorum re vera minimus est, non sunt plus quam undecim; inter eos tres periochae, et tres libri publici iuris facti extra Croatiam; horum librorum dramata, a Croatis scripta, extra Croatiam producta sunt -- unde videmus quam angusti sint fines nationum cum res agatur de litteris Neo-Latinis.
 
@@ -47,54 +67,106 @@ E fontibus autem secundariis -- quandoque et tertiariis, cuius Latinitas non est
 
 Ut rem altius perspiceremus, ordinem chronologicum dramatum etiam in imagines vertimus, saecula septimum decimum et octavum decimum complectentia (ante hoc tempus, sicut et post, dramata occurrunt paucissima et dissipata). 
 
-Deinceps res duas intellegimus: 
+*S23* et *S24*
 
+Deinceps tria intellegimus: 
 
+*S24*
 
+Saeculo octavo decimo plura dramata exhibita sunt, pluribus locis et paene continuo -- adminus unum drama in scaena productum est ab anno 1697 (millesimo sescentesimo nonagesimo septimo) usque ad annum 1772 (millesimum septingentesimum septuagesimum secundum; anno ante suppressionem ordinis). 
 
+*S23*
 
-Ostendam in rete paginas.
+Deerat haec catena saeculo octavo septimo, cum dramata producerentur tantum Zagrabiae, Varasdini, Fluminis, et ter in missione Carolostadiensi.
 
+*S25*
 
-**** Quid
+His saeculis tamen praefulget absentia unius urbis: Ragusa est sive Dubrovnik, ubi valebat theatrum in lingua Croatica, ubi saeculo decimo sexto Plautus in schola legebatur, ubi collegium Jesuiticum fundatum est iam anno 1604; collegium erat pars provinciae Romanae societatis jesu. Quare absit omnis notitia de teatro scolastico Ragusae, nondum scimus; adhuc sub iudice lis est.
 
-Alibi scripta et exhibita
-Periochae conservatae
-In libris manu scriptis
-Notitiae de productione conservatae, in historiis collegiorum
+*S26*
 
-**** Quando et quot
+Ergo, ut vidimus, drama Latinum producebatur potissime Zagrabiae, Varasdini, Fluminis et -- ab anno 1723 -- Posegae; a fine saeculi septimi decimi usque ad annum 1772 adminus unum drama per annum exhibita notabatur.
 
-**** Ubi et quot
+*** Argumentatio: unde et quomodo sciamus
 
-De collegiis Croatiae et Slavoniae
-De Ragusa sine dramatibus
+*S27*
 
-**** Ubi et quando actiones plurimae / minimae
+Testimonia et notitias de dramatibus scholasticis praecipue e historiis et annuis collegiorum Societatis Jesu feminae et viri docti collegerunt et in lucem ediderunt.
 
-*** Argumentatio: unde et quomodo
+*S28*
 
-*** Argumentatio: de thematibus
+ Libri sunt praecipui duo bibliographiae, in Hungaria et in Croatia impressae, et *S29* duo excerptorum historiae collegii Zagrabiensis.
+
+*S30*
+
+Quae ibi inveniri possunt, exemplo docebimus (in inscriptione interretiali etiam symbolum singularem dramatis videre potestis):
+
+*Pagina* exemplum (paene) typicum: http://croala.ffzg.unizg.hr/basex/dramasingulare/croala.drama.d1e10078
+
+(Hic duo testimonia paulum inter se differunt; exstat periocha, quae in CroALa editur; *S31* exstat etiam liber impressus simillimi argumento, qui prodierat in lucem quadraginta annos post, Ingolstadii 1735.)
+
+*S32*
+
+Ut verba ex libris impressis in receptaculum datorum converteremus, notitias transcripsimus et in formam ita dictam XML vertimus; tum variae de datis reformatis quaestiones componendae erant lingua programmandi XQuery.
+
+*S33*
+
+Quod collegimus potestis invenire et materia nostra uti liberrime in repositorio interretiali Github.
 
 *** Argumentatio: exempla singula
+*S34*
 
-**** Exemplum typicum
+Sed nunc exempla singula notitiarum et dramatum brevissime ostendemus.
 
-**** Exempla curiosa
+*Exemplum primum* docet de successu dramatis. Nicolaus de Zrin, qui memoratur, non est heros Sigethi, sed eius progenies, Nicolaus ita dictus Septimus, qui poemata lingua Hungarica scripsit et anno 1664 in venatione occidit.
 
-**** Exempla productionis repetitae
+*Exemplum secundum* ostendit historicos -- auctores historiae collegii ipsius -- inter se dissidentes.
+
+*Exemplum tertium* notat productionem dramatis quod Erasmus Montanus nominabatur -- exstat drama auctoris Danici Ludovici Holbergii (1684–1754); quod drama, lingua Danica scriptum, primum in scaena producta a. 1747 esse videtur.
 
 **** Exempla thematis recurrentis
 
-In Croatia
-
-Alibi inventa
+Ut themata, atque ea recurrentia ostendamus, damus nomina personarum de quibus plura dramata acta sunt. Plures sunt sancti, sive personae Biblicae; sanctus Ivanus cum Croatia est coniunctissimus; vidimus et personas historicas -- Carolum (regem tertium, caesarem sextum) et Selimum sultanum Ottomanicum primum, ita dictum crudelem. Nexus in interrete ad notitias de dramatibus ducunt.
 
 *** Peroratio: Conclusiones
 
+Finem dicendi ut faciam, repetam brevissime drama Latinum in Croatia floruisse saeculis decimo septimo et decimo octavo, cum in collegiis Societatis Jesu plus quam sescenta dramata exhiberentur. Textus dramatum habemus paucos, sed notitias plurimas. Has notitias in receptaculum datorum collegimus, quod receptaculum in rete publicavimus. Et hoc tantum initium rerum investigandarum est.
+
 *** Peroratio: Comparanda
 
+Nunc, cum receptaculum notitiarum Croaticarum in computatro habemus, restat ut comparemus: frequentiam theatri Croatici cum theatro aliorum regnorum, utpote in Bohemia, Polonia, Austria et Germania; themata dramatum nostrorum cum illis alibi exhibitis: quae recurrerint? quae singularia fuerint?
+
 *** Peroratio: De corpore dramatum Latinorum Europae, sive etiam totius orbis?
+
+Hoc ut faciamus, opus erit, ut mihi videtur, corpore dramatum Latinorum -- et de eorum notitiarum -- quo Europa tota, sive etiam orbis totus complexus erit. Hoc corpus quis melius efficiet quam nos hic Albasiti frequentes?
+
+*** Materijal
+
+Abdolonymus
+Alexander et Porus rex Indorum
+Aloysius Gonzaga
+Andreas Corsinus
+Chosroes; Syroes
+Conradinus
+Flandria, Lydericus et filius
+Genovefa
+Landelinus
+Maximilianus Austriacus
+Mithridates et Demetrius I.
+Paulinus Nolanus
+Prusias rex
+Sanctus Chlodoaldus
+Sanctus Ivanus Croata
+Stanislaus Kostka
+Titus Manlius Torquatus
+Zenobia
+
+
+*** Argumentatio: de thematibus
+Iam inde possumus cogitare de thematibus...
+
+
+
 
 ** fontes dissident
 
@@ -110,24 +182,24 @@ croala.drama.1651.s.galikan
 + gratulatio tumultuaria croala.drama.d1e7315 1649 (testimonium vide)
 
 ** repetita
-Zenobia
-Alexander et Porus rex Indorum
-Tit Manlije Torkvat
-Mithridates et Demetrius I.
-Flandria, Lydericus et filius
-Prusias rex
 Abdolonymus
-Sanctus Ivanus Croata
+Alexander et Porus rex Indorum
+Aloysius Gonzaga
+Andreas Corsinus
 Chosroes; Syroes
 Conradinus
-Maximilianus Austriacus
-Andreas Corsinus
-Sanctus Chlodoaldus
-Aloysius Gonzaga
-Landelinus
+Flandria, Lydericus et filius
 Genovefa
-Stanislaus Kostka
+Landelinus
+Maximilianus Austriacus
+Mithridates et Demetrius I.
 Paulinus Nolanus
+Prusias rex
+Sanctus Chlodoaldus
+Sanctus Ivanus Croata
+Stanislaus Kostka
+Tit Manlije Torkvat
+Zenobia
 
 * quaestiones
 quae personae, regiones -- quot? quibus annis? in quibus locis?
